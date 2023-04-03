@@ -1,0 +1,45 @@
+---
+publishDate: 2018-11-06T02:08:00Z
+title: 'Can Amazon Wreck Havoc on Podcasting'
+description: Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
+excerpt: Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
+image: ~/assets/images/podwrecked.com-can-amazon-wreck-havoc-on-podcasting-960x400.png
+category: Big Tech
+tags:
+  - podcasting
+  - Amazon
+  - podcasts
+  - big tech
+canonical: https://waryankee.com/wy-overland-01-perspective
+---
+
+## Play Now
+
+<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+Podwrecked Ep.01
+
+## In This Episode
+
+- We talk about what Podwrecked is about
+- We explore reasons and solutions behind why podcasters Pause, Padfade, and eventually Podwreck
+- We give our perspectives on what we think the infamous "600,000 active podcasts" actually means
+- We get into what it would mean if Amazon suddenly started hosting podcasts
+
+## Tim-Radamus' Trend Forecast
+
+- Amazon will jump into the podcasting space in 2019.
+
+## Support the Show
+
+Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.
+
+We would greatly appreciate it if you could do two things for us:
+
+1. **FEEDBACK:** Send us a <a href="mailto:podwrecked@gmail.com" target="_blank">quick note of encouragement to us</a>. This keeps us going when times get tough!
+1. **VISIT:** If you enjoy this podcast, please consider visiting our website at <a href="https://podwrecked.com" target="_blank">podwrecked.com</a>!
+
+**Thank you for taking the time to listen. You are appreciated!**
+
+## Start Your Own Podcast
+
+Podwrecked is an Oncetold Production. If you need a partner in telling your podcast story, consider using <a href="https://oncetold.us" target="_blank">oncetold.us</a>.

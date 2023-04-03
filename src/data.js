@@ -61,14 +61,14 @@ export const headerData = {
     //     },
     //   ],
     // },
-    {
-      text: 'Books',
-      href: getPermalink('/books'),
-    },
-    {
-      text: 'Resources',
-      href: getPermalink('/resources'),
-    },
+    // {
+    //   text: 'Books',
+    //   href: getPermalink('/books'),
+    // },
+    // {
+    //   text: 'Resources',
+    //   href: getPermalink('/resources'),
+    // },
   ],
   actions: [{ type: 'button', text: 'Subscribe', href: 'https://podnews.net/podcast/i30o' }],
 };
@@ -81,8 +81,8 @@ export const footerData = {
         { text: 'Episodes', href: getBlogPermalink() },
         { text: 'About', href: getPermalink('/about') },
         { text: 'Support', href: getPermalink('/support') },
-        { text: 'Books', href: getPermalink('/books') },
-        { text: 'Resources', href: getPermalink('/resources') },
+        // { text: 'Books', href: getPermalink('/books') },
+        // { text: 'Resources', href: getPermalink('/resources') },
         { text: 'RSS Feed', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000029.rss' },
         { text: 'Find a Player', href: 'https://podnews.net/podcast/i30o' },
       ],
@@ -100,9 +100,9 @@ export const footerData = {
     {
       title: 'Support',
       links: [
-        { text: 'Buy Me Coffee', href: 'https://www.buymeacoffee.com/waryankee' },
-        { text: 'Buy A Book', href: './books' },
-        { text: 'American Battlefield Trust', href: 'https://battlefields.org' },
+        // { text: 'Buy Me Coffee', href: 'https://www.buymeacoffee.com/waryankee' },
+        // { text: 'Buy A Book', href: './books' },
+        // { text: 'American Battlefield Trust', href: 'https://battlefields.org' },
         { text: 'Review the Show', href: 'https://podcasts.apple.com/us/podcast/war-yankee-overland/id1522169260' },
       ],
     },
