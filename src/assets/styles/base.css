@@ -11,12 +11,33 @@
     color: var(--aw-color-text-muted);
   }
 
+  .text-highlight {
+    color: #345868;
+  }
+
+  .text-latest {
+    color: #90b7c4;
+  }
+
+  .text-darkest {
+    color: #5692a1;
+  }
+
+  .text-dark {
+    color: #080F19;
+  }
+
   .bg-light {
     background-color: var(--aw-color-bg-page);
   }
 
   .bg-dark {
-    @apply bg-slate-900;
+    /* background-color: rgb(46, 79, 79); */
+    background-color: #080F19;
+  }
+
+  .bg-latest {
+    background-color: #345868;
   }
 
   
@@ -29,7 +50,7 @@
   }
 
   .btn-primary {
-    @apply font-semibold bg-primary text-white border-primary hover:bg-blue-900 hover:border-blue-900 hover:text-white dark:text-white dark:bg-primary dark:border-primary dark:hover:border-blue-900 dark:hover:bg-blue-900;
+    @apply font-semibold bg-primary text-white border-primary hover:bg-latest hover:bg-latest hover:text-white dark:text-white dark:bg-primary dark:border-primary dark:hover:text-dark dark:hover:text-dark;
   }
 }
 

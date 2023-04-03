@@ -1,14 +1,14 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'War Yankee',
+  name: 'Podwrecked',
 
-  origin: 'https://waryankee.com',
+  origin: 'https://podwrecked.com',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'War Yankee - Overland',
-  description: 'An American Civil War Podcast',
+  title: 'Podwrecked',
+  description: 'Survive Your Podcast',
   defaultImage: defaultImage,
 
   defaultTheme: 'dark', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"

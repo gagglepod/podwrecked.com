@@ -70,7 +70,7 @@ export const headerData = {
       href: getPermalink('/resources'),
     },
   ],
-  actions: [{ type: 'button', text: 'Subscribe', href: 'https://podnews.net/podcast/i7h7d' }],
+  actions: [{ type: 'button', text: 'Subscribe', href: 'https://podnews.net/podcast/i30o' }],
 };
 
 export const footerData = {
@@ -83,8 +83,8 @@ export const footerData = {
         { text: 'Support', href: getPermalink('/support') },
         { text: 'Books', href: getPermalink('/books') },
         { text: 'Resources', href: getPermalink('/resources') },
-        { text: 'RSS Feed', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000013.rss' },
-        { text: 'Find a Player', href: 'https://podnews.net/podcast/i7h7d' },
+        { text: 'RSS Feed', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000029.rss' },
+        { text: 'Find a Player', href: 'https://podnews.net/podcast/i30o' },
       ],
     },
     // {
@@ -132,10 +132,10 @@ export const footerData = {
     // { ariaLabel: 'Twitter', icon: 'tabler:brand-twitter', href: '#' },
     // { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
     // { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
-    { ariaLabel: 'RSS', icon: 'tabler:rss', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000013.rss' },
+    { ariaLabel: 'RSS', icon: 'tabler:rss', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000029.rss' },
     // { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
   footNote: `
-    &copy; Copyright 2023. <a class="text-blue-600 hover:underline dark:text-gray-200" href="https://waryankee.com/"> War Yankee</a> and <a class="text-blue-600 hover:underline dark:text-gray-200" href="https://oncetold.us/"> Oncetold</a>. All rights reserved.
+    &copy; Copyright 2023. <a class="text-darkest hover:underline dark:text-gray-200" href="https://podwrecked.com/"> Podwrecked</a> and <a class="text-darkest hover:underline dark:text-gray-200" href="https://oncetold.us/"> Oncetold</a>. All rights reserved.
   `,
 };
