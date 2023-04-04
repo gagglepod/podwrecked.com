@@ -15,6 +15,10 @@ export const headerData = {
       text: 'Support',
       href: getPermalink('/support'),
     },
+    {
+      text: 'Trends',
+      href: getPermalink('/trends'),
+    },
     // {
     //   text: 'Landing',
     //   links: [
@@ -80,6 +84,7 @@ export const footerData = {
       links: [
         { text: 'Episodes', href: getBlogPermalink() },
         { text: 'About', href: getPermalink('/about') },
+        { text: 'Trends', href: getPermalink('/trends') },
         { text: 'Support', href: getPermalink('/support') },
         // { text: 'Books', href: getPermalink('/books') },
         // { text: 'Resources', href: getPermalink('/resources') },

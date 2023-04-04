@@ -1,8 +1,8 @@
 ---
 publishDate: 2018-11-06T02:08:00Z
 title: 'Can Amazon Wreck Havoc on Podcasting'
-description: Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
-excerpt: Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
+description: Ep.001 - Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
+excerpt: Ep.001 - Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
 image: ~/assets/images/podwrecked.com-can-amazon-wreck-havoc-on-podcasting-960x400.png
 category: Big Tech
 tags:
@@ -10,24 +10,25 @@ tags:
   - Amazon
   - podcasts
   - big tech
-canonical: https://waryankee.com/wy-overland-01-perspective
+canonical: https://podwrecked.com/can-amazon-wreck-havoc-on-podcasting
 ---
 
 ## Play Now
 
 <audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
-Podwrecked Ep.01
+Podwrecked Ep.001
 
-## In This Episode
+## Episode #001
 
 - We talk about what Podwrecked is about
 - We explore reasons and solutions behind why podcasters Pause, Padfade, and eventually Podwreck
 - We give our perspectives on what we think the infamous "600,000 active podcasts" actually means
 - We get into what it would mean if Amazon suddenly started hosting podcasts
 
-## Tim-Radamus' Trend Forecast
+## What did we learn?
 
-- Amazon will jump into the podcasting space in 2019.
+- We can do a co-hosted podcast AND do our own podcasts too because two is better than one
+- _Tim-Ra-damus_ makes a trend forecast saying Amazon will jump into the podcasting space in 2019
 
 ## Support the Show
 

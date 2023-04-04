@@ -12,7 +12,7 @@
   }
 
   .text-highlight {
-    color: #345868;
+    color: #101B21;
   }
 
   .text-latest {
@@ -24,7 +24,7 @@
   }
 
   .text-dark {
-    color: #080F19;
+    color: #101B21;
   }
 
   .bg-light {
@@ -33,11 +33,11 @@
 
   .bg-dark {
     /* background-color: rgb(46, 79, 79); */
-    background-color: #080F19;
+    background-color: #101B21;
   }
 
   .bg-latest {
-    background-color: #345868;
+    background-color: #2C3333;
   }
 
   
