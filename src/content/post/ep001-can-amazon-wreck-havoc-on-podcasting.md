@@ -1,8 +1,8 @@
 ---
 publishDate: 2018-11-06T02:08:00Z
 title: 'Can Amazon Wreck Havoc on Podcasting'
-description: Ep.001 - Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
-excerpt: Ep.001 - Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
+description: Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
+excerpt: Tim and Kyle get into what it would mean if Amazon suddenly started hosting podcasts and give their perspectives on what 'active podcasts' actually mean.
 image: ~/assets/images/podwrecked.com-can-amazon-wreck-havoc-on-podcasting-960x400.png
 category: Big Tech
 tags:
@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/can-amazon-wreck-havoc-on-podcasting
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800052/pw001-can-amazon-wreck-havoc-on-podcasting.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.001
 
 ## Episode #001

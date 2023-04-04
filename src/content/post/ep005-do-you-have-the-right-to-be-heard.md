@@ -1,22 +1,21 @@
 ---
 publishDate: 2018-12-07T02:08:00Z
 title: 'Do You Have the Right to Be Heard?'
-description: Ep.005 - Tim and Kyle talk about the light and fluffy topic of free speech rights, banning content, shutting down extremists, and deplatforming.
-excerpt: Ep.005 - Tim and Kyle talk about the light and fluffy topic of free speech rights, banning content, shutting down extremists, and deplatforming.
+description: Tim and Kyle talk about the light and fluffy topic of free speech rights, banning content, shutting down extremists, and deplatforming.
+excerpt: Tim and Kyle talk about the light and fluffy topic of free speech rights, banning content, shutting down extremists, and deplatforming.
 image: ~/assets/images/podwrecked.com-do-you-have-the-right-to-be-heard-960x400.jpg
-category: Big Podcast
+category: Podcast Industry
 tags:
   - podcasting
   - deplatforming
   - cancel culture
   - podcasts
-  - big podcast
 canonical: https://podwrecked.com/do-you-have-the-right-to-be-heard
 ---
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800056/pw005-do-you-have-the-right-to-be-heard.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.005
 
 ## Episode #005

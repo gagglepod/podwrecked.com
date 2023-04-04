@@ -1,8 +1,8 @@
 ---
 publishDate: 2018-11-23T02:08:00Z
 title: 'To Pay or Not to Pay for Podcasts'
-description: Ep.003 - Tim and Kyle talk about what podcasting from a "walled garden" model means to indy podcasters and what subscription model podcasting could mean for the future of podcasting.
-excerpt: Ep.003 - Tim and Kyle talk about what podcasting from a "walled garden" model means to indy podcasters and what subscription model podcasting could mean for the future of podcasting.
+description: Tim and Kyle talk about what podcasting from a "walled garden" model means to indy podcasters and what subscription model podcasting could mean for the future of podcasting.
+excerpt: Tim and Kyle talk about what podcasting from a "walled garden" model means to indy podcasters and what subscription model podcasting could mean for the future of podcasting.
 image: ~/assets/images/podwrecked.com-to-pay-or-not-to-pay-for-podcasts-960x400.jpg
 category: Monetization
 tags:
@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/to-pay-or-not-to-pay-for-podcasts
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800054/pw003-to-pay-or-not-to-pay-for-podcasts.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.003
 
 ## Episode #003

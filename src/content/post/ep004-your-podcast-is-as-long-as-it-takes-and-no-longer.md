@@ -1,8 +1,8 @@
 ---
 publishDate: 2018-11-30T02:08:00Z
 title: 'Your Podcast is as Long As It Takes and No Longer'
-description: Ep.004 - Tim and Kyle talk about how long your podcast should be based on some recent research on overall podcast lengths in the industry. The answer takes longer than you think but shorter than you would expect.
-excerpt: Ep.004 - Tim and Kyle talk about how long your podcast should be based on some recent research on overall podcast lengths in the industry. The answer takes longer than you think but shorter than you would expect.
+description: Tim and Kyle talk about how long your podcast should be based on some recent research on overall podcast lengths in the industry. The answer takes longer than you think but shorter than you would expect.
+excerpt: Tim and Kyle talk about how long your podcast should be based on some recent research on overall podcast lengths in the industry. The answer takes longer than you think but shorter than you would expect.
 image: ~/assets/images/podwrecked.com-your-podcast-is-as-long-as-it-takes-960x400.jpg
 category: Production
 tags:
@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/your-podcast-is-as-long-as-it-takes-and-no-lon
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800055/pw004-your-podcast-is-as-long-as-it-takes-and-no-longer.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.004
 
 ## Episode #004

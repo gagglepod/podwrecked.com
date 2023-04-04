@@ -1,22 +1,21 @@
 ---
 publishDate: 2018-11-16T02:08:00Z
 title: 'Panoply Abandons Ship on Content Creation'
-description: Ep.002 - Tim and Kyle talk about the wreckage left by Panoply abandoning ship on content creation and learn how iHeartRadio plans to innovate their podcast chops through acquisition.
-excerpt: Ep.002 - Tim and Kyle talk about the wreckage left by Panoply abandoning ship on content creation and learn how iHeartRadio plans to innovate their podcast chops through acquisition.
+description: Tim and Kyle talk about the wreckage left by Panoply abandoning ship on content creation and learn how iHeartRadio plans to innovate their podcast chops through acquisition.
+excerpt: Tim and Kyle talk about the wreckage left by Panoply abandoning ship on content creation and learn how iHeartRadio plans to innovate their podcast chops through acquisition.
 image: ~/assets/images/podwrecked.com-panoply-abandons-ship-on-content-creation-960x400.jpg
-category: Big Podcast
+category: Podcast Industry
 tags:
   - podcasting
   - Panoply
   - iHeartRadio
   - podcasts
-  - big podcast
 canonical: https://podwrecked.com/panoply-abandons-ship-on-content-creation
 ---
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800053/pw002-panoply-abandons-ship-on-content-creation.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.002
 
 ## Episode #002
