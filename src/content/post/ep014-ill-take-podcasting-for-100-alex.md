@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep014-ill-take-podcasting-for-100-alex
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800065/pw014-ill-take-podcasting-for-100-tim.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.014
 
 ## Episode #014

@@ -40,6 +40,12 @@ Learn about our latest <a href="/trends">Podcast Industrial Complex (PIC) Trends
 _"If you can’t tie a knot, tie a lot."_<br />
 **– The motto of the Winslow Liferaft Company**
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800058/transcript.html" target="_blank">HTML Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800058/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800058/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.
