@@ -10,7 +10,7 @@ tags:
   - deplatforming
   - cancel culture
   - podcasts
-canonical: https://podwrecked.com/do-you-have-the-right-to-be-heard
+canonical: https://podwrecked.com/ep005-do-you-have-the-right-to-be-heard
 ---
 
 ## Play Now

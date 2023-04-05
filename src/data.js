@@ -136,7 +136,7 @@ export const footerData = {
   socialLinks: [
     // { ariaLabel: 'Twitter', icon: 'tabler:brand-twitter', href: '#' },
     // { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
-    // { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
+    // { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://podwrecked.com' },
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000029.rss' },
     // { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],

@@ -10,7 +10,7 @@ tags:
   - Panoply
   - iHeartRadio
   - podcasts
-canonical: https://podwrecked.com/panoply-abandons-ship-on-content-creation
+canonical: https://podwrecked.com/ep002-panoply-abandons-ship-on-content-creation
 ---
 
 ## Play Now

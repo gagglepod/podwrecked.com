@@ -10,7 +10,7 @@ tags:
   - podcasts
   - predictions
   - trends
-canonical: https://podwrecked.com/shiny-shiny-crystal-ball-of-podcasting
+canonical: https://podwrecked.com/ep007-shiny-shiny-crystal-ball-of-podcasting
 ---
 
 ## Play Now

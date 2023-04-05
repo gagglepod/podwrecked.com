@@ -10,7 +10,7 @@ tags:
   - length
   - podcasts
   - listening time
-canonical: https://podwrecked.com/your-podcast-is-as-long-as-it-takes-and-no-longer
+canonical: https://podwrecked.com/ep004-your-podcast-is-as-long-as-it-takes-and-no-longer
 ---
 
 ## Play Now

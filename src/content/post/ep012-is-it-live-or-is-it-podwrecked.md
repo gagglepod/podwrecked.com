@@ -10,7 +10,7 @@ tags:
   - podcasts
   - live shows
   - recording
-canonical: https://podwrecked.com/is-it-live-or-is-it-podwrecked
+canonical: https://podwrecked.com/ep012-is-it-live-or-is-it-podwrecked
 ---
 
 ## Play Now

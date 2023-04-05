@@ -10,7 +10,7 @@ tags:
   - podcasts
   - Patreon
   - subscriptions
-canonical: https://podwrecked.com/aint-no-party-like-a-patreon-party
+canonical: https://podwrecked.com/ep011-aint-no-party-like-a-patreon-party
 ---
 
 ## Play Now

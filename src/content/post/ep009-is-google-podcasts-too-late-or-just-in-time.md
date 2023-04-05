@@ -9,7 +9,7 @@ tags:
   - podcasting
   - podcasts
   - Google
-canonical: https://podwrecked.com/is-google-podcasts-too-late-or-just-in-time
+canonical: https://podwrecked.com/ep009-is-google-podcasts-too-late-or-just-in-time
 ---
 
 ## Play Now

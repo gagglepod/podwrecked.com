@@ -11,7 +11,7 @@ tags:
   - true crime
   - journalism
   - ethics
-canonical: https://podwrecked.com/podwrecked.com-how-true-is-true-in-true-crime-podcasting
+canonical: https://podwrecked.com/ep008-how-true-is-true-in-true-crime-podcasting
 ---
 
 ## Play Now

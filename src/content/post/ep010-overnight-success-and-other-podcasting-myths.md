@@ -10,7 +10,7 @@ tags:
   - podcasts
   - strategy
   - long game
-canonical: https://podwrecked.com/overnight-success-and-other-podcasting-myths
+canonical: https://podwrecked.com/ep010-overnight-success-and-other-podcasting-myths
 ---
 
 ## Play Now

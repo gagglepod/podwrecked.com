@@ -10,7 +10,7 @@ tags:
   - paywall
   - subscriptions
   - podcasts
-canonical: https://podwrecked.com/to-pay-or-not-to-pay-for-podcasts
+canonical: https://podwrecked.com/ep003-to-pay-or-not-to-pay-for-podcasts
 ---
 
 ## Play Now

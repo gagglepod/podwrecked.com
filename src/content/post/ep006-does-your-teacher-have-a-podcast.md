@@ -10,7 +10,7 @@ tags:
   - education
   - podcasts
   - teachers
-canonical: https://podwrecked.com/does-your-teacher-have-a-podcast
+canonical: https://podwrecked.com/ep006-does-your-teacher-have-a-podcast
 ---
 
 ## Play Now

@@ -10,7 +10,7 @@ tags:
   - podcasts
   - naming
   - branding
-canonical: https://podwrecked.com/the-power-of-a-good-name
+canonical: https://podwrecked.com/ep013-the-power-of-a-good-name
 ---
 
 ## Play Now

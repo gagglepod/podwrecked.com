@@ -10,7 +10,7 @@ tags:
   - Amazon
   - podcasts
   - big tech
-canonical: https://podwrecked.com/can-amazon-wreck-havoc-on-podcasting
+canonical: https://podwrecked.com/ep001-can-amazon-wreck-havoc-on-podcasting
 ---
 
 ## Play Now
