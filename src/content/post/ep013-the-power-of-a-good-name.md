@@ -45,6 +45,11 @@ Podwrecked Ep.013
 _"Who knows a man's name, holds that man's life in his keeping. Thus to Ged, who had lost faith in himself, Vetch had given him that gift that only a friend can give, the proof of unshaken, unshakeable trust."_<br />
 **― Ursula K. Le Guin, A Wizard of Earthsea**
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800064/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800064/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.

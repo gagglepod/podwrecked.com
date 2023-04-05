@@ -47,6 +47,9 @@ _"I think the power-listeners who criticize Google Podcasts for being too simple
 _"The new podcast app is but one tiny piece of a much grander goal."_<br />
 **-- JR Raphael**
 
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800060/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800060/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.

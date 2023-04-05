@@ -50,6 +50,11 @@ _"You may say, 'Well, dragons don't exist.' It's, like, yes they do - the catego
 _"Categories are rarely permanent, and most important work is done by people who don't easily fit in."_<br />
 **― Seth Godin**
 
+## Transcripts
+
+- <a href="http://storage.googleapis.com/storage.oncetold.net/80000029/20800065/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800065/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.

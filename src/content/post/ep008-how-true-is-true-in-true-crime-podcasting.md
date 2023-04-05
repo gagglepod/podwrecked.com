@@ -39,6 +39,11 @@ Podwrecked Ep.008
 - <a href="https://ethicaljournalismnetwork.org/ethical-storytelling-journalism-media-literacy" target="_blank">Ethical Storytelling: Journalism and Media Literacy</a>
 - <a href="https://player.fm/featured/true-crime" target="_blank">True Crime Podcasts</a>
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800059/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800059/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.

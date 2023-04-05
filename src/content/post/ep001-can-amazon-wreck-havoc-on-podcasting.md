@@ -27,8 +27,14 @@ Podwrecked Ep.001
 
 ## What did we learn?
 
-- We can do a co-hosted podcast AND do our own podcasts too because two is better than one
-- _Tim-Ra-damus_ makes a trend forecast saying Amazon will jump into the podcasting space in 2019
+- We can co-host a podcast AND produce our personal podcasts too.
+- Two are better than One.
+- Tim (aka _Tim-Ra-damus_) makes a prediction saying Amazon will jump into the podcasting space in 2019
+
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800052/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800052/transcript.srt" target="_blank">SRT Transcript</a>
 
 ## Support the Show
 

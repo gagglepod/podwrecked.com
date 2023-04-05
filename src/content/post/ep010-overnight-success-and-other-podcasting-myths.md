@@ -42,6 +42,11 @@ Podwrecked Ep.010
 _"An overnight success is ten years in the making."_<br />
 **― Tom Clancy, Dead or Alive**
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800061/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800061/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.

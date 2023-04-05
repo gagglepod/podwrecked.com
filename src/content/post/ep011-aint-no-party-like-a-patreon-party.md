@@ -42,6 +42,11 @@ Podwrecked Ep.011
 _"People don't buy what you do. They buy why you do it."_<br />
 **― Simon Sinek**
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800062/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800062/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.

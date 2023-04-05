@@ -42,6 +42,11 @@ Podwrecked Ep.006
 - <a href="https://www.dancarlin.com/hardcore-history-series/" target="_blank">Dan Carlin - Hardcore History Podcast</a>
 - <a href="https://alonglook-slowart.com/" target="_blank">Karen Jackson - A Long Look: Slow Art at the National Gallery</a>
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800057/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800057/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.
