@@ -16,22 +16,22 @@ canonical: https://podwrecked.com/ep016-aint-nobody-got-time-for-podcasts-under-
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800067/pw016-aint-nobody-got-time-for-podcasts-under-12.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.016
 
 ## Episode #016
 
 - We explore the _Kidcast_ podcasting landscape for a growing audience of younger listeners.
 - We touch on marketing to children and why it's Kidcast monetization is a sensitive topic.
-- We end by talking about the potential for creating smart kids using podcasting as an educational platform.
+- We end by discussing the potential for creating smart kids using podcasting as an educational platform.
 
 ## What did we learn?
 
 - Both Kyle and Tim agree that there are not enough Kidscasts.
 - Kyle talks about how the Kidcasts world is still a _Blue Ocean_ when it comes to your podcast production strategy.
-- We find out how many Kidcasts are educational and well-produced to keep children engaged.
+- We discover how many Kidcasts are educational and well-produced to keep children engaged.
 - Kyle raves about Gimlet's Story Pirates and why that show's format and marketing strategy is something to pay attention to.
-- The myth that kids have short attention spans when it comes to Kidcasts is just that -- a myth.
+- The myth that kids have short attention spans regarding Kidcasts is just that -- a myth.
 - Sponsors can monetize a Kidcast podcast, but it needs to be monitored by both producers and parents.
 - Disney Kidcasts have yet to gain traction but could become a strong competitor in the children podcasting space over the next year.
 - Tim points out that your first two (2) listens will be the parents. If it's good, your next 100 listens could be super loyal kids!

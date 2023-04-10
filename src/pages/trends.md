@@ -29,6 +29,12 @@ However, to keep track of our success, we've compiled a list of all our predicti
 
 ### 2019: The Year of Podfest
 
+- Kyle thinks that Dave will one day soon create a podcast devoted to his Crazy Morning Zoo Crew <a href="http://binkyandthewiz.com/" target="_blank">Binky and the Wiz</a>! This is a group of characters Dave introduced in <a href="http://schoolofpodcasting.com/defining-your-mission-episode-400-celebration-theater-of-the-mind/"  target="_blank">School of Podcasting (SOP)</a> Episode #400 and then resurfaced again in <a href="http://schoolofpodcasting.com/episode-not-podcasting-ask-dave-anything/"  target="_blank">SOP Episode #600</a> (<a href="./ep021-salvaging-your-podcast-with-dave-jackson">Episode #21</a>)!
+
+- Tim thinks that small businesses will be looking to expand advertising into new markets. They want to see this podcasting thing work in their market. Big ones take the risk first... then the smaller ones will be to the benefit of all podcasters (<a href="./ep020-what-happens-when-a-big-networks-picks-you">Episode #20</a>).
+
+- Kyle thinks the Content Wars are coming! As these big podcast networks lose their star talent they are going to start lurking around the smaller networks and either buy their network or start poaching their talent (<a href="./ep020-what-happens-when-a-big-networks-picks-you">Episode #20</a>).
+
 - Tim predicts that Disney is going to push into Kidcast podcasting behind a paywall by 2020 (<a href="./ep016-aint-nobody-got-time-for-podcasts-under-12">Episode #16</a>).
 
 - Kyle predicts that Apple will institute a new policy that will change the way they rank podcasts in the Apple Podcasts (iTunes) Directory by 2020 (<a href="./ep014-ill-take-podcasting-for-100-alex">Episode #14</a>).
