@@ -1,6 +1,6 @@
 ---
 publishDate: 2019-12-26T02:08:00Z
-title: 'The Podwrecked Oracles of Delphi?'
+title: 'The Podwrecked Oracles of Delphi'
 description: Tim and Kyle go through the 20 predictions we made at the beginning of 2019 to see how many podcast industry predictions came true.
 excerpt: Tim and Kyle go through the 20 predictions we made at the beginning of 2019 to see how many podcast industry predictions came true.
 image: ~/assets/images/podwrecked.com-the-podwrecked-oracles-of-delphi-960x400.jpg

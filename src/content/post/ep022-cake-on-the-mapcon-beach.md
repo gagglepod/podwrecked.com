@@ -10,6 +10,8 @@ tags:
   - podcasts
   - lessons learned
   - conferences
+  - MAPCON
+  - ICON
 canonical: https://podwrecked.com/ep022-cake-on-the-mapcon-beach
 ---
 

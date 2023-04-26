@@ -1,6 +1,6 @@
 ---
 publishDate: 2019-01-04T02:08:00Z
-title: 'Shiny, Shiny Crystal Ball of Podcasting?'
+title: 'Shiny, Shiny Crystal Ball of Podcasting'
 description: Tim and Kyle think it is going to be a good year for podcasting, but it is not there yet and 2019 will set the stage for what will be the year of the podcast.
 excerpt: Tim and Kyle think it is going to be a good year for podcasting, but it is not there yet and 2019 will set the stage for what will be the year of the podcast.
 image: ~/assets/images/podwrecked.com-shiny-shiny-crystal-ball-of-podcasting-960x400.jpg

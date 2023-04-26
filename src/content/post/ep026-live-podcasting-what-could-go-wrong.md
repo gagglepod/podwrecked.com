@@ -8,8 +8,8 @@ category: Technology
 tags:
   - podcasting
   - podcasts
-  - live recording
-  - mobile recording
+  - live shows
+  - remote recording
 canonical: https://podwrecked.com/ep026-live-podcasting-what-could-go-wrong
 ---
 

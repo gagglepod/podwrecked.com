@@ -8,9 +8,9 @@ category: Lessons Learned
 tags:
   - podcasting
   - podcasts
-  - guest
   - Dave Jackson
   - lessons learned
+  - guest
 canonical: https://podwrecked.com/ep021-salvaging-your-podcast-with-dave-jackson
 ---
 

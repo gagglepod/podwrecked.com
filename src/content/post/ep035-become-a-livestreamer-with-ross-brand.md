@@ -4,13 +4,15 @@ title: 'Become a LiveStreamer with Ross Brand'
 description: Tim and Kyle talk with the host of StreamYard Connect Ross Brand, about what to expect when you move from podcasting to livestream video.
 excerpt: Tim and Kyle talk with the host of StreamYard Connect Ross Brand, about what to expect when you move from podcasting to livestream video.
 image: ~/assets/images/podwrecked.com-become-a-livestreamer-with-ross-brand-960x400.jpg
-category: Production
+category: Lessons Learned
 tags:
   - podcasting
   - podcasts
   - Ross Brand
   - live streaming
+  - live shows
   - video
+  - guest
 canonical: https://podwrecked.com/ep035-become-a-livestreamer-with-ross-brand
 ---
 

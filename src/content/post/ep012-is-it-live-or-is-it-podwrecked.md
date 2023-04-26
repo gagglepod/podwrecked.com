@@ -9,7 +9,7 @@ tags:
   - podcasting
   - podcasts
   - live shows
-  - recording
+  - remote recording
 canonical: https://podwrecked.com/ep012-is-it-live-or-is-it-podwrecked
 ---
 

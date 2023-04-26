@@ -1,41 +1,43 @@
 ---
-publishDate: 2020-03-17T02:08:00Z
-title: 'Will Tim go to Podfest 2021?'
-description: Tim grills Kyle about his recent trip to Podfest Multimedia Expo in Orlando, Florida, to find out if he'll finally go to this conference in 2021.
-excerpt: Tim grills Kyle about his recent trip to Podfest Multimedia Expo in Orlando, Florida, to find out if he'll finally go to this conference in 2021.
-image: ~/assets/images/podwrecked.com-will-tim-go-to-podfest-2021-960x400.jpg
+publishDate: 2020-12-24T02:08:00Z
+title: 'Not Drowning But Waving'
+description: Kyle and Tim talk about what healthy feedback looks like, why it matters, and what you do when you have trouble getting your own feedback.
+excerpt: Kyle and Tim talk about what healthy feedback looks like, why it matters, and what you do when you have trouble getting your own feedback.
+image: ~/assets/images/podwrecked.com-not-downing-but-waving-960x400.jpg
 category: Lessons Learned
 tags:
   - podcasting
   - podcasts
-  - conferences
-  - networking
-  - Podfest
-canonical: https://podwrecked.com/ep032-will-tim-go-to-podfest-2021
+  - feedback
+  - engagement
+canonical: https://podwrecked.com/ep046-not-downing-but-waving
 ---
 
 ## Play Now
 
 <audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
-Podwrecked Ep.032
+Podwrecked Ep.046
 
-## Episode #032
+## Episode #046
 
-- Tim asks Kyle what he learned at Podfest this year
-- Kyle talks about how this event is like networking on steroids
-- Kyle talks about his top takeaways
-- Tim makes a decision... and it will be...?
+- We identify _WHAT_ healthy feedback is (and what it is not)
+- We talk about _HOW_ to get feedback
 
 ## What did we learn?
 
-- Podfest is the place to be if you're Independent Podcaster
-- The Mini or Micro Conferences were a big hit (especially the AudioDramaCon)
-- Kyle gets into the cost of going to a conference like this and what kind of value you get for your dollar
-- Tim has enough info to make his decision - but you're going to have to listen to find out which way he goes
+- Tim and Kyle find out that only some feedback matters.
+- Tim goes into what you can do if you never get any feedback (at least not yet).
+- Kyle digs into what you should do _with_ that feedback.
 
-## Do you want to go to Podfest 2021
+## Additional Reading
 
-Kyle, who's gone three years in a row, highly recommends it! Get your <a href="http://www.podfestexpo.com/2021" target="_blank">Super Early Bird tickets for Podfest Multimedia Expo</a> on March 5-7, 2021, in Orlando, Florida today!
+- <a href="https://blog.pacific-content.com/apple-podcasts-reviews-by-the-numbers-5d1fcbc474a3" target="_blank">Apple Podcasts reviews, by the numbers by Dan Misener</a>
+- <a href="https://www.poem-generator.org.uk/?i=2btpqh7" target="_blank">Poem Generator</a>
+
+## Quotes
+
+_"Sunbaked aurora, A terrible shipwreck swims, Beyond the co-host."_<br />
+**― Shipwreck - A Haiku by Kyle M. Bondo**
 
 ## Podwrecked Salvage Team
 
@@ -43,13 +45,12 @@ If you would like to help out the show, please <a href="https://www.patreon.com/
 
 - Cliff from <a href="#" target="_blank">Glockaholics Anonymous</a>
 - Mathew from <a href="https://thepodcastconsultant.com/" target="_blank">The Podcast Consultant</a>
+- Dave from the <a href="https://schoolofpodcasting.com/" target="_blank">School of Podcasting</a>
+- Ross from <a href="https://livestreamuniverse.com/" target="_blank">LiveStream Universe</a>
+- Joe from <a href="http://superjoepardo.com/" target="_blank">Super Joe Pardo</a>
+- Terri from <a href="https://www.eventyak.com/" target="_blank">EventYak</a>
 
 Thank you! And if you would like to become a member of the <a href="https://www.patreon.com/gagglepod" target="_blank">Podwrecked Salvage Team</a> and help us make content for our show, please join our awesome Podwrecked Salvage Team!
-
-## Quotes
-
-_"Listen to advice. You don't know how many writer's conferences I've taught at where at least half the audience fights all the conventions of the field."_<br />
-**― Jane Haddam**
 
 ## Support the Show
 

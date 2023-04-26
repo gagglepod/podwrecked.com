@@ -10,6 +10,7 @@ tags:
   - podcasts
   - conferences
   - meetups
+  - DC Podfest
 canonical: https://podwrecked.com/ep027-dc-podfest-secrets-revealed
 ---
 
