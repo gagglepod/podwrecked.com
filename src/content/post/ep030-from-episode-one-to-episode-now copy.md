@@ -1,6 +1,6 @@
 ---
 publishDate: 2020-02-02T02:08:00Z
-title: 'From Episode One to Episode Now?'
+title: 'From Episode One to Episode Now'
 description: Tim and Kyle went back and listened to a few of their very first podcast episodes and discovered just how much as changed from then until now.
 excerpt: Tim and Kyle went back and listened to a few of their very first podcast episodes and discovered just how much as changed from then until now.
 image: ~/assets/images/podwrecked.com-from-episode-one-to-episode-now-960x400.jpg

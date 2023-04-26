@@ -3,7 +3,7 @@ publishDate: 2019-06-13T02:08:00Z
 title: 'Life is too short for bad podcasts'
 description: Tim and Kyle teach new podcasters how to navigate the ebb and flow of the podcast industry.
 excerpt: Tim and Kyle teach new podcasters how to navigate the ebb and flow of the podcast industry.
-image: ~/assets/images/podwrecked.com-podcasting-live-what-could-go-wrong-960x400.jpg
+image: ~/assets/images/podwrecked.com-life-is-too-short-for-bad-podcasts-960x400.jpg
 category: Trailer
 tags:
   - podcasting

@@ -1,43 +1,58 @@
 ---
-publishDate: 2021-06-30T02:08:00Z
-title: 'Now and Zencastr'
-description: Tim and Kyle play with a new remote recording tool called Zencastr and talk about where they have been for the first six months of 2021.
-excerpt: Tim and Kyle play with a new remote recording tool called Zencastr and talk about where they have been for the first six months of 2021.
-image: ~/assets/images/podwrecked.com-now-and-zencastr-960x400.jpg
-category: Lessons Learned
+publishDate: 2021-08-28T02:08:00Z
+title: 'Is Your Arm a Yard Long?'
+description: Tim and Kyle start a conversation about podcast metrics and discover 10 ways to measure your success.
+excerpt: Tim and Kyle start a conversation about podcast metrics and discover 10 ways to measure your success.
+image: ~/assets/images/podwrecked.com-is-your-arm-a-yard-long-960x400.jpg
+category: Production
 tags:
   - podcasting
   - podcasts
-  - experiments
-  - live shows
-  - remote recording
-canonical: https://podwrecked.com/ep049-now-and-zencastr
+  - metrics
+  - voice acting
+canonical: https://podwrecked.com/ep051-is-your-arm-a-yard-long
 ---
 
 ## Play Now
 
 <audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
-Podwrecked Ep.049
+Podwrecked Ep.051
 
-## Episode #049
+## Episode #051
 
-- We find out if Zencastr is worth your time
+- We explore metrics and find examples of what each one could mean in real life.
+- We get sidetracked and start talking about voiceovers and voice acting.
 
 ## What did we learn?
 
-- Tim sets up a Zencastr experiment while Kyle takes on the role of guest
-- You can play with Zencastr (Free Version) at <a href="https://zencastr.com/" target="_blank">Zencastr.com</a>
-- Tim gets into what he's been going through
-- Kyle gets into what he's been going through too
+- Tim has been researching metrics that matter and compares that to the size of a ship's sail (hanging from the yardarm)
+- Kyle goes on a tangent about starting a Voice Over Acting portfolio
+- Kyle and Tim give <a href="https://voiceoversandvocals.com" target="_blank">Jodi Krangle from Voice Overs and Vocals</a> a shout-out!
+
+## We think up some metrics that do matter
+
+- Total Download numbers
+- Times you've been emailed by your audience
+- Times you've been sought out by your audience in real life
+- Times you've been recognized by your podcast peers
+- Amount of money made from your podcast
+- Number of audience members that use your promo codes
+- Number of audience members that click on your special links
+- Number of audience members that leave a rating and review
+- Times you've been asked to speak at a conference
+- Times you've had your voice recognized in public
 
 ## Quotes
 
-_"The beginning is the most important part of the work."_<br />
-**― Plato**
+_"How does this information help Cliff?"_<br />
+**― Timothy Kimo Brien**
+
+_"You cannot measure a podcast you never start."_<br />
+**― Kyle M. Bondo**
 
 ## Episode Photo Credit
 
-Photo by <a href="https://unsplash.com/@buchstabenhausen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Philipp Pilz</a> on <a href="https://unsplash.com/s/photos/ship-fog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
+Photo by <a href="https://unsplash.com/@adventuresofmaldives?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Adventures of Maldives</a> on <a href="https://unsplash.com/s/photos/shipwreck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 
 ## Podwrecked Salvage Team
 

@@ -1,43 +1,52 @@
 ---
-publishDate: 2021-06-30T02:08:00Z
-title: 'Now and Zencastr'
-description: Tim and Kyle play with a new remote recording tool called Zencastr and talk about where they have been for the first six months of 2021.
-excerpt: Tim and Kyle play with a new remote recording tool called Zencastr and talk about where they have been for the first six months of 2021.
-image: ~/assets/images/podwrecked.com-now-and-zencastr-960x400.jpg
-category: Lessons Learned
+publishDate: 2021-09-30T02:08:00Z
+title: 'LIVE from Our Padded Shower'
+description: Tim and Kyle explore ad-hoc recording setups you can use when you are traveling for International Podcast Day.
+excerpt: Tim and Kyle explore ad-hoc recording setups you can use when you are traveling for International Podcast Day.
+image: ~/assets/images/podwrecked.com-live-from-our-padded-shower-960x400.jpg
+category: Production
 tags:
   - podcasting
   - podcasts
-  - experiments
-  - live shows
-  - remote recording
-canonical: https://podwrecked.com/ep049-now-and-zencastr
+  - live recording
+  - International
+canonical: https://podwrecked.com/ep052-live-from-our-padded-shower
 ---
 
 ## Play Now
 
 <audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
-Podwrecked Ep.049
+Podwrecked Ep.052
 
-## Episode #049
+## Episode #052
 
-- We find out if Zencastr is worth your time
+- We give you five (5) good ways to create a podcast studio on the road
 
 ## What did we learn?
 
-- Tim sets up a Zencastr experiment while Kyle takes on the role of guest
-- You can play with Zencastr (Free Version) at <a href="https://zencastr.com/" target="_blank">Zencastr.com</a>
-- Tim gets into what he's been going through
-- Kyle gets into what he's been going through too
+- Tim and Kyle celebrate International Podcast Day #internationalpodcastday
+- The more you try to record outside your studio the better you get at it
+- You don't need as much equipment to record on the road then you think you do
+
+## Ad-hoc Podcast Studios
+
+- Portable foam science board
+- Padded shower
+- Pillow fort
+- Coat closet
+- Music store practice rooms
 
 ## Quotes
 
-_"The beginning is the most important part of the work."_<br />
-**― Plato**
+_"Don't let the audio setup stop you from doing your podcast. You can do it on the cheap!"_<br />
+**― Timothy Kimo Brien**
+
+_"Happy International Podcast Day! Whatever that is."_<br />
+**― Kyle M. Bondo**
 
 ## Episode Photo Credit
 
-Photo by <a href="https://unsplash.com/@buchstabenhausen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Philipp Pilz</a> on <a href="https://unsplash.com/s/photos/ship-fog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
+Photo by <a href="https://unsplash.com/@chesterho?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Chester Ho</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
 
 ## Podwrecked Salvage Team
 
