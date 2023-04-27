@@ -80,16 +80,14 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Podcast',
+      title: 'Podwrecked',
       links: [
         { text: 'Episodes', href: getBlogPermalink() },
         { text: 'About', href: getPermalink('/about') },
         { text: 'Trends', href: getPermalink('/trends') },
-        { text: 'Support', href: getPermalink('/support') },
         // { text: 'Books', href: getPermalink('/books') },
         // { text: 'Resources', href: getPermalink('/resources') },
         { text: 'RSS Feed', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000029.rss' },
-        { text: 'Find a Player', href: 'https://podnews.net/podcast/i30o' },
       ],
     },
     // {
@@ -103,29 +101,31 @@ export const footerData = {
     //   ],
     // },
     {
-      title: 'Support',
+      title: 'Support the Show',
       links: [
-        // { text: 'Buy Me Coffee', href: 'https://www.buymeacoffee.com/waryankee' },
+        { text: 'Try Oncetold', href: 'https://oncetold.us' },
+        { text: 'Reach Out', href: getPermalink('/support') },
+        { text: 'Podwrecked Salvage Team', href: 'https://www.patreon.com/gagglepod' },
         // { text: 'Buy A Book', href: './books' },
         // { text: 'American Battlefield Trust', href: 'https://battlefields.org' },
-        { text: 'Review the Show', href: 'https://podcasts.apple.com/us/podcast/war-yankee-overland/id1522169260' },
+        { text: 'Review the Show', href: 'https://podcasts.apple.com/us/podcast/podwrecked/id1441480507' },
+        { text: 'Find a Player', href: 'https://podnews.net/podcast/i30o' },
       ],
     },
     {
       title: 'Subscribe',
       links: [
-        { text: 'Podcast Index', href: 'https://podcastindex.org/podcast/452056' },
-        { text: 'Apple Podcasts', href: 'https://podcasts.apple.com/us/podcast/war-yankee-overland/id1522169260' },
-        { text: 'Spotify', href: 'https://open.spotify.com/show/11DdsrFO3YzN21OCcUd00b' },
+        { text: 'Podcast Index', href: 'https://podcastindex.org/podcast/6337385' },
+        { text: 'Apple Podcasts', href: 'https://podcasts.apple.com/us/podcast/podwrecked/id1441480507' },
+        { text: 'Spotify', href: 'https://open.spotify.com/show/6VeboWkLgVdNiHaBvTcK0e' },
         {
           text: 'Amazon Podcasts',
-          href: 'https://music.amazon.com/podcasts/992ad074-6693-4521-b97e-fb46ecfb10fa/war-yankee---overland',
+          href: 'https://a.co/d/2htIH88',
         },
         {
           text: 'Google Podcasts',
-          href: 'https://podcasts.google.com/feed/aHR0cHM6Ly93YXJ5YW5rZWUubGlic3luLmNvbS9yc3M',
+          href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9wb2R3cmVja2VkLmxpYnN5bi5jb20vcnNz',
         },
-        { text: 'TuneIn', href: 'https://tunein.com/podcasts/Education-Podcasts/War-Yankee-p1345650/' },
       ],
     },
   ],
