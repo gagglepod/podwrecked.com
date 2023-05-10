@@ -40,6 +40,11 @@ Podwrecked Ep.018
 _"Death is only the end if you assume the story is about you."_<br />
 **― The Nightvale Podcast - #welcometonightvale**
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800070/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800070/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Additional Reading
 
 - <a href="https://www.adobe.com/products/audition.html" target="_blank">Adobe Audition</a>
