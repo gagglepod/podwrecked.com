@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep018-8-love-languages-of-podcasting
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800070/pw017-eight-ways-to-know-youre-a-podcast-lover.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.018
 
 ## Episode #018
