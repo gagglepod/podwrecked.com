@@ -52,6 +52,11 @@ _"The #2 radio advertiser in 2017 is now also the #2 podcast advertiser, accordi
 _[A Sponsor] HAS to fit my audience. [That's why I charge $90 an episode]. How did I come up with this? I felt $50 wasn't worth the extra effort and paperwork involved. $70 didn't seem enough as I have a niche audience. $120 I was worried that they may not get their money back. I settled at $90. I'm thinking in the future I might charge $100 as I can do that and still sleep, and look at myself in the mirror"_<br />
 **― Dave Jackson, School of Podcasting**
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800066/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800066/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.
