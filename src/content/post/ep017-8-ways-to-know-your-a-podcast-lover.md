@@ -38,6 +38,11 @@ Podwrecked Ep.017
 _"OKAY audio does not kill mediocre content, but BAD audio will murder great content every day of the week."_<br />
 **― Steve Stewart, Podcast Editor's Club**
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800068/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800068/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Additional Reading
 
 - <a href="https://www.facebook.com/groups/podcasteditors/" target="_blank">Podcast Editors Club (Facebook Group)</a>
