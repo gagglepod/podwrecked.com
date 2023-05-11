@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep000-life-is-too-short-for-bad-podcasts
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800072/gagglepod-60sec-promo-trailer-06132019.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Trailer 2019
 
 ## Trailer
