@@ -91,7 +91,9 @@ _"Remember, the Internet writes in ink!"_<br />
 _"Nobody cares how the sausage is made. Just bring me content!"_<br />
 **― Dave Jackson, School of Podcasting**
 
-_"As podcasters, there is a big chunk of our hearts that wants to serve [our audience]."_
+_"As podcasters, there is a big chunk of our hearts that wants to serve [our audience]."_<br />
+**― Dave Jackson, School of Podcasting**
+
 _"Please do not start your show off with an apology. Do it at the end where your super fans are!"_<br />
 **― Dave Jackson, School of Podcasting**
 
