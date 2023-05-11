@@ -16,7 +16,7 @@ canonical: https://podwrecked.com/ep021-salvaging-your-podcast-with-dave-jackson
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800074/pw021-salvaging-your-podcast-with-dave-jackson.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.021
 
 ## Episode #021
