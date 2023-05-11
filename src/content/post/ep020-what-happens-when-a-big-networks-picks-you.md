@@ -15,14 +15,14 @@ canonical: https://podwrecked.com/ep020-what-happens-when-a-big-networks-picks-y
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="storage.googleapis.com/storage.oncetold.net/80000029/20800073/pw020-what-happens-when-a-big-networks-picks-you.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.020
 
 ## Episode #020
 
 - We talk about why there is a lot of chaotic movement going on between big podcast networks that some see as a _podcasting bubble_.
 - Only we looked up the <a href="https://www.forbes.com/sites/billconerly/2013/07/24/what-is-a-bubble/#1e3518ace648" target="_blank">definition of "bubble"</a> and disagree.
-- We see a trend where when a big podcast network loses star players they start searching to supplement their content loses.
+- We see a trend where when a big podcast network loses star players they start searching to supplement their content losses.
 - We explore how the same behavior happens in all other media too: movie studios, TV networks, radio stations, and now _podcasting!_
 - We discuss why networks constantly poach other companies' star players with better deals and creative opportunities.
 - We get into the risks involved with signing on to an unstable network and why you need to be wary of their actual motives and their demands on your content.
@@ -61,6 +61,6 @@ We would greatly appreciate it if you could do two things for us:
 
 **Thank you for taking the time to listen. You are appreciated!**
 
-## Start Your Own Podcast
+## Tell Your Story
 
-Podwrecked is an Oncetold Production. If you need a partner in telling your podcast story, consider using <a href="https://oncetold.us" target="_blank">oncetold.us</a>.
+Podwrecked is an Oncetold Production. Tell your own story with <a href="https://oncetold.us" target="_blank">Oncetold</a>.
