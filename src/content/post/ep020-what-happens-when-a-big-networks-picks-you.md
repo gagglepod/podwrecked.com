@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep020-what-happens-when-a-big-networks-picks-y
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="storage.googleapis.com/storage.oncetold.net/80000029/20800073/pw020-what-happens-when-a-big-networks-picks-you.mp3">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800073/pw020-what-happens-when-a-big-networks-picks-you.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.020
 
 ## Episode #020
