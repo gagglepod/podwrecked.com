@@ -95,6 +95,11 @@ _"As podcasters, there is a big chunk of our hearts that wants to serve [our aud
 _"Please do not start your show off with an apology. Do it at the end where your super fans are!"_<br />
 **― Dave Jackson, School of Podcasting**
 
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800074/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800074/transcript.srt" target="_blank">SRT Transcript</a>
+
 ## Support the Show
 
 Every episode is a work of passion that requires a lot of coffee! We research, read, record, mix, edit, and produce every episode ourselves.
