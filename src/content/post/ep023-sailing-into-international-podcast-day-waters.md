@@ -14,7 +14,7 @@ canonical: https://podwrecked.com/ep023-sailing-into-international-podcast-day-w
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800077/pw023-sailing-into-international-podcast-day-waters.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.023
 
 ## Episode #023
@@ -43,6 +43,11 @@ Podwrecked Ep.023
 
 _"Burn your thesaurus."_<br />
 **― Jay Jurisich, Zinzin**
+
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800077/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800077/transcript.srt" target="_blank">SRT Transcript</a>
 
 ## Support the Show
 

@@ -17,7 +17,7 @@ canonical: https://podwrecked.com/ep022-cake-on-the-mapcon-beach
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800076/pw022-cake-on-the-mapcon-beach.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.022
 
 ## Episode #022
@@ -73,6 +73,11 @@ _"Don't be only a podcaster but be an expert listener."_<br />
 
 _"The future is local."_<br />
 **- Samantha (Sam) Riley**
+
+## Transcripts
+
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800076/transcript.json" target="_blank">JSON Transcript</a>
+- <a href="https://storage.googleapis.com/storage.oncetold.net/80000029/20800076/transcript.srt" target="_blank">SRT Transcript</a>
 
 ## Additional Reading
 
