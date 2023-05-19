@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep025-dude-wheres-my-audience
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800079/pw025-dude-wheres-my-audience.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.025
 
 ## Episode #025

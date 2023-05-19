@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep024-wild-pitches-to-enrich-your-niches
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800078/pw024-wild-pitches-to-enrich-your-niches.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.024
 
 ## Episode #024
