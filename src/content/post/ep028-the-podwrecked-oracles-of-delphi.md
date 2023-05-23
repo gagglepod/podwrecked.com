@@ -15,14 +15,13 @@ canonical: https://podwrecked.com/ep025-dude-wheres-my-audience
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800082/pw028-the-podwrecked-oracles-of-delphi.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.028
 
 ## Episode #028
 
 - Tim and Kyle go through their 2019 Predictions
-- Each prediction used simple True or False criteria
-  turns out that Tim and Kyle are really good guessers!
+- Each prediction used simple True or False criteria turns out that Tim and Kyle are really good guessers!
 - What did we learn?
 
 ## What did we learn?

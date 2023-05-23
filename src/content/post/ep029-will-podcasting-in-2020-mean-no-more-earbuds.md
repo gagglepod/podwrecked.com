@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep029-will-podcasting-in-2020-mean-no-more-ear
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800083/pw029-will-podcasting-in-2020-mean-no-more-earbuds.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.029
 
 ## Episode #029
@@ -26,7 +26,7 @@ Podwrecked Ep.029
 
 ## What did we learn?
 
-- Tim and Kyle where too early with some of there predictions in 2019 and a few make a comeback
+- Tim and Kyle were too early with some of their predictions in 2019 and a few made a comeback
 - If you visit our 2020 predictions list, you can follow along with us to see how right we really are.
 - Plan out what 2020 means to you and your podcast!
 - If you send us $100 by February 14th, 2020 we will feature your ad or product in every podwrecked episode for all of 2020.
