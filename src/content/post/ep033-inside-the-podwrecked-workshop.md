@@ -35,7 +35,7 @@ Podwrecked Ep.033
 - We go down a brief comic book podcast road when Tim crosses DC with Marvel in a LIVE experiment.
 - We even get into Veteran Coffee Roasters because we love coffee and know what good coffee tastes like.
 
-## Podcast Experiements
+## Podcast Experiments
 
 ### Create Art Podcast
 
