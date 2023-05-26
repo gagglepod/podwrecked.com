@@ -1,5 +1,5 @@
 ---
-publishDate: 2020-05-15T02:08:00Z
+publishDate: 2020-06-30T02:08:00Z
 title: 'Virtual Survival with Super Joe Pardo'
 description: Tim and Kyle talk with Joe Pardo about the nuance of building a virtual presence online to help your podcast survive.
 excerpt: Tim and Kyle talk with Joe Pardo about the nuance of building a virtual presence online to help your podcast survive.

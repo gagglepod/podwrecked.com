@@ -16,7 +16,7 @@ canonical: https://podwrecked.com/bonus001-creating-transition-music
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800090/pw-bonus001-creating-transition-music.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Bonus.001
 
 ## Bonus #001
@@ -57,6 +57,6 @@ We would greatly appreciate it if you could do two things for us:
 
 **Thank you for taking the time to listen. You are appreciated!**
 
-## Start Your Own Podcast
+## Tell Your Story
 
-Podwrecked is an Oncetold Production. If you need a partner in telling your podcast story, consider using <a href="https://oncetold.us" target="_blank">oncetold.us</a>.
+Podwrecked is an Oncetold Production. Tell your own story with <a href="https://oncetold.us" target="_blank">Oncetold</a>.
