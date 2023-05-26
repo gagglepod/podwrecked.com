@@ -11,13 +11,12 @@ tags:
   - guest
   - Mathew Passy
   - castjacking
-  - guest
 canonical: https://podwrecked.com/ep031-castjacking-and-other-safety-words
 ---
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800085/pw031-castjacking-with-mathew-passy.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.031
 
 ## Episode #031
