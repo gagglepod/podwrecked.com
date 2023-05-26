@@ -16,7 +16,7 @@ canonical: https://podwrecked.com/ep037-ding-dong-your-shows-home
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="URL: https://storage.googleapis.com/storage.oncetold.net/80000029/20800092/pw037-ding-dong-your-shows-home.mp3">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800092/pw037-ding-dong-your-shows-home.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.037
 
 ## Episode #037
