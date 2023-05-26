@@ -18,7 +18,7 @@ canonical: https://podwrecked.com/ep035-become-a-livestreamer-with-ross-brand
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800089/pw035-become-a-livestreamer-with-ross-brand.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.035
 
 ## Episode #035
@@ -32,20 +32,20 @@ Podwrecked Ep.035
 ## What did we learn?
 
 - LiveStreaming is not something you just jump into.
-- Podcaster's already have most of the gear required to start LiveStreaming.
+- Podcasters already have most of the gear required to start LiveStreaming.
 - You need to plan your Livestream the same way you plan a podcast.
 - It is a good strategy to focus on one livestream platform first.
 - The biggest mistakes (and how to survive them) that new livestreamers make during a live show.
 - How to plan what you want to say as your first line and last line during a live show.
 - Livestreaming is NOT podcasting but shares many of the same pre-production, production, and post-production challenges.
-- We get into the challenges that livestreaming can create for people new to video.
+- We get into the challenges livestreaming can create for people new to video.
 - Ross talks about the <a href="https://www.logitech.com/en-us/product/hd-pro-webcam-c920" target="_blank">Logitech c920 as a good starter web camera</a>.
 - Ross exposes his studio layout, how he got started, and how he grew livestreaming from a hobby into a professional business.
 - Ross and Kyle have a little fun with the "New World of Sports" with a golf sports announcer outtake!
 
 ## About Ross Brand
 
-Ross Brand is a pioneer in the livestreaming field as both a prolific content creator and thought-leader exploring the different ways to leverage live video to grow your business or brand. Named the _World’s #1 Livestreaming Expert to Follow on Social Media_ by Klout and selected as one of _“5 live video experts to follow”_ by Switcher Studio, Ross made the successful transition from terrestrial radio to livestreaming, founding <a href="http://livestreamuniverse.com/" target="_blank">LivestreamUniverse.com</a> to empower other live video creators by showcasing their content through updates and shows. Ross also runs the <a href="http://livestreamdeals.com/" target="_blank">LivestreamDeals.com</a> website and creates audio content for podcasts and <a href="http://livestreamuniverse.com/alexa" target="_blank">Alexa Flash Briefings</a>. Find him on Twitter: <a href="http://twitter.com/iRossBrand" target="_blank">_@iRossBrand_</a>. His Instagram username is <a href="http://instagram.com/RossBrand1" target="_blank">_@RossBrand1_</a>.
+Ross Brand is a pioneer in the livestreaming field as both a prolific content creator and thought leader exploring the different ways to leverage live video to grow your business or brand. Named the _World’s #1 Livestreaming Expert to Follow on Social Media_ by Klout and selected as one of _“5 live video experts to follow”_ by Switcher Studio, Ross made the successful transition from terrestrial radio to livestreaming, founding <a href="http://livestreamuniverse.com/" target="_blank">LivestreamUniverse.com</a> to empower other live video creators by showcasing their content through updates and shows. Ross also runs the <a href="http://livestreamdeals.com/" target="_blank">LivestreamDeals.com</a> website and creates audio content for podcasts and <a href="http://livestreamuniverse.com/alexa" target="_blank">Alexa Flash Briefings</a>. Find him on Twitter: <a href="http://twitter.com/iRossBrand" target="_blank">_@iRossBrand_</a>. His Instagram username is <a href="http://instagram.com/RossBrand1" target="_blank">_@RossBrand1_</a>.
 
 - <a href="https://www.linkedin.com/in/rossbrand/" target="_blank">Ross Brand - LinkedIn</a>
 - <a href="https://www.linkedin.com/video/live/urn:li:ugcPost:6653713201177423872/" target="_blank">StreamYard Connect</a>

@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep033-inside-the-podwrecked-workshop
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800087/pw033-inside-the-podwrecked-workshop.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.033
 
 ## Episode #033
@@ -39,7 +39,7 @@ Podwrecked Ep.033
 
 ### Create Art Podcast
 
-<a href="http://createartpodcast.com/" target="_blank">Create Art Podcast (CAP)</a>, hosted by Gagglepod Co-Founder and Head Instigator Timothy Kimo Brien, is focused on creating more than we consume through conversations on art, interviews with artists, projects to share and commentary about articles and books on creativity. Creativity is best when it is with friends. Let’s connect and create together!
+<a href="http://createartpodcast.com/" target="_blank">Create Art Podcast (CAP)</a>, hosted by Gagglepod Co-Founder and Head Instigator Timothy Kimo Brien, is focused on creating more than we consume through conversations on art, interviews with artists, projects to share, and commentary about articles and books on creativity. Creativity is best when it is with friends. Let’s connect and create together!
 
 ### Not Easily Squished
 

@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep034-they-must-hit-play-now
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800088/pw034-they-must-hit-play.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.034
 
 ## Episode #034
