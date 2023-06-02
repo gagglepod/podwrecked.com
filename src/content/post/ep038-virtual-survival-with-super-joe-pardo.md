@@ -17,7 +17,7 @@ canonical: https://podwrecked.com/ep038-virtual-survival-with-super-joe-pardo
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800093/pw038-virtual-survival-with-super-joe-pardo.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.038
 
 ## Episode #038
