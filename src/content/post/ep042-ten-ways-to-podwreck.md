@@ -18,9 +18,9 @@ canonical: https://podwrecked.com/ep042-ten-ways-to-podwreck
 ## Play Now
 
 <audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
-Podwrecked Ep.040
+Podwrecked Ep.042
 
-## Episode #040
+## Episode #042
 
 - We premier our Ten Ways to Podwreck talk BEFORE <a href="https://www.indiepodcasters.com/indie-podcast-conference-6/" target="_blank">ICON6</a>
 
