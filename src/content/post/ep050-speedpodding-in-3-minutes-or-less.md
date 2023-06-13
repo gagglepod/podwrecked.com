@@ -11,12 +11,13 @@ tags:
   - short episodes
   - shortcasts
   - smart speakers
+  - speedpodding
 canonical: https://podwrecked.com/ep050-speedpodding-in-3-minutes-or-less
 ---
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800107/pw050-speedpodding-in-3-minutes-or-less.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.050
 
 ## Episode #050

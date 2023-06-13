@@ -16,7 +16,7 @@ canonical: https://podwrecked.com/bonus002-best-outtakes-of-2020
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800104/pw-bonus002-best-outtakes-of-2020.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Bonus.002
 
 ## Bonus #002

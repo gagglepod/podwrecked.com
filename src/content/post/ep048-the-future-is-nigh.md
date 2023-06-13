@@ -16,7 +16,7 @@ canonical: https://podwrecked.com/ep048-the-future-is-nigh
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800105/pw048-the-future-is-nigh.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.048
 
 ## Episode #048

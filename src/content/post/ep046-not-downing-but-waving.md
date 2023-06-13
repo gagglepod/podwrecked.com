@@ -15,7 +15,7 @@ canonical: https://podwrecked.com/ep046-not-downing-but-waving
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800102/pw046-not-drowning-but-waving.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.046
 
 ## Episode #046
