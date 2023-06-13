@@ -85,6 +85,6 @@ We would greatly appreciate it if you could do two things for us:
 
 **Thank you for taking the time to listen. You are appreciated!**
 
-## Start Your Own Podcast
+## Tell Your Story
 
-Podwrecked is an Oncetold Production. If you need a partner in telling your podcast story, consider using <a href="https://oncetold.us" target="_blank">oncetold.us</a>.
+Podwrecked is an Oncetold Production. Tell your own story with <a href="https://oncetold.us" target="_blank">Oncetold</a>.
