@@ -16,7 +16,7 @@ canonical: https://podwrecked.com/ep045-graduate-from-your-darlings
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800101/pw045-graduate-from-your-darlings.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.045
 
 ## Episode #045
