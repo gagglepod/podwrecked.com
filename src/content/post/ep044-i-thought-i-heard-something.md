@@ -16,7 +16,7 @@ canonical: https://podwrecked.com/ep044-i-thought-i-heard-something
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800100/pw044-i-thought-i-heard-something.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.044
 
 ## Episode #044

@@ -17,7 +17,7 @@ canonical: https://podwrecked.com/ep042-ten-ways-to-podwreck
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800098/pw042-ten-ways-to-podwreck.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.042
 
 ## Episode #042

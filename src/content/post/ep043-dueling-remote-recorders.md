@@ -14,7 +14,7 @@ canonical: https://podwrecked.com/ep043-dueling-remote-recorders
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="#">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://storage.googleapis.com/storage.oncetold.net/80000029/20800099/pw043-pw043-dueling-remote-recorders.mp3">Your browser does not support the audio element.</audio>
 Podwrecked Ep.043
 
 ## Episode #043
