@@ -3,7 +3,7 @@ publishDate: 2020-08-14T02:08:00Z
 title: 'Deep in the Heart of Podfest'
 description: Kyle and Tim record live from the biggest virtual podcasting conference in the world - Podfest Global Summit 2020 - and tell you what we've learned so far.
 excerpt: Kyle and Tim record live from the biggest virtual podcasting conference in the world - Podfest Global Summit 2020 - and tell you what we've learned so far.
-image: ~/assets/images/podwrecked.com-deep-in-the-heart-of-podfest-960x400.jpg
+image: ~/assets/images/podwrecked.com-life-after-episode-13-with-terri-walters-960x400.jpg
 category: Lessons Learned
 tags:
   - podcasting

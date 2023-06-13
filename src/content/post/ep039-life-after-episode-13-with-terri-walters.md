@@ -3,7 +3,7 @@ publishDate: 2020-07-18T02:08:00Z
 title: 'Life After Episode #13 with Terri Walters'
 description: Tim and Kyle talk with Terri Walters, host of EventYak, about what it was like to create the first thirteen episodes of her podcast.
 excerpt: Tim and Kyle talk with Terri Walters, host of EventYak, about what it was like to create the first thirteen episodes of her podcast.
-image: ~/assets/images/podwrecked.com-life-after-episode-13-with-terri-walters-960x400.jpg
+image: ~/assets/images/podwrecked.com-deep-in-the-heart-of-podfest-960x400.jpg
 category: Lessons Learned
 tags:
   - podcasting
