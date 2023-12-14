@@ -1,0 +1,484 @@
+@import "./normalize.css";
+
+/* ******************************************************************* */
+/* Font Imports */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+/* ******************************************************************* */
+/* Breakpoints */
+/* 320px — 480px: Mobile devices. */
+/* 481px — 768px: iPads, Tablets. */
+/* 769px — 1024px: Small screens, laptops. */
+/* 1025px — 1200px: Desktops, large screens. */
+/* 1201px and more — Extra large screens, TV.  */
+
+/* For extremely small screen devices (595px and below) */
+/* @media only screen and (max-width: 595px) {...} */
+
+/* Small screen devices (600px and above) */
+/* @media only screen and (min-width: 600px) {...} */
+
+/* Medium screen devices (768px and above) */
+/* @media only screen and (min-width: 768px) {...} */
+
+/* Big screen devices (889px and above) */
+/* @media only screen and (min-width: 889px) {...} */
+
+/* Extra big screen devices (1200px and above) */
+/* @media only screen and (min-width: 1200px) {...} */
+
+/* ******************************************************************* */
+/* Color Vars */
+
+:root {
+  --color-primary: #5eb1bf;
+  --color-primary-alt: #368d9a;
+  --color-bottom: #004956;
+  --color-secondary: #bf6c5e;
+  --color-tertiary: #006a77;
+  --color-accent: #ef7b45;
+  --color-light: #b5dde4;
+  --color-headings: #fffff0;
+  --color-body: #fffff0;
+  --color-body-darker: #5c5577;
+  --color-background-lt: #465056;
+  --color-background: #2f363a;
+  --color-border: #ccc;
+  --color-borders: #c1c9ce;
+  --color-dark: #81362c;
+  --color-footer: #002b37;
+  --color-placeholder: #cbcdd7;
+  --border-radius: 30px;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/* *********************************************** */
+/* Typography */
+
+::selection {
+  background: var(--color-primary);
+  color: #fff;
+}
+
+html {
+  /* 62.5% of 16px = 10px */
+  font-size: 62.5%;
+}
+
+body {
+  background: var(--color-tertiary);
+  color: var(--color-body);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.4rem;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--color-headings);
+  margin-bottom: 1rem;
+  line-height: 1.1;
+}
+
+h1 {
+  /* 1 x font size of the html element */
+  font-size: 7rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+p {
+  margin-top: 0;
+  font-weight: 400;
+}
+
+@media screen and (min-width: 1024px) {
+  body {
+    font-size: 1.8rem;
+  }
+
+  h1 {
+    font-size: 8rem;
+  }
+
+  h2 {
+    font-size: 4rem;
+  }
+
+  h3 {
+    font-size: 2.4rem;
+  }
+}
+
+/* *********************************************** */
+/* Links */
+
+a {
+  text-decoration: none;
+}
+
+
+
+/* *********************************************** */
+/* Badges */
+
+.badge {
+  border-radius: 20px;
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 0.5rem 2rem;
+  white-space: nowrap;
+}
+
+.badge--primary {
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.badge--secondary {
+  background: var(--color-secondary);
+  color: #fff;
+}
+
+.badge--small {
+  font-size: 1.6rem;
+  padding: 0.5rem 1.5rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .badge {
+    font-size: 1.5rem;
+  }
+
+  .badge--small {
+    font-size: 1.2rem;
+  }
+}
+
+/* *********************************************** */
+/* Lists */
+
+.list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list--inline .list__item {
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+.list--tick {
+  list-style-image: url(../images/tick.svg);
+  padding-left: 3rem;
+  color: var(--color-headings);
+}
+
+.list--tick .list__item {
+  padding-left: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .list--tick .list__item {
+    padding-left: 0;
+  }
+}
+
+/* *********************************************** */
+/* Icons */
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+.icon--small {
+  width: 30px;
+  height: 30px;
+}
+
+.icon--primary {
+  fill: var(--color-headings);
+}
+
+.icon--white {
+  fill: #fff;
+}
+
+.icon-container {
+  background: var(--color-secondary);
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* icon skin */
+.icon-container--accent {
+  background: var(--color-accent);
+}
+
+/* *********************************************** */
+/* Buttons */
+
+.btn {
+  border-radius: 40px;
+  border: 0;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 1rem 0;
+  outline: 0;
+  padding: 2rem 4vw;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.btn .icon {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 1rem;
+  vertical-align: middle;
+}
+
+.btn--primary {
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.btn--primary:hover {
+  background: var(--color-tertiary);
+}
+
+.btn--secondary {
+  background: var(--color-secondary);
+  color: #fff;
+}
+
+.btn--secondary:hover {
+  background: var(--color-dark);
+}
+
+.btn--accent {
+  background: var(--color-accent);
+  color: #fff;
+}
+
+.btn--accent:hover {
+  background: #ec3000;
+}
+
+.btn--stretched {
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
+.btn--block {
+  width: 100%;
+  display: inline-block;
+}
+
+.btn--outline {
+  background: #fff;
+  color: #000;
+  border: 2px solid var(--color-headings);
+}
+
+.btn--outline:hover {
+  background: var(--color-headings);
+  color: #000;
+}
+
+@media screen and (min-width: 1024px) {
+  .btn {
+    font-size: 1.5rem;
+  }
+}
+
+/* *********************************************** */
+/* Inputs */
+
+.input {
+  border-radius: var(--border-radius);
+  border: 1px solid var(--color-border);
+  color: var(--color-headings);
+  font-size: 2rem;
+  outline: 0;
+  padding: 1.5rem 3.5rem;
+}
+
+::placeholder {
+  color: #cdcbd7;
+}
+
+.input-group {
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  display: flex;
+}
+
+.input-group .input {
+  border: 0;
+  flex-grow: 1;
+  padding: 1.5rem 2rem;
+  width: 0;
+}
+
+.input-group .btn {
+  margin: 4px;
+}
+
+@media screen and (min-width: 1024px) {
+  .input {
+    font-size: 1.5rem;
+  }
+}
+
+/* *********************************************** */
+/* Cards */
+
+.card {
+  border-radius: 7px;
+  box-shadow: 0 0 20px 10px var(--color-light);
+  overflow: hidden;
+}
+
+.card__header,
+.card__body {
+  padding: 2rem 3rem;
+}
+
+.card--primary .card__header {
+  background: var(--color-secondary);
+  color: #fff;
+}
+
+.card--secondary .card__header {
+  background: var(--color-secondary);
+  color: #fff;
+}
+
+.card--primary .badge--primary {
+  background: var(--color-secondary);
+  margin: .5rem;
+}
+
+.card--secondary .badge--secondary {
+  background: #02cdf1;
+}
+
+
+
+/* *********************************************** */
+/* Media */
+
+.media {
+  display: flex;
+  margin-bottom: 4rem;
+}
+
+.media__title {
+  margin-top: 0;
+}
+
+.media__body {
+  margin: 0 2rem;
+}
+
+.media__image {
+  margin-top: 1rem;
+}
+
+
+
+/* *********************************************** */
+/* Grid */
+
+.grid {
+  display: grid;
+}
+
+@media screen and (min-width: 760px) {
+  .grid--1x2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .grid--1x3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+
+
+
+/* *********************************************** */
+/* GLOBAL */
+/* Blocks */
+
+.block {
+  padding: 3rem 0 1rem;
+  /* border: 2px solid red; */
+}
+
+.block__header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.block__heading {
+  margin-top: 0;
+}
+
+.block--hero {
+  background: var(--color-primary-alt);
+  color: var(--color-headings);
+}
+
+.block--dark {
+  background: var(--color-tertiary);
+  color: var(--color-primary-alt);
+}
+
+.block--dark h1,
+.block--dark h2,
+.block--dark h3 {
+  color: var(--color-headings);
+}
+
+.block--skewed-right {
+  padding-bottom: calc(1rem + 4rem);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 90%);
+}
+
+.block--skewed-left {
+  padding-bottom: calc(1rem + 4rem);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 100%);
+}
