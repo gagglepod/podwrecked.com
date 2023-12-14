@@ -4,7 +4,9 @@
       <!-- about-details #0 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Not another podcast media hosting company</h2>
+          <h2 class="about-detail__heading">
+            A Podcast Teaching Company that happens to do Media Hosting
+          </h2>
           <p class="about-detail__info">
             Whoa! We hear it all the time. But Oncetold is not another podcast media
             hosting company. We were built from the ground-up using a decade of real-world
@@ -44,6 +46,11 @@
             on simplicity, clarity, ease-of-use, and honesty. This goes for our products,
             our podcasts, our publications, our talks, and our company.
           </p>
+          <p class="about-detail__info">
+            Take a lesson to our award winning American Civil War podcast
+            <a href="https://waryankee.com/" target="_blank">War Yankee - Overland</a> to
+            see what we do when not building apps.
+          </p>
         </div>
       </article>
 
@@ -74,13 +81,12 @@
         <div class="about-detail__content">
           <h2 class="about-detail__heading">We embrace open-source thinking</h2>
           <p class="about-detail__info">
-            Every tech savvy company should enjoy a hardy breakfast of JAMStack (on
-            Toast). If you run in tech circles, you've surely heard of JAMStack
-            (JavaScript, API, and Markup). The Jamstack ecosystem at Oncetold has made us
-            faster, more secure, and easier to scale. It's also a big part of the
-            Podcasting 2.0 ecosystem. Today, JAMStack is as vibrant as ever, and because
-            it is built into the heart of Oncetold, we hope to give back to JAMStack with
-            our own internal experiments.
+            We're a tech savvy company that enjoys a hardy breakfast of Podcasting 2.0
+            Feature Tags, some JAMStack (JavaScript, API, and Markup) on toast, and a big
+            glass of Firebase to wash it down. The open-source ecosystem at Oncetold has
+            made us faster, more secure, and easier to scale. Today, open-source is as
+            vibrant as ever, and because it is built into the heart of Oncetold, we often
+            give back when we can.
           </p>
         </div>
       </article>
@@ -93,24 +99,40 @@
           </h2>
           <p class="about-detail__info">
             The best business advice we ever got came from two great thinkers. The first
-            was from Sir Jonathan Ive from Apple. He told us, "[I]deas ultimately can be
-            so powerful, they begin as fragile, barely formed thoughts, so easily missed,
-            so easily compromised, so easily just squished." He taught us that ideas can
-            be very fragile and we must live in between the dopey ideas and believing in
-            bold, crazy, magnificent ideas. Oncetold is a special environment for
-            nurturing and incubating ideas.
+            was from Sir Jonathan Ive from Apple. He told us,
+            <em
+              >"[I]deas ultimately can be so powerful, they begin as fragile, barely
+              formed thoughts, so easily missed, so easily compromised, so easily just
+              squished."</em
+            >
+            He taught us that ideas can be very fragile and we must live in between the
+            dopey ideas and believing in bold, crazy, magnificent ideas. Oncetold is a
+            special environment for nurturing and incubating ideas.
           </p>
 
           <p class="about-detail__info">
-            The other great thinker was Mark Twain who said, "The secret to getting ahead
-            is getting started. The secret of getting started is breaking your complex
-            overwhelming tasks into manageable tasks, and then starting on the first one."
+            We belived in Sir Ive's statement that we started a podcast about Podcast
+            Design Principles called
+            <a href="https://noteasilysquished.com/" target="_blank"
+              >Not Easily Squished. Have a listen.</a
+            >
+          </p>
+
+          <p class="about-detail__info">
+            The other great thinker was Mark Twain who said,
+            <em
+              >"The secret to getting ahead is getting started. The secret of getting
+              started is breaking your complex overwhelming tasks into manageable tasks,
+              and then starting on the first one."</em
+            >
             He shows us that simplicity should be at the heart of everything we do. 10
-            years from now people aren't going to say "I wish Oncetold was harder to use"
-            or "I wish Oncetold was slower and less reliable" or "I wish it took longer to
-            get an answer from someone at Oncetold", so we invest heavily in
-            infrastructure, great design, and customer service. We don't chase fads and
-            trends, we stay focused on the things that will always be important.
+            years from now people aren't going to say,
+            <em>"I wish Oncetold was harder to use"</em> or
+            <em>"I wish Oncetold was slower and less reliable"</em> or
+            <em>"I wish it took longer to get an answer from someone at Oncetold"</em>, so
+            we invest heavily in infrastructure, great design, and customer service. We
+            don't chase fads and trends, we stay focused on the things that will always be
+            important.
           </p>
         </div>
       </article>
@@ -215,6 +237,7 @@ export default {};
 
 .about-detail__heading {
   margin: 1rem 0;
+  line-height: 5rem;
 }
 
 .about-detail__info {
