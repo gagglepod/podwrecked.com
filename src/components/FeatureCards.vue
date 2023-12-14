@@ -4,153 +4,210 @@
       <!-- Feature #1 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content">
-          <h2 class="feature__heading">Prepare Your Episodes First</h2>
+          <h2 class="feature__heading">Start Your Episode Design, No Audio Required</h2>
           <p class="feature__info">
-            Oncetold allows you to create your podcast episode details BEFORE you ever
-            record your audio. This can allow you to brainstorm in advance or have someone
-            on your team create it for you.
+            Oncetold allows you to design your podcast episode details BEFORE you ever
+            record any audio. This can allow you to brainstorm ideas, plan your episodes
+            in advance, or have a member of your team create it for you. The best part is
+            you can always change it later!
           </p>
         </div>
         <picture>
           <source
             type="image/webp"
-            srcset="../assets/images/prepare.webp 1x, ../assets/images/prepare@2x.webp 2x"
+            srcset="
+              ../assets/images/ot-episode.webp    1x,
+              ../assets/images/ot-episode@2x.webp 2x
+            "
           />
           <source
             type="image/jpg"
-            srcset="../assets/images/prepare.jpg 1x, ../assets/images/prepare@2x.jpg 2x"
+            srcset="
+              ../assets/images/ot-episode.jpg    1x,
+              ../assets/images/ot-episode@2x.jpg 2x
+            "
           />
-          <img class="feature__image" src="../assets/images/prepare@2x.jpg" alt="" />
+          <img
+            class="feature__image"
+            src="../assets/images/ot-episode@2x.jpg"
+            alt="Start Your Episode Design, No Audio Required"
+          />
         </picture>
       </article>
 
       <!-- Feature #2 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content" data-aos="fade-left">
-          <h2 class="feature__heading">Publish When You Are Ready</h2>
+          <h2 class="feature__heading">
+            All Your Need to Build Your Library of Episodes
+          </h2>
           <p class="feature__info">
-            With Prepared episodes you can plan ahead and add episode audio to your
-            podcast now and the publish it later. This can give you the freedom to
-            schedule your release dates or allow your team to release your episodes for
-            you.
+            When you are finished recording, Oncetold gives you all the tools to Shape and
+            Share your episodes. With every part of the process reduced down to one step
+            at a time we don't overwhelm you with nonsense. Clearn and simple steps, no
+            guesswork, and a library that shows you what your audience sees and hears.
           </p>
         </div>
         <picture>
           <source
             type="image/webp"
-            srcset="../assets/images/publish.webp 1x, ../assets/images/publish@2x.webp 2x"
+            srcset="
+              ../assets/images/ot-library.webp    1x,
+              ../assets/images/ot-library@2x.webp 2x
+            "
           />
           <source
             type="image/jpg"
-            srcset="../assets/images/publish.jpg 1x, ../assets/images/publish@2x.jpg 2x"
+            srcset="
+              ../assets/images/ot-library.jpg    1x,
+              ../assets/images/ot-library@2x.jpg 2x
+            "
           />
-          <img class="feature__image" src="../assets/images/publish@2x.jpg" alt="" />
+          <img
+            class="feature__image"
+            src="../assets/images/ot-library@2x.jpg"
+            alt="All Your Need to Build Your Library of Episodes"
+          />
         </picture>
       </article>
 
       <!-- Feature #3 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content">
-          <h2 class="feature__heading">Less is More Feature Set</h2>
+          <h2 class="feature__heading">An Opinionated Approach to Podcasting</h2>
           <p class="feature__info">
-            Oncetold was built by podcasters for podcasters. In the era of podcast media
-            hosting companies going at it with feature wars, Oncetold stiped out all the
-            fluff and shiny objects in favor of features that actually support your show.
+            We want you to be a podcaster, not an engineer. We designed Oncetold with a
+            <em>less is more</em> mentality to provide an opinionated approach to podcast
+            design. We removed all the confusing podcasting jargon, engineering
+            jibberjabber, and RSS-heavy tech talk. In its place we created simple steps,
+            streamlined tasks, and a culture of education.
           </p>
         </div>
         <picture data-aos="zoom-in-left">
           <source
             type="image/webp"
             srcset="
-              ../assets/images/dashboard.webp    1x,
-              ../assets/images/dashboard@2x.webp 2x
+              ../assets/images/ot-stats.webp    1x,
+              ../assets/images/ot-stats@2x.webp 2x
             "
           />
           <source
             type="image/jpg"
-            srcset="
-              ../assets/images/dashboard.jpg    1x,
-              ../assets/images/dashboard@2x.jpg 2x
-            "
+            srcset="../assets/images/ot-stats.jpg 1x, ../assets/images/ot-stats@2x.jpg 2x"
           />
-          <img class="feature__image" src="../assets/images/dashboard@2x.jpg" alt="" />
+          <img
+            class="feature__image"
+            src="../assets/images/ot-stats@2x.jpg"
+            alt="An Opinionated Approach to Podcasting"
+          />
         </picture>
       </article>
 
       <!-- Feature #4 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content">
-          <h2 class="feature__heading">24/7 Customer Support</h2>
+          <h2 class="feature__heading">
+            The Future of Podcasting is Podcasting 2.0 Features
+          </h2>
           <p class="feature__info">
-            Podcast publishing is still tough. That's why Oncetold is all about good
-            customer service. We don't push you cold, lifeless bots or forward you to a
-            generic call center. We have real people ready to solve your problems when
-            they happen.
+            Podcasting 2.0 is the best thing to happen to podcasting in the past decade.
+            We believe it so much that we created Oncetold from the the ground up with
+            what we think are the most important Podcasting 2.0 Features built in. We'll
+            even show you why they are important to your audience and teach how to use
+            them to future-proof your podcast.
           </p>
         </div>
         <picture data-aos="zoom-in-right">
           <source
             type="image/webp"
-            srcset="../assets/images/help.webp 1x, ../assets/images/help@2x.webp 2x"
+            srcset="
+              ../assets/images/ot-features.webp    1x,
+              ../assets/images/ot-features@2x.webp 2x
+            "
           />
           <source
             type="image/jpg"
-            srcset="../assets/images/help.jpg 1x, ../assets/images/help@2x.jpg 2x"
+            srcset="
+              ../assets/images/ot-features.jpg    1x,
+              ../assets/images/ot-features@2x.jpg 2x
+            "
           />
-          <img class="feature__image" src="../assets/images/help@2x.jpg" alt="" />
+          <img
+            class="feature__image"
+            src="../assets/images/ot-features@2x.jpg"
+            alt="The Future is Podcasting 2.0 Features"
+          />
         </picture>
       </article>
 
       <!-- Feature #5 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content">
-          <h2 class="feature__heading">Less is More Feature Set</h2>
+          <h2 class="feature__heading">A User Experience Designed For Storytellers</h2>
           <p class="feature__info">
             Oncetold was built by podcasters for podcasters. In the era of podcast media
-            hosting companies going at it with feature wars, Oncetold stiped out all the
-            fluff and shiny objects in favor of features that actually support your show.
+            feature wars, we're a hosting company that stiped out all the fluff and shiny
+            objects in favor of providing you the features that are designed to support
+            getting your episodes to your audience. We don't do ads. We don't do dynamic
+            insertion. We don't monetize anything.
           </p>
         </div>
         <picture data-aos="zoom-in-left">
           <source
             type="image/webp"
             srcset="
-              ../assets/images/dashboard.webp    1x,
-              ../assets/images/dashboard@2x.webp 2x
+              ../assets/images/ot-chapters.webp    1x,
+              ../assets/images/ot-chapters@2x.webp 2x
             "
           />
           <source
             type="image/jpg"
             srcset="
-              ../assets/images/dashboard.jpg    1x,
-              ../assets/images/dashboard@2x.jpg 2x
+              ../assets/images/ot-chapters.jpg    1x,
+              ../assets/images/ot-chapters@2x.jpg 2x
             "
           />
-          <img class="feature__image" src="../assets/images/dashboard@2x.jpg" alt="" />
+          <img
+            class="feature__image"
+            src="../assets/images/ot-chapters@2x.jpg"
+            alt="A User Experience Designed For Storytellers"
+          />
         </picture>
       </article>
 
       <!-- Feature #6 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content">
-          <h2 class="feature__heading">24/7 Customer Support</h2>
+          <h2 class="feature__heading">
+            A Podcast Teaching Company That Happens to do Media Hosting
+          </h2>
           <p class="feature__info">
-            Podcast publishing is still tough. That's why Oncetold is all about good
-            customer service. We don't push you cold, lifeless bots or forward you to a
-            generic call center. We have real people ready to solve your problems when
-            they happen.
+            The heart of Oncetold is our dedication to teaching you how to podcast. We
+            know how tough podcasting can be because we've been down that road too. To
+            help those starting on their own podcating journey Oncetold provides quality
+            education and customer support for every storyteller on Day-1.
           </p>
         </div>
         <picture data-aos="zoom-in-right">
           <source
             type="image/webp"
-            srcset="../assets/images/help.webp 1x, ../assets/images/help@2x.webp 2x"
+            srcset="
+              ../assets/images/ot-value4value.webp    1x,
+              ../assets/images/ot-value4value@2x.webp 2x
+            "
           />
           <source
             type="image/jpg"
-            srcset="../assets/images/help.jpg 1x, ../assets/images/help@2x.jpg 2x"
+            srcset="
+              ../assets/images/ot-value4value.jpg    1x,
+              ../assets/images/ot-value4value@2x.jpg 2x
+            "
           />
-          <img class="feature__image" src="../assets/images/help@2x.jpg" alt="" />
+          <img
+            class="feature__image"
+            src="../assets/images/ot-value4value@2x.jpg"
+            alt=""
+          />
         </picture>
       </article>
     </div>
@@ -167,8 +224,8 @@ export default {};
 
 .feature-block {
   border-top: 2px solid var(--color-light);
-  background: var(--color-primary-alt);
-  padding: 5rem 0 5rem;
+  background: var(--color-tertiary);
+  padding: 0 0 5rem 0;
   /* border: 2px solid red; */
 }
 
@@ -193,6 +250,7 @@ export default {};
 
 .feature__heading {
   margin: 1rem 0;
+  line-height: 5rem;
 }
 
 .feature__info {

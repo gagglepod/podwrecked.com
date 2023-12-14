@@ -6,14 +6,12 @@
   </div>
 
   <div v-if="post">
-    <!-- <section class="blog-article-block block--blog-article" :style="{ backgroundImage: 'url(\'' + require('@/assets/images/books-1280x720.jpg') + '\')' }"> -->
-
     <section
       class="blog-article-block block--blog-article"
       :style="{
         backgroundImage:
-          'linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(\'' +
-          require(`@/assets/images/${post.img}`) +
+          'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(\'/images/' +
+          post.img +
           '\')',
       }"
     >
@@ -27,10 +25,7 @@
           <h1 class="blog-article__heading">{{ post.title }}</h1>
           <p class="blog-article__shortline">{{ post.subtitle }}</p>
           <p class="blog-article__author">By {{ post.author }}</p>
-          <button
-            class="btn btn--secondary btn--stretched"
-            @click="$router.push('/blog')"
-          >
+          <button class="btn btn--secondary btn--stretched" @click="router.back()">
             Back to Article List
           </button>
         </header>
@@ -59,8 +54,9 @@
 </template>
 
 <script>
-import { ref } from "vue";
+import { ref, watchEffect } from "vue";
 import { db } from "../firebase/config";
+import { doc, getDoc } from "firebase/firestore";
 import { useRouter } from "vue-router";
 import CloudRow from "../components/CloudRow.vue";
 import TheSpacer from "../components/TheSpacer.vue";
@@ -77,42 +73,36 @@ export default {
   },
   props: ["id"],
   setup(props) {
-    const posts = ref([]);
+    const post = ref(null);
     const error = ref(null);
+    const isLoading = ref(true);
     const router = useRouter();
-    const load = async () => {
-      try {
-        // simulate delay
-        // await new Promise((resolve) => {
-        //   setTimeout(resolve, 2000);
-        // });
 
-        // DB JSON - LOCAL
-        // let data = await fetch("http://localhost:3000/posts");
-        // if (!data.ok) {
-        //   throw Error("No Posts Available");
-        // }
-        // posts.value = await data.json();
+    watchEffect(() => {
+      (async () => {
+        try {
+          const postDoc = doc(db, "posts", props.id);
+          const postSnap = await getDoc(postDoc);
 
-        // DB FIRESTORE - CLOUD
-        const res = await db.collection("posts").get();
-        // console.log(res.docs);
-
-        posts.value = res.docs.map((doc) => {
-          // console.log(doc.data());
-          return { ...doc.data(), id: doc.id };
-        });
-      } catch (err) {
-        error.value = err.message;
-        console.log(error.value);
-      }
-    };
-
-    load();
+          if (postSnap.exists()) {
+            post.value = { ...postSnap.data(), id: postSnap.id };
+          } else {
+            throw Error("Post not found");
+          }
+        } catch (err) {
+          error.value = err.message;
+          console.error(error.value);
+        } finally {
+          isLoading.value = false;
+        }
+      })();
+    });
 
     return {
-      posts,
+      post,
       error,
+      isLoading,
+      router,
     };
   },
 };

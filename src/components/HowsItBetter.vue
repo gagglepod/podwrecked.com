@@ -3,12 +3,12 @@
     <div class="container">
       <header class="better-summary__header">
         <p class="better-summary__text">
-          <strong>How Oncetold is Unlike any Other Podcast Host:</strong> Unlink other
-          complicated hosting dashboards with forms that scroll off into infinity,Oncetold
-          makes every step simple by default. The flow is obvious, things are where you
-          expect to find them, and the path to building an episode is clear.
+          <strong>How Oncetold is Unlike any Other Podcast Host:</strong> Oncetold makes
+          every step simple by default unlike other complicated hosting dashboards with
+          forms that scroll off into infinity. Our flow is obvious, things are where you
+          expect to find them, and the path to building your episodes is clear.
         </p>
-        <p class="better-summary__text"><strong>Here's how it works:</strong></p>
+        <h2 class="better-summary__heading"><strong>Here's how it works:</strong></h2>
       </header>
     </div>
   </section>
@@ -20,7 +20,7 @@ export default {};
 
 <style>
 .better-block {
-  padding: 1rem 0 1rem;
+  padding: 1rem 0 0;
   /* border: 2px solid red; */
 }
 
@@ -38,6 +38,10 @@ export default {};
 .better-summary__header {
   text-align: center;
   margin-bottom: 5rem;
+}
+
+.better-summary__heading {
+  margin: 4rem 0 0 0;
 }
 
 .better-summary__text {

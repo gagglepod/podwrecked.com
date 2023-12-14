@@ -44,7 +44,6 @@
           </div>
         </article>
       </div>
-      <div else>No posts found</div>
       <!-- Grid End -->
     </div>
   </section>
@@ -71,7 +70,7 @@ export default {
         });
         // update values
         readyList.value = results;
-        console.log("readyList: ", readyList.value);
+        // console.log("readyList: ", readyList.value);
       });
 
       watchEffect((onInvalidate) => {
