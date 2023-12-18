@@ -39,13 +39,18 @@
             </ul>
             <span class="plan__description">Podcasting 2.0 Namespace Features</span>
             <ul class="list list--tick">
-              <li class="list__item">Growing list of namespace tools</li>
+              <li class="list__item">Growing list of namespace tools that includes...</li>
               <li class="list__item">Chapters and Transcripts on-demand</li>
               <li class="list__item">Unique GUIDs</li>
               <li class="list__item">Secure RSS feed</li>
+              <li class="list__item">Podcast Locked by default</li>
               <li class="list__item">Show and episode Person and Podroll builders</li>
               <li class="list__item">Native and OP3 statistics</li>
               <li class="list__item">Funding and Lightning V4V ready</li>
+              <li class="list__item">Value and Value Recipient balancing</li>
+              <li class="list__item">Person builder for show and episodes</li>
+              <li class="list__item">Seasons or Episodic Indexing</li>
+              <li class="list__item">Podroll builder</li>
             </ul>
             <!-- <p class="plan__name">* Limits reset on the 1st of every month.</p> -->
             <a href="https://oncetold.cloud" target="_blank"
