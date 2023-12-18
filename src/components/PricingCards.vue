@@ -3,7 +3,7 @@
     <header class="block__header" data-aos="fade-up">
       <h2>Built by Storytellers, Not Engineers</h2>
       <p>
-        We stiped out all the fluff in favor of steamlined features that break episode
+        We stiped out all the fluff in favor of streamlined features that break episode
         creation into bite-sized parts. All plans include Podcasting 2.0 namespace tools,
         access to all features from day one, and a free no-obligation
         {{ accountPlanTrial }}-day trial.
@@ -17,42 +17,35 @@
         <!-- ONCETOLD APPRENTICE PLAN -->
         <div class="price-card price-card--tertiary">
           <header class="price-card__header">
-            <h3 class="plan__name">Onctold</h3>
+            <h3 class="plan__name">Oncetold</h3>
             <span class="plan__price">${{ accountPlanPrice }}</span>
             <span class="plan__biling-cycle">/per month</span>
             <!-- <span class="badge badge--secondary badge--small">Try for Free</span> -->
             <span class="plan__description"
-              >Everything you need to create a podcast and tell your story.</span
+              >One fixed price that gives you everything you need to tell your
+              story.</span
             >
           </header>
           <div class="price-card__body">
-            <span class="plan__description">Plan Details</span>
+            <span class="plan__description">One Simple Plan</span>
             <ul class="list list--tick">
-              <li class="list__item">{{ accountPlanPodcasts }} x Podcast</li>
+              <li class="list__item">Every feature you need</li>
               <li class="list__item">{{ accountPlanTrial }}-Day Free Trial</li>
-              <li class="list__item">Simplified User Experience</li>
-              <li class="list__item">{{ accountPlanStorage }} Mb Storage/month</li>
-              <li class="list__item">{{ accountPlanDownloads }} Downloads/month</li>
-              <li class="list__item">Phone/Email Support</li>
-              <li class="list__item">Podcast Training/Resources</li>
-            </ul>
-            <span class="plan__description">Show Building Features</span>
-            <ul class="list list--tick">
-              <li class="list__item">Show Builder</li>
-              <li class="list__item">Episode Builder</li>
-              <li class="list__item">Secure RSS Feed</li>
-              <li class="list__item">Directory Link Builder</li>
-              <li class="list__item">Download Statistics</li>
+              <li class="list__item">{{ accountPlanStorage }} GB storage for audio</li>
+              <li class="list__item">{{ accountPlanDownloads }} Downloads per month</li>
+              <li class="list__item">Access to podcast workshops and resources</li>
+              <li class="list__item">Month-to-month, pay as you go</li>
+              <li class="list__item">Phone and email support</li>
             </ul>
             <span class="plan__description">Podcasting 2.0 Namespace Features</span>
             <ul class="list list--tick">
-              <li class="list__item">OP3 Statistics</li>
+              <li class="list__item">Growing list of namespace tools</li>
+              <li class="list__item">Chapters and Transcripts on-demand</li>
               <li class="list__item">Unique GUIDs</li>
-              <li class="list__item">Chapters Builder</li>
-              <li class="list__item">Transcripts On-Demand</li>
-              <li class="list__item">Persons Builder</li>
-              <li class="list__item">Funding</li>
-              <li class="list__item">Lightning V4V Ready</li>
+              <li class="list__item">Secure RSS feed</li>
+              <li class="list__item">Show and episode Person and Podroll builders</li>
+              <li class="list__item">Native and OP3 statistics</li>
+              <li class="list__item">Funding and Lightning V4V ready</li>
             </ul>
             <!-- <p class="plan__name">* Limits reset on the 1st of every month.</p> -->
             <a href="https://oncetold.cloud" target="_blank"
@@ -76,15 +69,15 @@ export default {
 
     let accountPlanPrice = otSubscriptionPrice;
     let accountPlanTrial = 14;
-    let accountPlanPodcasts = 1;
-    let accountPlanStorage = 200;
+    // let accountPlanPodcasts = 1;
+    let accountPlanStorage = 10;
     let accountPlanDownloads = "20,000";
 
     return {
       otSubscriptionPrice,
       accountPlanPrice,
       accountPlanTrial,
-      accountPlanPodcasts,
+      // accountPlanPodcasts,
       accountPlanStorage,
       accountPlanDownloads,
     };
