@@ -36,7 +36,9 @@
           src="../assets/images/oncetold-logo-text.svg"
           alt="Oncetold Logo"
         />
-        <p class="footer__copyright">Copyright &copy; 2023. Oncetold. Tell Your Story.</p>
+        <p class="footer__copyright">
+          Copyright &copy; {{ currentYear }}. Oncetold. Tell Your Story.
+        </p>
         <p class="footer__footnote">Oncetold Company Website ver{{ otVersion }}</p>
       </div>
     </div>
@@ -44,12 +46,22 @@
 </template>
 
 <script>
+import moment from "moment";
 export default {
+  name: "TheFooter",
+  components: {},
+  props: [],
   setup() {
     const otVersion = import.meta.env.VITE_VERSION;
 
+    // console.log("Current Date:", moment().toString());
+    // console.log("Current year is:", moment().year());
+
+    let currentYear = moment().year();
+
     return {
       otVersion,
+      currentYear,
     };
   },
 };
