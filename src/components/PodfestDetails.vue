@@ -8,8 +8,15 @@
             Talesmithing: Crafting Engaging Podcast Narratives
           </h2>
           <p class="about-detail__info">
+            Why do new podcasters fail? Because they don't understand where their content
+            comes from. Once they run out of their top ideas around episode #13, they
+            struggle to keep away from the bear that is "the messy middle". Once that bear
+            pounces, their podcast is in trouble! How do you survive the messy middle? By
+            finding a green field of new topics long before you start recording.
+          </p>
+          <p class="about-detail__info">
             <a href="https://oncetold.cloud/" target="_blank"
-              >Here are my Podfest 2024 Slides [PDF]</a
+              >Enjoy my Podfest 2024 Slides [PDF]</a
             >
           </p>
         </div>
@@ -18,10 +25,21 @@
       <!-- about-detail #1 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Oncetold Podcast Hosting</h2>
+          <h2 class="about-detail__heading"></h2>
+          <p class="about-detail__info">
+            Oncetold is my Podcast Teaching Company that happens to do media hosting.
+            Oncetold is also the answer to the mess and confusion that exists in today's
+            podcast hosting arena. Nothing is more frustrating than software designed by
+            engineers. When I approached the podcast hosting challenge, my goal was to
+            think like a new podcaster and not an engineer. This mindset helped create a
+            customer-first toolset that breaks everything down into bite-sized tasks. I
+            don't chase features or worry about the things only big media hosting care
+            about. We are for the little podcasts, the solo podcasts, and the small niche
+            studios. And I plan to keep Oncetold that way for a long, long time.
+          </p>
           <p class="about-detail__info">
             <a href="https://oncetold.cloud/" target="_blank"
-              >Here is the link to Oncetold Hosting Waitlist</a
+              >Join my Oncetold Waitlist for our Spring/Summer 2024 launch!</a
             >
           </p>
         </div>
@@ -62,7 +80,7 @@
       <!-- about-details #3 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Podcast Experiments</h2>
+          <h2 class="about-detail__heading">Experiments</h2>
           <p class="about-detail__info">
             If you're into history,then take a listen to my award winning American Civil
             War podcast

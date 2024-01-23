@@ -5,7 +5,7 @@
         <div class="about__heading-img">
           <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
         </div>
-        <h1 class="about__heading">Tell Your Story</h1>
+        <h1 class="about__heading">Podfest 2204: Tell Your Story</h1>
         <p class="about__shortline">
           Thank you very much for attending my talk at Podfest 2024 in Orlando, Florida! I
           am very grateful. As a special bonus I have included several links to bonus
