@@ -4,9 +4,8 @@
       <!-- about-details #0 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">
-            Talesmithing: Crafting Engaging Podcast Narratives
-          </h2>
+          <h2 class="about-detail__heading">Talesmithing</h2>
+          <h3 class="about-detail__heading">Crafting Engaging Podcast Narratives</h3>
           <p class="about-detail__info">
             Why do new podcasters fail? Because they don't understand where their content
             comes from. Once they run out of their top ideas around episode #13, they
@@ -95,6 +94,12 @@
             <a href="https://pausefordramaticeffect.com" target="_blank"
               >PAUSE for Dramatic Effect. Enjoy the show!</a
             >.
+          </p>
+          <p class="about-detail__info">
+            Yup! The
+            <a href="https://anonymoosefiles.com" target="_blank">AnonyMoose Files</a> is
+            a real podcast -- sort of! Take a listen to the one and only episode. You
+            might be surprised at what you hear!
           </p>
         </div>
       </article>

@@ -8,8 +8,9 @@
         <h1 class="about__heading">Howdy, Podfest 2024!<br />Time to Tell Your Story!</h1>
         <p class="about__shortline">
           Thank you very much for attending my talk at Podfest 2024 in Orlando, Florida! I
-          am very grateful. As a special bonus I have included several links to bonus
-          material to help you on your Podcasting Journey. Enjoy!
+          am very grateful you took the time to come to my talk. As a special gift to you
+          I have included several links to a pile of free bonus materials to help you on
+          your Podcasting Journey. Enjoy!
         </p>
       </header>
     </div>
