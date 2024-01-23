@@ -8,6 +8,7 @@ import HowView from "../views/HowView.vue";
 import PricingView from "../views/PricingView.vue";
 import SupportView from "../views/SupportView.vue";
 import AboutView from "../views/AboutView.vue";
+import PodfestView from "../views/PodfestView.vue";
 import BlogView from "../views/BlogView.vue";
 import BlogArticle from "../views/BlogArticle.vue";
 import RightsView from "../views/RightsView.vue";
@@ -43,6 +44,11 @@ const routes = [
     path: "/about",
     name: "about",
     component: AboutView,
+  },
+  {
+    path: "/podfest",
+    name: "podfest",
+    component: PodfestView,
   },
   {
     path: "/blog",
