@@ -34,10 +34,11 @@
           <p class="about-detail__info">
             I've built sharing into the DNA of Onctold. I've given hundreds of talks that
             I've packed into lessons that you can find (along with my co-host Tim Brien)
-            on <a href="https://podwrecked.com">PODWRECKED</a> that focused on better ways
-            to create podcasts. By producing a podcast ABOUT podcasting I've learned how
-            to eat my own dog food, experience the struggles you will face as a podcaster
-            first hand, and teach you how to survive to tell the tale.
+            on <a href="https://podwrecked.com" target="_blank">PODWRECKED</a> that
+            focused on better ways to create podcasts. By producing a podcast ABOUT
+            podcasting I've learned how to eat my own dog food, experience the struggles
+            you will face as a podcaster first hand, and teach you how to survive to tell
+            the tale.
           </p>
           <p class="about-detail__info">
             Meanwhile, the best design advice I ever got came from a great thinker: Sir
@@ -55,6 +56,13 @@
               >Not Easily Squished. Have a listen.</a
             >
           </p>
+        </div>
+      </article>
+
+      <!-- about-details #3 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h2 class="about-detail__heading">Podcast Experiments</h2>
           <p class="about-detail__info">
             If you're into history,then take a listen to my award winning American Civil
             War podcast
@@ -73,7 +81,7 @@
         </div>
       </article>
 
-      <!-- about-detail #3 -->
+      <!-- about-detail #4 -->
       <article class="about-detail">
         <div class="about-detail__content">
           <h2 class="about-detail__heading">Making a dent</h2>
@@ -81,6 +89,16 @@
             I'm all in on podcasting and hoping to make a small dent in your podcasting
             universe. If I can help one podcaster reach one listener it will all have been
             worth it.
+          </p>
+          <p class="about-detail__info">
+            I spend several years building Gagglepod as a podcasting education company. I
+            still have several
+            <a href="https://www.youtube.com/@gagglepod3628" target="_blank"
+              >podcasting design videos up on YouTube that are perfect for new
+              podcasters</a
+            >. Please give a Like and Subscribe to any of them you watch! When Oncetold
+            launches it's podcasting education channel I will be sure to give you advanced
+            notice!
           </p>
         </div>
       </article>
@@ -103,7 +121,7 @@
               >Oncetold articles on LinkedIn</a
             >.
           </p>
-          <p class="about-detail__info">Thank you for visiting!.</p>
+          <h2 class="about-detail__heading">Thank you for visiting!</h2>
         </div>
       </article>
     </div>
