@@ -14,7 +14,9 @@
             finding a green field of new topics long before you start recording.
           </p>
           <p class="about-detail__info">
-            <a href="https://oncetold.cloud/" target="_blank"
+            <a
+              href="https://storage.googleapis.com/storage.oncetold.net/88888888/kbondo-talesmithing-v2-01242024.pdf"
+              target="_blank"
               >Enjoy my Podfest 2024 Slides [PDF]</a
             >
           </p>
@@ -38,7 +40,7 @@
           </p>
           <p class="about-detail__info">
             <a href="https://oncetold.cloud/" target="_blank"
-              >Join my Oncetold Waitlist for our Spring/Summer 2024 launch!</a
+              >Join my Oncetold Waitlist for our Summer 2024 launch!</a
             >
           </p>
         </div>
