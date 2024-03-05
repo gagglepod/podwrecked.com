@@ -1,42 +1,48 @@
 <template>
-    <header>
-        <nav class="nav" :class="[isActive ? 'collapsible--expanded' : 'collapsible']">
+  <header>
+    <nav class="nav" :class="[isActive ? 'collapsible--expanded' : 'collapsible']">
+      <a class="nav__brand" href="/"
+        ><img
+          class="logo-text logo-primary"
+          src="../assets/images/oncetold-logo-text.svg"
+          alt="Oncetold Logo"
+      /></a>
 
-            <a class="nav__brand" href="/"><img class="logo-text logo-primary" src="../assets/images/oncetold-logo-text.svg" alt="Oncetold Logo"/></a>
-
-            <svg class="icon icon--white nav__toggler" @click="toggleMenu">
-            <use href="../assets/images/sprite.svg#menu"></use>
-            </svg>
-            <ul class="list nav__list collapsible__content">
-              <li class="nav__item"><a href="/how-it-works">How it Works</a></li>
-              <li class="nav__item"><a href="/pricing">Pricing</a></li>
-              <li class="nav__item"><a href="/support">Support</a></li>
-              <li class="nav__item"><a href="https://oncetold.cloud" target="_blank">Sign In</a></li>
-              <li class="nav__item"><a href="https://oncetold.cloud" target="_blank">Try it FREE</a></li>
-            </ul>
-
-        </nav>
-    </header>
+      <svg class="icon icon--white nav__toggler" @click="toggleMenu">
+        <use href="../assets/images/sprite.svg#menu"></use>
+      </svg>
+      <ul class="list nav__list collapsible__content">
+        <li class="nav__item"><a href="/how-it-works">How it Works</a></li>
+        <li class="nav__item"><a href="/pricing">Pricing</a></li>
+        <li class="nav__item"><a href="/support">Support</a></li>
+        <li class="nav__item">
+          <a href="https://oncetold.cloud/login" target="_blank">Sign In</a>
+        </li>
+        <li class="nav__item">
+          <a href="https://oncetold.cloud" target="_blank">Try it FREE</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
 </template>
 
 <script>
-import { ref } from 'vue'
+import { ref } from "vue";
 
 export default {
-    setup() {
+  setup() {
+    const isActive = ref(false);
 
-        const isActive = ref(false)
+    const toggleMenu = () => {
+      isActive.value = !isActive.value;
+    };
 
-        const toggleMenu = () => {
-            isActive.value = !isActive.value
-        }
-
-        return {
-            isActive,
-            toggleMenu
-        }
-    }
-}
+    return {
+      isActive,
+      toggleMenu,
+    };
+  },
+};
 </script>
 
 <style>
@@ -50,7 +56,7 @@ export default {
 
 .logo-text {
   width: 150px;
-  padding-bottom: .25rem;
+  padding-bottom: 0.25rem;
 }
 
 .logo--primary {
@@ -65,7 +71,7 @@ export default {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-} 
+}
 
 /* *********************************************** */
 /* Collapsibles */
@@ -109,7 +115,7 @@ export default {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  padding: .25rem 1rem .5rem;
+  padding: 0.25rem 1rem 0.5rem;
   align-items: center;
 }
 
@@ -165,7 +171,4 @@ export default {
     border: 0;
   }
 }
-
-
-
 </style>
