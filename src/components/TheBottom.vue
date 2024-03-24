@@ -6,10 +6,10 @@
           You have questions? <a href="#" class="bottom__link">We have answers.</a>
         </h2>
         <h2 class="bottom__heading">
-          Ready to go? <a href="#" class="bottom__link">Let's do this!</a>
+          <a href="#" class="bottom__link">Ready to Tell Your Story?</a>
         </h2>
         <a href="https://oncetold.cloud" target="_blank"
-          ><button class="btn btn--secondary btn--stretched">Tell Your Story</button></a
+          ><button class="btn btn--secondary btn--stretched">The Time is Now</button></a
         >
       </header>
     </div>

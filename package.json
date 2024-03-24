@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.7.0",
-    "firebase": "^10.7.1",
+    "firebase": "^10.9.0",
     "moment": "^2.30.1",
     "pinia": "^2.1.7",
     "vue": "^3.3.11",
@@ -18,6 +18,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.2",
-    "vite": "^5.0.8"
+    "vite": "^5.2.6"
   }
 }

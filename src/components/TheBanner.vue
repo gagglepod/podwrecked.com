@@ -2,7 +2,7 @@
   <div class="hero-bottom">
     <div class="hero__fortress">
       <a class="hero-link" href="#" @click="$router.push('/')"
-        >Podcast Hosting for Yarn Weavers, Big Dreamers, and Story Believers</a
+        >Podcast Hosting for Yarn Weavers, Big Dreamers, and True Believers</a
       >
     </div>
     <div class="hero__love">

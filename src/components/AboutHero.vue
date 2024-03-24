@@ -7,11 +7,15 @@
         </div>
         <h1 class="about__heading">We the Oncetold!</h1>
         <p class="about__shortline">
-          We're a podcasting company proving that you don't have to be big to have a big
-          impact. From creating our own podcasts, inventing better ways to produce a show,
-          and giving influential talks at Podfest, to running a remote company that takes
-          the friction out of publishing a podcast; we make waves and build great podcasts
-          while we do it.
+          <strong>Once upon a time</strong> we started a podcast education and hosting
+          company proving that you don't have to be big to have a big impact on modern and
+          future storytellers.
+        </p>
+        <p class="about__shortline">
+          <strong>Hear one, do one, teach one.</strong> From teaching you how to podcast
+          and creating our own shows, to running a remote company that is focused on
+          taking the friction out of podcast publishing, Oncetold is making a dent and
+          telling great stories while we do it.
         </p>
       </header>
     </div>

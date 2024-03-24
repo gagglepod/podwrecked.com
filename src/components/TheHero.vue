@@ -5,19 +5,18 @@
         <div class="hero__heading-img">
           <img class="hero-logo" src="../assets/images/oncetold-logo-sm.svg" />
         </div>
-        <h1 class="hero__heading">The Simplified Toolkit for Building Podcasts.</h1>
+        <h1 class="hero__heading">Once upon a time...</h1>
         <p class="hero__shortline">
-          <strong>Before Oncetold:</strong> Complicated hosting dashboards, forms scroll
-          on into infinity, audio before design, it's tough to delegate, and hosts are
-          stressed.
+          <strong>You have experienced life </strong> and know a thing or two but have
+          never saved that knowledge to anyone else to hear.
+          <strong>It is time to tell your story </strong> and share that knowledge in a
+          way that is simple, clear, and enduring.
         </p>
-        <p class="hero__shortline">
-          <strong>After Oncetold:</strong> Every step is simply, you can plan your
-          episodes first, design before audio, publishing is always clear, and a sense of
-          calm sets in.
-        </p>
+        <h2>It is time to tell your story!</h2>
         <a href="https://oncetold.cloud" target="_blank"
-          ><button class="btn btn--secondary btn--stretched">Tell Your Story</button></a
+          ><button class="btn btn--secondary btn--stretched">
+            Don't Let it Fade Away
+          </button></a
         >
       </header>
     </div>

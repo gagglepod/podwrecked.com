@@ -5,7 +5,7 @@
         <div class="collapsible__content">
           <ul class="list">
             <li>
-              Oncetold SaaS:
+              Oncetold Platform:
               <a href="https://oncetold.cloud" target="_blank">Oncetold Cloud</a>
             </li>
             <li>

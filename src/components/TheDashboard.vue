@@ -23,17 +23,16 @@
       <header class="dashboard-summary__header">
         <h2>Cool breeze, not a whirlwind.</h2>
         <p class="dashboard-summary__text">
-          <strong>Podcast design is especially challenging when</strong> your show is
-          spread out across multiple sticky notes, spreadsheets, and online documents.
-          Things get lost, you have to complete your audio before you can even start your
-          show notes, and episodes get released with the wrong information.
+          <strong>Stories are fragile </strong> and easily lost or forgotten if you don't
+          record them. Details get lost, names fade away, and all you are left with is the
+          outline of your experience.
         </p>
+
         <p class="dashboard-summary__text">
-          <strong>But when your podcast is allowed to breath in Oncetold,</strong> you can
-          think about episodes in advance, delegate tasks, do everything in small steps,
-          and release episodes to your audience without the rush (or the degree in
-          engineering). You, as a team of one, or as part of a scrapy podcast studio, can
-          use Oncetold to start an episode idea, not just release the finished version.
+          <strong>But when your story is shared using Oncetold,</strong> you can capture
+          it with a podcast, fill in the blanks, and share it with the world. Oncetold
+          gives you that path in small steps and using a process that is easy to follow
+          without the rush (or the degree in engineering).
         </p>
         <button
           class="btn btn--secondary btn--stretched"
