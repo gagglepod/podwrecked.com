@@ -8,7 +8,7 @@
         <h1 class="hero__heading">Once upon a time...</h1>
         <p class="hero__shortline">
           <strong>You have experienced life </strong> and know a thing or two but have
-          never saved that knowledge to anyone else to hear.
+          never saved that knowledge for anyone else to hear.
           <strong>It is time to tell your story </strong> and share that knowledge in a
           way that is simple, clear, and enduring.
         </p>

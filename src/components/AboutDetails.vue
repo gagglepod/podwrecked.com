@@ -131,8 +131,8 @@
           </p>
           <p class="about-detail__info">
             He taught us that ideas can be very fragile and we must live in between the
-            dopey ideas and believing in bold, crazy, magnificent ideas. Oncetold is a
-            special environment for nurturing and incubating ideas.
+            barely formed ideas and believing in bold, crazy, magnificent ones. Oncetold
+            is a special environment for nurturing and incubating those ideas.
           </p>
 
           <p class="about-detail__info">

@@ -21,18 +21,18 @@
     </div>
     <div class="container">
       <header class="dashboard-summary__header">
-        <h2>Cool breeze, not a whirlwind.</h2>
+        <h2>For stories not easily sqished.</h2>
         <p class="dashboard-summary__text">
           <strong>Stories are fragile </strong> and easily lost or forgotten if you don't
-          record them. Details get lost, names fade away, and all you are left with is the
+          save them. Details get lost, names fade away, and all you are left with is an
           outline of your experience.
         </p>
 
         <p class="dashboard-summary__text">
           <strong>But when your story is shared using Oncetold,</strong> you can capture
           it with a podcast, fill in the blanks, and share it with the world. Oncetold
-          gives you that path in small steps and using a process that is easy to follow
-          without the rush (or the degree in engineering).
+          gives you that path in small steps that uses a process that is easy to follow
+          without needing a degree in engineering.
         </p>
         <button
           class="btn btn--secondary btn--stretched"
