@@ -21,7 +21,7 @@
     </div>
     <div class="container">
       <header class="dashboard-summary__header">
-        <h2>For stories not easily sqished.</h2>
+        <h2>For stories not easily squished.</h2>
         <p class="dashboard-summary__text">
           <strong>Stories are fragile </strong> and easily lost or forgotten if you don't
           save them. Details get lost, names fade away, and all you are left with is an
