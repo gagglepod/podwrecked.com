@@ -112,15 +112,15 @@
         </div>
       </article>
 
-      <!-- about-details #5 -->
+      <!-- about-details #5a -->
       <article class="about-detail">
         <div class="about-detail__content">
           <h2 class="about-detail__heading">
             Investing in things that don't go out of style
           </h2>
           <p class="about-detail__info">
-            The best business advice we ever got came from two great thinkers. The first
-            was from Sir Jonathan Ive from Apple. He said:
+            The best business advice we ever got came from Sir Jonathan Ive from Apple who
+            said:
           </p>
           <p class="about-detail__info">
             <em
@@ -142,9 +142,15 @@
               >Not Easily Squished. Have a listen.</a
             >
           </p>
+        </div>
+      </article>
 
+      <!-- about-details #5b -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h2 class="about-detail__heading">Designed with opinions built-in</h2>
           <p class="about-detail__info">
-            The other great thinker we love to quote is Mark Twain who said:
+            The best design advice we ever got came from Mark Twain who said:
           </p>
           <p class="about-detail__info">
             <em
