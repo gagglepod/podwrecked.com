@@ -10,10 +10,10 @@
           </p>
           <p class="about-detail__info">
             Whoa! We hear that all the time. But Oncetold is not another podcasthosting
-            company. We were built from the ground-up using a decade of real-world
+            company. We were built from the ground up using a decade of real-world
             podcasting experience, endless frustration from using apps bolted together by
-            a tone-deaf industry, and with the revolutionary thinking behind Podcasting
-            2.0 flowing through our culture.
+            a tone-deaf industry, and the revolutionary thinking behind Podcasting 2.0
+            flowing through our culture.
           </p>
           <p class="about-detail__info">
             The result was <em>Oncetold</em> -- a podcasting company for storytellers. For
@@ -22,7 +22,7 @@
           </p>
           <p class="about-detail__info">
             Oncetold is our answer to the mess and confusion that exists in today's
-            podcast hosting arena. Nothing is more frustrating than software designed by
+            podcast-hosting arena. Nothing is more frustrating than software designed by
             engineers. When we approach the podcast hosting challenge, We always think
             about the user experience first and design a toolset that works for actual
             podcasters. We don't chase features or worry about the things only big media
@@ -44,14 +44,14 @@
           <p class="about-detail__info">
             We're podcasters who had enough of software designed by engineers and
             marketers. That's why Oncetold is a podcasting company that has doubled down
-            on simple. As big believers in the power of keeping it simple we're betting
+            on simple. As big believers in the power of keeping it simple, we're betting
             that making podcasting easier for you will pay off. That's why we only give
-            you what you need and make big bets on simplicity, clarity, ease-of-use, and
+            you what you need and make big bets on simplicity, clarity, ease of use, and
             honesty. This goes for our products, our podcasts, our publications, our
             talks, and our company.
           </p>
           <p class="about-detail__info">
-            Take a lesson to our award winning American Civil War podcast
+            Take a lesson from our award-winning American Civil War podcast
             <a href="https://waryankee.com/" target="_blank">War Yankee - Overland</a> to
             see what we do when not building software.
           </p>
@@ -61,13 +61,13 @@
       <!-- about-detail #2 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Veteran founded, family run</h2>
+          <h2 class="about-detail__heading">Veteran-founded, family-run</h2>
           <p class="about-detail__info">
             We are operated by principled men and women who honor those who protect,
             defend, and support our country. As a Veteran-founded company, We reflect the
-            work ethic, toughness, and perseverance that has been instilled in us from our
-            experiences on the battlefield. We will always honor the stories and history
-            of those who have served.
+            work ethic, toughness, and perseverance instilled in us from our experiences
+            on the battlefield. We will always honor the stories and history of those who
+            have served.
           </p>
         </div>
       </article>
@@ -136,7 +136,7 @@
           </p>
 
           <p class="about-detail__info">
-            We belived in Sir Ive's statement that we started a podcast about podcast
+            We believe in Sir Ive's statement that we started a podcast about podcast
             design called
             <a href="https://noteasilysquished.com/" target="_blank"
               >Not Easily Squished. Have a listen.</a
@@ -171,9 +171,9 @@
         <div class="about-detail__content">
           <h2 class="about-detail__heading">We balance our own books</h2>
           <p class="about-detail__info">
-            We're also big believers in business 101. We don't spend more than we earn, we
+            We're also big believers in Business 101. We don't spend more than we earn, we
             don't waste money on things that don't matter, we don't give away everything
-            for free and hope we'll figure it out before we run out of cash. We're in
+            for free, and hope we'll figure it out before we run out of cash. We're in
             business to stay in business.
           </p>
         </div>
@@ -182,12 +182,12 @@
       <!-- about-detail #7 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Supporting our customers first</h2>
+          <h2 class="about-detail__heading">Supporting our customer's first</h2>
           <p class="about-detail__info">
-            From day one, we wanted to create the kind of company that we wanted to
+            From day one, we wanted to create the kind of company that we wanted to do
             business with ourselves. We act like humans, say we're sorry, and genuinely
             invest our time in fixing the issue. It's the right thing to do, it's good for
-            our customers, and employees, and it's our favorite form of marketing.
+            our customers and employees, and it's our favorite form of marketing.
           </p>
         </div>
       </article>
@@ -208,7 +208,7 @@
         <div class="about-detail__content">
           <h2 class="about-detail__heading">We embrace open-source thinking</h2>
           <p class="about-detail__info">
-            We're a tech savvy company that enjoys a hardy breakfast of Podcasting 2.0
+            We're a tech-savvy company that enjoys a hardy breakfast of Podcasting 2.0
             feature tags, some JAMStack (JavaScript, API, and Markup) on toast, and a big
             glass of Cloud to wash it down. The open-source ecosystem at Oncetold has made
             us faster, more secure, and easier to scale. Today, open-source is as vibrant
@@ -223,13 +223,15 @@
         <div class="about-detail__content">
           <h2 class="about-detail__heading">Always at your service</h2>
           <p class="about-detail__info">
-            If you have a general question for us, just drop us an email at
-            <a href="emailto:oncetold.cloud@gmail.com">howdy@oncetold.us</a> and we'll get
-            back to you within a day. If you're a customer, and you want to talk to
-            someone in customer service, drop an email to
-            <a href="emailto:oncetold.cloud@gmail.com">support@oncetold.us</a> and we'll
-            get back to you right away. We love sharing our ideas on business, culture,
-            design, and technology with the world.
+            If you have a general question for us,
+            <a href="emailto:oncetold.cloud@gmail.com">just drop us an email</a> and we'll
+            get back to you within a day. If you're a customer, and you want to talk to
+            someone in customer service,
+            <a href="emailto:oncetold.cloud@gmail.com"
+              >drop an email to our support team</a
+            >
+            and we'll get back to you right away. We love sharing our ideas on business,
+            culture, design, and technology with the world.
           </p>
           <p class="about-detail__info">
             You can follow us on
