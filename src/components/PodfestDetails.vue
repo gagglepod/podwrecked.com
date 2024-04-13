@@ -4,6 +4,48 @@
       <!-- about-details #0 -->
       <article class="about-detail">
         <div class="about-detail__content">
+          <h2 class="about-detail__heading">Coffee, AI, and True Crime Podcasting</h2>
+          <h3 class="about-detail__heading">
+            Dark Roasting AI Voices with Wondercraft AI
+          </h3>
+          <p class="about-detail__info">
+            What if you could create a podcast without ever turning on a microphone? This
+            is just one feature of Wondercraft AI's Text-to-Voice technology that you can
+            use to clone yourself, replace your host, or turn your entire podcast over to
+            AI! Yikes! Join fellow podcaster and Oncetold founder Kyle M. Bondo as he
+            walks you through creating a True Crime podcast faster than it takes to brew a
+            cup of coffee.
+          </p>
+          <p class="about-detail__info">
+            <a href="https://podcastindex.org/podcast/6874973" target="_blank"
+              >Listen to the Dark Roast - Death and Coffee podcast - Podcast Index</a
+            >
+          </p>
+          <p class="about-detail__info">
+            <a
+              href="https://truefans.fm/dark-roast-death-and-coffee?tab=episodes"
+              target="_blank"
+              >Listen to the Dark Roast - Death and Coffee podcast - TrueFans</a
+            >
+          </p>
+          <p class="about-detail__info">
+            <a
+              href="https://storage.googleapis.com/storage.oncetold.net/88888888/kbondo-coffee-ai-and-true-crime-v1-04072024.pdf"
+              target="_blank"
+              >Enjoy my Podfest AI Masterclass 2024 Slides [PDF]</a
+            >
+          </p>
+          <p class="about-detail__info">
+            <a href="https://youtu.be/Nw62ii3EX24?si=HWAWl-_8KmFAqwq8" target="_blank"
+              >Rewatch my AI Masterclass 2024 Case Study [VIDEO]</a
+            >
+          </p>
+        </div>
+      </article>
+
+      <!-- about-details #0 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
           <h2 class="about-detail__heading">Talesmithing</h2>
           <h3 class="about-detail__heading">Crafting Engaging Podcast Narratives</h3>
           <p class="about-detail__info">
@@ -20,17 +62,23 @@
               >Enjoy my Podfest 2024 Slides [PDF]</a
             >
           </p>
+          <p class="about-detail__info">
+            <a href="https://youtu.be/8rABcF4fJkY?si=iNfWUewpwG-onaX3" target="_blank"
+              >Watch an older talk called Story Hunting [VIDEO]</a
+            >
+          </p>
         </div>
       </article>
 
       <!-- about-detail #1 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading"></h2>
+          <h2 class="about-detail__heading">Once Upon a Time...</h2>
           <p class="about-detail__info">
-            Oncetold is my Podcast Teaching Company that happens to do media hosting.
-            Oncetold is also the answer to the mess and confusion that exists in today's
-            podcast hosting arena. Nothing is more frustrating than software designed by
+            <a href="https://oncetold.us" target="_blank">Oncetold</a> is my Podcast
+            Education and Technology Company that happens to do media hosting. Oncetold is
+            also the answer to the mess and confusion that exists in today's podcast
+            hosting arena. Nothing is more frustrating than software designed by
             engineers. When I approached the podcast hosting challenge, my goal was to
             think like a new podcaster and not an engineer. This mindset helped create a
             customer-first toolset that breaks everything down into bite-sized tasks. I
@@ -75,13 +123,21 @@
               >Not Easily Squished. Have a listen.</a
             >
           </p>
+          <p class="about-detail__info">
+            <a href="https://noteasilysquished.com/" target="_blank"
+              >Listen to Not Easily Squished</a
+            >
+          </p>
+          <p class="about-detail__info">
+            <a href="https://podwrecked.com" target="_blank">Listen to Podwrecked</a>
+          </p>
         </div>
       </article>
 
       <!-- about-details #3 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Experiments</h2>
+          <h2 class="about-detail__heading">The Laboratory</h2>
           <p class="about-detail__info">
             If you're into history,then take a listen to my award winning American Civil
             War podcast
@@ -102,6 +158,16 @@
             <a href="https://anonymoosefiles.com" target="_blank">AnonyMoose Files</a> is
             a real podcast -- sort of! Take a listen to the one and only episode. You
             might be surprised at what you hear!
+          </p>
+          <p class="about-detail__info">
+            <a href="https://waryankee.com" target="_blank"
+              >Listen to War Yankee - Overland</a
+            >
+          </p>
+          <p class="about-detail__info">
+            <a href="https://pausefordramaticeffect.com" target="_blank"
+              >Listen to PAUSE for Dramatic Effect</a
+            >
           </p>
         </div>
       </article>

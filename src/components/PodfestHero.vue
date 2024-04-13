@@ -7,10 +7,13 @@
         </div>
         <h1 class="about__heading">Howdy, Podfest 2024!<br />Time to Tell Your Story!</h1>
         <p class="about__shortline">
-          Thank you very much for attending my talk at Podfest 2024 in Orlando, Florida! I
-          am very grateful you took the time to come to my talk. As a special gift to you
-          I have included several links to a pile of free bonus materials to help you on
-          your Podcasting Journey. Enjoy!
+          Thank you very much for attending my Podfest talks! I am very grateful you took
+          the time and as a special gift to you I have included several links to some of
+          my best bonus materials. Hopefully it helps you on your podcasting journey.
+          However, if you get stuck,
+          <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+            >please reach out to me on Linkedin</a
+          >! Enjoy!
         </p>
       </header>
     </div>
@@ -58,6 +61,17 @@ export default {};
 .about-logo {
   height: 64px;
   margin: 0;
+}
+
+.about__shortline a {
+  color: var(--color-headings);
+  transition: color 0.3s;
+  text-decoration: underline;
+}
+
+.about__shortline a:hover {
+  color: var(--color-placeholder);
+  text-decoration: none;
 }
 
 @media screen and (min-width: 768px) {
