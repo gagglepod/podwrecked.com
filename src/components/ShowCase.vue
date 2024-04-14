@@ -28,8 +28,8 @@
             </div>
             <div class="showcase-media__body">
               <h3 class="showcase-media__title">Pace Yourself</h3>
-              We built Oncetold to all you to create an episode in bite-sized steps. No
-              long forms, no unexplained fields.
+              We built Oncetold to help you create an episode in bite-sized steps. No long
+              forms, no unexplained fields.
             </div>
           </div>
         </li>
