@@ -7,9 +7,9 @@
           <h2 class="feature__heading">Start Your Episode Design, No Audio Required</h2>
           <p class="feature__info">
             Oncetold allows you to design your podcast episode details BEFORE you ever
-            record any audio. This can allow you to brainstorm ideas, plan your episodes
-            in advance, or have a member of your team create it for you. The best part is
-            you can always change it later!
+            record any audio. This can allow you to brainstorm ideas, plan your episodes,
+            or have a member of your team create them for you. The best part is you can
+            always change it later!
           </p>
         </div>
         <picture>
@@ -38,13 +38,11 @@
       <!-- Feature #2 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content" data-aos="fade-left">
-          <h2 class="feature__heading">
-            All Your Need to Build Your Library of Episodes
-          </h2>
+          <h2 class="feature__heading">All You Need to Build Your Library of Episodes</h2>
           <p class="feature__info">
             When you are finished recording, Oncetold gives you all the tools to Shape and
             Share your episodes. With every part of the process reduced down to one step
-            at a time we don't overwhelm you with nonsense. Clearn and simple steps, no
+            at a time we don't overwhelm you with nonsense. Clear and simple steps, no
             guesswork, and a library that shows you what your audience sees and hears.
           </p>
         </div>
@@ -79,7 +77,7 @@
             We want you to be a podcaster, not an engineer. We designed Oncetold with a
             <em>less is more</em> mentality to provide an opinionated approach to podcast
             design. We removed all the confusing podcasting jargon, engineering
-            jibberjabber, and RSS-heavy tech talk. In its place we created simple steps,
+            jibber-jabber, and RSS-heavy tech talk. In its place, we created simple steps,
             streamlined tasks, and a culture of education.
           </p>
         </div>
@@ -106,14 +104,12 @@
       <!-- Feature #4 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content">
-          <h2 class="feature__heading">
-            The Future of Podcasting is Podcasting 2.0 Features
-          </h2>
+          <h2 class="feature__heading">Podcasting 2.0 Future-Proofing</h2>
           <p class="feature__info">
             Podcasting 2.0 is the best thing to happen to podcasting in the past decade.
             We believe it so much that we created Oncetold from the the ground up with
-            what we think are the most important Podcasting 2.0 Features built in. We'll
-            even show you why they are important to your audience and teach how to use
+            what we think are the most important Podcasting 2.0 Features built-in. We'll
+            even show you why they are important to your audience and teach you how to use
             them to future-proof your podcast.
           </p>
         </div>
@@ -178,9 +174,7 @@
       <!-- Feature #6 -->
       <article class="feature-grid feature-grid--1x2 feature">
         <div class="feature__content">
-          <h2 class="feature__heading">
-            A Podcast Teaching Company That Happens to do Media Hosting
-          </h2>
+          <h2 class="feature__heading">A Podcast Teaching Company with Hosting</h2>
           <p class="feature__info">
             The heart of Oncetold is our dedication to teaching you how to podcast. We
             know how tough podcasting can be because we've been down that road too. To
