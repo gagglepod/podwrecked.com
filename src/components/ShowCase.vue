@@ -56,7 +56,7 @@
             </div>
             <div class="showcase-media__body">
               <h3 class="showcase-media__title">No Surprises</h3>
-              Oncetold provides you all our features on day one.
+              Oncetold provides you with all our features on day one.
             </div>
           </div>
         </li>
