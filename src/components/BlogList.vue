@@ -12,33 +12,32 @@
         <!-- blog item -- 2-columns -->
         <article class="blog-item" v-for="post in readyList" :key="post.id">
           <div class="blog-item__content">
-            <div class="blog-item__thumb">
-              <!-- <img :src="require(`@/assets/images/${post.thumb}`)" :alt="post.title" /> -->
-              <img :src="`/images/${post.img}`" :alt="post.title" />
-            </div>
-
-            <div class="blog-item-heading">
-              <router-link :to="{ name: 'BlogArticle', params: { id: post.id } }">
-                <h2 class="blog-item__heading">{{ post.title }}</h2>
-              </router-link>
-            </div>
-
-            <div class="blog-item-body">
-              <p class="blog-item__body">{{ post.summary }}</p>
-            </div>
-
-            <div class="blog-item-meta">
-              <div class="blot-item-author">
-                <p class="blog-item__author">
-                  By <strong>{{ post.author }}</strong>
-                </p>
+            <div class="blog-item__content-left">
+              <div class="blog-item__thumb">
+                <!-- <img :src="require(`@/assets/images/${post.thumb}`)" :alt="post.title" /> -->
+                <img :src="`/images/${post.img}`" :alt="post.title" />
               </div>
-              <div class="blog-item-tags">
-                <p class="blog-item__tags">
-                  <span v-for="tag in post.tags" :key="tag" class="blog-item-tag-pill">{{
-                    tag
-                  }}</span>
-                </p>
+            </div>
+
+            <div class="blog-item__content-right">
+              <div class="blog-item-heading">
+                <router-link :to="{ name: 'BlogArticle', params: { id: post.id } }">
+                  <h2 class="blog-item__heading">{{ post.title }}</h2>
+                </router-link>
+                <p class="blog-item__body">{{ post.summary }}</p>
+                <!-- <div class="blot-item-author">
+                  <p class="blog-item__author">
+                    By <strong>{{ post.author }}</strong>
+                  </p>
+                  <p class="blog-item__tags">
+                    <span
+                      v-for="tag in post.tags"
+                      :key="tag"
+                      class="blog-item-tag-pill"
+                      >{{ tag }}</span
+                    >
+                  </p>
+                </div> -->
               </div>
             </div>
           </div>
@@ -104,15 +103,16 @@ export default {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  padding: 5rem 0 0 0;
 }
 
 .blog-item {
-  border: 1px solid var(--color-light);
+  /* border: 1px solid var(--color-light); */
   position: relative;
   display: flex;
   flex-direction: column;
-  width: 45%;
-  margin-bottom: 4rem;
+  width: 100%;
+  margin-bottom: 5rem;
 }
 
 @media (max-width: 768px) {
@@ -133,31 +133,40 @@ export default {
 }
 
 .blog-item__content {
-  padding: 1rem;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+}
+
+.blog-item__content-left {
+  display: flex;
+  max-width: 30%;
+}
+.blog-item__content-right {
+  display: flex;
+  flex-direction: row;
+  max-width: 70%;
+  padding: 0 1rem 0 2rem;
 }
 
 .blog-item__thumb {
   position: relative;
-  padding-bottom: 1rem;
   flex: 1;
 }
 
 .blog-item__thumb img {
   position: relative;
-  object-fit: cover;
+  /* object-fit: cover; */
+  width: 40rem;
 }
 
 .blog-item-heading {
   padding: 0;
-  flex: 1;
+  flex: 2;
 }
 
 .blog-item-body {
   padding: 0;
-  flex: 1;
-  min-height: 13rem;
+  flex: 2;
 }
 
 .blog-item-author {
@@ -169,8 +178,8 @@ export default {
 }
 
 .blog-item__heading {
-  margin: 1rem 0;
-  font-weight: 400;
+  margin: 0 0 1.5rem 0;
+  font-weight: 600;
 }
 
 .blog-item__heading:hover {
@@ -183,7 +192,7 @@ export default {
 }
 
 .blog-item-meta {
-  flex: 1;
+  flex: 2;
   display: flex;
   flex-direction: column;
 }

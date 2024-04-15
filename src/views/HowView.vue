@@ -4,6 +4,7 @@
   <ShowCase />
   <HowsItBetter />
   <FeatureCards />
+  <TheCall />
 </template>
 
 <script>
@@ -12,6 +13,7 @@ import CloudRow from "../components/CloudRow.vue";
 import ShowCase from "../components/ShowCase.vue";
 import HowsItBetter from "../components/HowsItBetter.vue";
 import FeatureCards from "../components/FeatureCards.vue";
+import TheCall from "../components/TheCall.vue";
 
 export default {
   name: "HowView",
@@ -21,6 +23,7 @@ export default {
     ShowCase,
     FeatureCards,
     HowsItBetter,
+    TheCall,
   },
 };
 </script>

@@ -3,10 +3,9 @@
     <div class="container">
       <header class="better-summary__header">
         <p class="better-summary__text">
-          <strong>How Oncetold is Unlike any Other Podcast Host:</strong> Oncetold makes
-          every step simple by default unlike other complicated hosting dashboards with
-          forms that scroll off into infinity. Our flow is obvious, things are where you
-          expect to find them, and the path to building your episodes is clear.
+          Oncetold takes the podcast hosting process and turns it into bite-sized steps.
+          Each step focuses on a single concern, follows a clear flow, and never uses
+          heavy forms or overloaded options.
         </p>
         <h2 class="better-summary__heading"><strong>Here's how it works:</strong></h2>
       </header>

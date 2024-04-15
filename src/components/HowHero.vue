@@ -7,15 +7,13 @@
         </div>
         <h1 class="how__heading">No Engineering Degree Required</h1>
         <p class="how__shortline">
-          Oncetold is a better way to build your show. Because we are podcasters too, we
-          designed Oncetold from the ground up to be an easier way to create your
-          episodes. By removing the over engineered forms and complicated processes, we
-          created a hosting experience that focuses on building your show and not learning
-          a new tool.
+          Oncetold is our answer to the mess and confusion that exists in today's podcast
+          technology. We always think about the user experience first and design a toolset
+          that works for actual podcasters.
         </p>
-        <p class="how__shortline">
+        <!-- <p class="how__shortline">
           <strong>Here's how Oncetold makes it happen.</strong>
-        </p>
+        </p> -->
       </header>
     </div>
   </section>

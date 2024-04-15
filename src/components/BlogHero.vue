@@ -1,21 +1,22 @@
 <template>
-    <section class="about-block block--about">
-        <div class="container">
-        <header class="about-block__header">
-            <div class="about__heading-img">
-                <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
-            </div>
-            <h1 class="about__heading">Blog</h1>
-            <p class="about__shortline">Oncetold Insider Thinking</p>
-        </header>
+  <section class="about-block block--about">
+    <div class="container">
+      <header class="about-block__header">
+        <div class="about__heading-img">
+          <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
         </div>
-    </section>
+        <h1 class="about__heading">Always Teaching</h1>
+        <p class="about__shortline">
+          We know how tough starting a podcast can be. This is why Oncetold is about
+          teaching you how to podcast first. The rest will follow.
+        </p>
+      </header>
+    </div>
+  </section>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
@@ -73,6 +74,6 @@ export default {
   .about-logo {
     height: 96px;
     margin: 0;
-    }
+  }
 }
 </style>

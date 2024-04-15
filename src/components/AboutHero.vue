@@ -7,15 +7,14 @@
         </div>
         <h1 class="about__heading">We the Oncetold!</h1>
         <p class="about__shortline">
-          <strong>Once upon a time</strong> we started a podcast education and hosting
-          company proving that you don't have to be big to have a big impact on modern and
-          future storytellers.
+          <strong> Welcome to Oncetold, </strong>a podcast education and technology
+          company teaching you how to use podcasting to tell your story.
         </p>
         <p class="about__shortline">
-          <strong>Hear one, do one, teach one.</strong> From teaching you how to podcast
-          and creating our own shows, to running a remote company that is focused on
-          taking the friction out of podcast publishing, Oncetold is making a dent and
-          telling great stories while we do it.
+          <strong>We’re podcasters too.</strong> Oncetold is not another podcast hosting
+          company. We built Oncetold from the ground up using a decade’s worth of
+          real-world podcasting experience and endless frustration from a tone-deaf
+          industry.
         </p>
       </header>
     </div>

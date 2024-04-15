@@ -28,8 +28,7 @@
             </div>
             <div class="showcase-media__body">
               <h3 class="showcase-media__title">Pace Yourself</h3>
-              We built Oncetold to help you create an episode in bite-sized steps. No long
-              forms, no unexplained fields.
+              Create your episodes one step at a time with only the fields you need.
             </div>
           </div>
         </li>
@@ -41,9 +40,9 @@
               </svg>
             </div>
             <div class="showcase-media__body">
-              <h3 class="showcase-media__title">Give Your Audience More</h3>
-              Oncetold fully embraces the Podcasting 2.0 Namespace and we look forward to
-              showing you how each feature benefits your audience.
+              <h3 class="showcase-media__title">Future-Proof</h3>
+              Stay ahead of the competition with our Podcasting 2.0 features most modern
+              listening apps use.
             </div>
           </div>
         </li>
@@ -56,7 +55,7 @@
             </div>
             <div class="showcase-media__body">
               <h3 class="showcase-media__title">No Surprises</h3>
-              Oncetold provides you with all our features on day one.
+              We don’t hold back. You get access to all our features on day one.
             </div>
           </div>
         </li>
