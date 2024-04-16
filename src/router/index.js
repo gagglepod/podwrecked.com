@@ -13,6 +13,7 @@ import BlogView from "../views/BlogView.vue";
 import BlogArticle from "../views/BlogArticle.vue";
 import RightsView from "../views/RightsView.vue";
 import TermsView from "../views/TermsView.vue";
+import UptimeView from "../views/UptimeView.vue";
 
 const routes = [
   {
@@ -71,6 +72,11 @@ const routes = [
     path: "/terms",
     name: "terms",
     component: TermsView,
+  },
+  {
+    path: "/uptime",
+    name: "uptime",
+    component: UptimeView,
   },
 ];
 

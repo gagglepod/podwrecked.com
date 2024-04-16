@@ -9,13 +9,17 @@
               <a href="https://oncetold.cloud" target="_blank">Oncetold Cloud</a>
             </li>
             <li>
-              Company: <a href="/about">About Us</a> <a href="#">Podcast</a>&nbsp;
+              Company: <a href="/about">About Us</a>
+              <a href="https://noteasilysquished.com" target="_blank">Podcast</a>&nbsp;
               <a href="/blog">Blog</a>&nbsp;
               <a href="/how-it-works">How It Works</a>&nbsp;
               <a href="/pricing">Pricing</a>&nbsp; <a href="/support">Support</a>
             </li>
             <li>
-              Guides: <a href="#">Meetup Talks</a>&nbsp;
+              Guides:
+              <a href="https://www.slideshare.net/KyleBondo/presentations" target="_blank"
+                >Meetup Talks</a
+              >&nbsp;
               <a
                 href="https://www.youtube.com/channel/UCK78Ub6I3JY-erwevl1EgTg"
                 target="_blank"
@@ -24,8 +28,8 @@
             </li>
             <li>
               Fine Print: <a href="/rights">Customer Rights</a>&nbsp;
-              <a href="/terms">Privacy & Terms</a>&nbsp; <a href="/">Uptime</a>&nbsp;
-              <a href="/">System Status</a>
+              <a href="/terms">Privacy & Terms</a>&nbsp;
+              <a href="/uptime">Uptime</a>
             </li>
           </ul>
         </div>
