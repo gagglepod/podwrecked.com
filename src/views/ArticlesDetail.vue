@@ -1,13 +1,13 @@
 <template>
   <div v-if="error">
-    <div class="blog-error">
-      <div class="blog-error-message">{{ error }}</div>
+    <div class="article-details-error">
+      <div class="article-details-error-message">{{ error }}</div>
     </div>
   </div>
 
   <div v-if="post">
     <section
-      class="blog-article-block block--blog-article"
+      class="article-details-block block--article-details"
       v-if="post && post.img"
       :style="{
         backgroundImage:
@@ -17,15 +17,15 @@
       }"
     >
       <div class="container">
-        <header class="blog-article-block__header">
-          <p class="blog-article__tags">
+        <header class="article-details-block__header">
+          <p class="article-details__tags">
             <span v-for="tag in post.tags" :key="tag" class="blog-tag-pill">{{
               tag
             }}</span>
           </p>
-          <h1 class="blog-article__heading">{{ post.title }}</h1>
-          <p class="blog-article__shortline">{{ post.subtitle }}</p>
-          <p class="blog-article__author">By {{ post.author }}</p>
+          <h1 class="article-details__heading">{{ post.title }}</h1>
+          <p class="article-details__shortline">{{ post.subtitle }}</p>
+          <p class="article-details__author">By {{ post.author }}</p>
           <button class="btn btn--secondary btn--stretched" @click="router.back()">
             Back to Article List
           </button>
@@ -35,12 +35,13 @@
 
     <CloudRow />
 
-    <section class="blog-blob-block">
-      <div class="container">
+    <section class="articles-details-blob-block">
+      <div class="articles-details-container">
+        <!-- Adjusted container -->
         <!-- blog-post #1 -->
-        <article class="blog-blob">
-          <div class="blog-blob__content">
-            <div class="blog-blob__body" v-html="post.body"></div>
+        <article class="articles-details-blob">
+          <div class="articles-details-blob__content">
+            <div class="articles-details-blob__body" v-html="post.body"></div>
           </div>
         </article>
       </div>
@@ -72,7 +73,7 @@ export default {
     TheBottom,
     TheSpinner,
   },
-  props: ["id", "slug"],
+  props: ["slug"],
   setup(props) {
     const post = ref(null);
     const error = ref(null);
@@ -110,23 +111,22 @@ export default {
 
 <style>
 /* *********************************************** */
-.blog-article-block {
+.article-details-block {
   display: flex;
   flex-direction: column;
   padding: 3rem 0 5rem;
-  /* border: 2px solid red; */
 }
 
-.block--blog-article {
+.block--article-details {
   background: var(--color-primary-alt);
   color: var(--color-headings);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center center; /* Adjusted background positioning */
   background-size: cover;
   text-align: center;
 }
 
-.blog-error {
+.articles-details-error {
   background: var(--color-dark);
   display: flex;
   flex-direction: row;
@@ -135,17 +135,17 @@ export default {
   margin-bottom: 0.5rem;
 }
 
-.blog-error-message {
+.articles-details-error-message {
   font-size: 1.5rem;
   margin: 1rem;
   font-weight: bold;
 }
 
-.blog-article__tags {
+.article-details__tags {
   margin: 1rem 0;
 }
 
-.blog-tag-pill {
+.articles-details-tag-pill {
   display: inline-block;
   margin: 10px 10px 0 0;
   color: var(--color-footer);
@@ -155,67 +155,77 @@ export default {
   font-size: 14px;
 }
 
-.blog-tag-pill:hover {
+.articles-details-tag-pill:hover {
   color: var(--color-placeholder);
   background: var(--color-footer);
 }
 
-.blog-article-block__header {
+.article-details-block__header {
   text-align: center;
   margin: 2rem 0 2rem;
 }
 
-.blog-article__heading {
+.articles-details-container {
+  /* Adjusted container */
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.article-details__heading {
   margin-top: 0;
 }
 
-.blog-article__shortline {
+.article-details__shortline {
   font-size: 2rem;
   color: var(--color-headings);
   letter-spacing: 1px;
   margin-top: 1rem 0 1rem;
 }
 
-.blog-article__author {
+.article-details__author {
   margin: 1rem 0;
 }
 
-.blog-article__heading-img {
+.article-details__heading-img {
   flex: 1;
   padding: 0;
 }
 
+p.article-details__content {
+  margin: 1.6rem 0;
+}
+
 @media screen and (min-width: 768px) {
-  .blog-article-block {
+  .article-details-block {
     padding-top: 0;
   }
 
-  .blog-article__heading {
+  .article-details__heading {
     padding: 0 10rem 0 10rem;
   }
 
-  .blog-article__shortline {
+  .article-details__shortline {
     padding: 2rem 10rem 0 10rem;
   }
 }
 
-.blog-blob {
+.articles-details-blob {
   padding: 2rem 0 2rem;
 }
 
-.blog-blob__body {
+.articles-details-blob__body {
   font-size: 2.1rem;
   line-height: 3.2rem;
   margin: 0 2rem 0 2rem;
 }
 
-.blog-blob__body a {
+.articles-details-blob__body a {
   color: var(--color-headings);
   transition: color 0.3s;
   text-decoration: underline;
 }
 
-.blog-blob__body a:hover {
+.articles-details-blob__body a:hover {
   color: var(--color-placeholder);
   text-decoration: none;
 }

@@ -23,7 +23,7 @@
                 <router-link
                   :to="{
                     name: 'ArticlesDetail',
-                    params: { id: post.id, slug: post.slug },
+                    params: { slug: post.slug },
                   }"
                 >
                   <h2 class="articles-item__heading">{{ post.title }}</h2>
@@ -58,7 +58,7 @@ export default {
         let results = [];
         snapshot.docs.forEach((doc) => {
           const post = doc.data();
-          results.push({ ...post, slug: post.slug, id: doc.id });
+          results.push({ ...post, slug: post.slug });
         });
         readyList.value = results;
       });

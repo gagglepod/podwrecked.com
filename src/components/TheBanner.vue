@@ -6,7 +6,7 @@
       >
     </div>
     <div class="hero__love">
-      Made with <span class="material-icons grow">favorite</span> by Oncetold
+      Made with <span class="material-icons">favorite</span> by Oncetold
     </div>
   </div>
 </template>
@@ -47,32 +47,17 @@ export default {};
   font-size: 1.3rem;
 }
 
-.grow {
-  display: inline-block;
-  color: var(--color-dark);
-  transition: transform 0.2s ease-in-out; /* Move transition here */
-}
-
-.grow:hover {
-  transform: scale(1.3);
-}
-
 .material-icons {
   display: inline-block;
   position: relative;
   margin: 0.2rem 0.2rem;
   color: var(--color-dark);
   cursor: pointer;
+  transition: transform 0.2s ease-in-out;
 }
 
 .material-icons:hover {
   color: var(--color-secondary);
-}
-
-/* Increase size of heart icon when hovered on small screens */
-@media screen and (max-width: 767px) {
-  .hero__love .grow:hover {
-    transform: scale(1.3); /* Increase the size of the heart icon */
-  }
+  transform: scale(1.3);
 }
 </style>
