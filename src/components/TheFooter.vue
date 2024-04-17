@@ -1,8 +1,24 @@
 <template>
   <footer class="block footer--dark footer">
     <div class="container grid grid--1x2 footer__sections">
+      <!-- Brand section -->
+      <div class="footer__brand">
+        <img
+          class="logo-text logo-primary"
+          src="../assets/images/oncetold-logo-text.svg"
+          alt="Oncetold Logo"
+        />
+        <p class="footer__copyright">
+          Copyright &copy; {{ currentYear }}. Oncetold. Tell Your Story. Website v{{
+            otVersion
+          }}.
+        </p>
+        <!-- <p class="footer__footnote">ver{{ otVersion }}</p> -->
+      </div>
+
+      <!-- Navigation section -->
       <section class="footer__section">
-        <div class="collapsible__content">
+        <div class="footer__navigation">
           <ul class="list">
             <li>
               Oncetold Platform:
@@ -35,17 +51,6 @@
           </ul>
         </div>
       </section>
-      <div class="footer__brand">
-        <img
-          class="logo-text logo-primary"
-          src="../assets/images/oncetold-logo-text.svg"
-          alt="Oncetold Logo"
-        />
-        <p class="footer__copyright">
-          Copyright &copy; {{ currentYear }}. Oncetold. Tell Your Story.
-        </p>
-        <p class="footer__footnote">Oncetold Company Website ver{{ otVersion }}</p>
-      </div>
     </div>
   </footer>
 </template>
@@ -110,6 +115,7 @@ export default {
   color: #fff;
   opacity: 0.3;
   margin-bottom: 0;
+  padding: 1rem;
 }
 
 .footer__footnote {
@@ -134,23 +140,22 @@ export default {
   margin: 0;
 }
 
-@media screen and (min-width: 768px) {
+/* Large screen layout */
+@media screen and (min-width: 767px) {
   .footer__sections {
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
   }
 
-  .footer .collapsible__chevron {
-    display: none;
-  }
-
-  .footer .collapsible__content {
+  .footer .footer__navigation {
     opacity: 1;
     max-height: 100%;
   }
 
   .footer__brand {
-    order: -1;
-    margin-top: 1rem;
+    order: -1; /* Move brand section to the left */
+    margin-top: 0; /* Reset top margin */
   }
 
   .footer .footer__copyright {
@@ -163,6 +168,27 @@ export default {
 
   .footer__heading {
     font-size: 1.6rem;
+  }
+}
+
+/* Small screen layout */
+@media screen and (max-width: 767px) {
+  .footer__sections {
+    display: flex;
+    flex-direction: column; /* Change flex direction to column for small screens */
+  }
+
+  .footer__brand {
+    margin: 0 0 0.5rem 0; /* Add margin to top for spacing */
+  }
+
+  .footer__navigation {
+    display: block; /* Show navigation on small screens */
+    padding: 1rem 1.5rem 2rem 1.5rem;
+  }
+
+  .footer__navigation .list li {
+    margin-bottom: 0.5rem; /* Add margin between list items */
   }
 }
 </style>

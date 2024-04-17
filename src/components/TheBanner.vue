@@ -33,6 +33,7 @@ export default {};
   align-items: center;
   padding: 2rem 0 2rem;
   border-top: 2px solid var(--color-light);
+  text-align: center; /* Center text horizontally */
 }
 
 .hero__fortress {
@@ -44,13 +45,12 @@ export default {};
 .hero__love {
   flex: 1;
   font-size: 1.3rem;
-  text-align: center;
 }
 
 .grow {
   display: inline-block;
   color: var(--color-dark);
-  transition: all 0.2s ease-in-out;
+  transition: transform 0.2s ease-in-out; /* Move transition here */
 }
 
 .grow:hover {
@@ -67,5 +67,12 @@ export default {};
 
 .material-icons:hover {
   color: var(--color-secondary);
+}
+
+/* Increase size of heart icon when hovered on small screens */
+@media screen and (max-width: 767px) {
+  .hero__love .grow:hover {
+    transform: scale(1.3); /* Increase the size of the heart icon */
+  }
 }
 </style>

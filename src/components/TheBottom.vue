@@ -24,6 +24,8 @@ export default {};
 .bottom {
   display: flex;
   flex-direction: column;
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
   border-top: 2px solid var(--color-light);
 }
 
@@ -45,11 +47,23 @@ export default {};
   text-decoration: underline;
 }
 
-@media screen and (min-width: 768px) {
-  .bottom {
-    padding-top: 0;
+/* Increase size of heart icon when hovered */
+.bottom__content .heart {
+  transition: transform 0.3s ease-in-out; /* Add transition for smooth scaling */
+}
+
+/* Increase size of heart icon when hovered on small screens */
+@media screen and (max-width: 767px) {
+  .bottom__content .heart:hover {
+    transform: scale(1.2); /* Increase the size of the heart icon */
   }
 
+  .bottom__content {
+    padding: 10rem 0 4rem 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
   .bottom__content {
     text-align: center;
     align-self: center;

@@ -1,34 +1,34 @@
 <template>
-  <section class="blog-items-block">
+  <section class="articles-items-block">
     <div class="container">
       <div v-if="error">
-        <div class="blog-error">
-          <div class="blog-error-message">{{ error }}</div>
+        <div class="articles-error">
+          <div class="articles-error-message">{{ error }}</div>
         </div>
       </div>
 
       <!-- Grid Start -->
-      <div v-if="readyList" class="blog-grid">
-        <!-- blog item -- 2-columns -->
-        <article class="blog-item" v-for="post in readyList" :key="post.id">
-          <div class="blog-item__content">
-            <div class="blog-item__content-left">
-              <div class="blog-item__thumb">
+      <div v-if="readyList" class="articles-grid">
+        <!-- articles item -- 2-columns -->
+        <article class="articles-item" v-for="post in readyList" :key="post.id">
+          <div class="articles-item__content">
+            <div class="articles-item__content-left">
+              <div class="articles-item__thumb">
                 <img :src="`/images/${post.img}`" :alt="post.title" />
               </div>
             </div>
 
-            <div class="blog-item__content-right">
-              <div class="blog-item-heading">
+            <div class="articles-item__content-right">
+              <div class="articles-item-heading">
                 <router-link
                   :to="{
                     name: 'ArticlesDetail',
                     params: { id: post.id, slug: post.slug },
                   }"
                 >
-                  <h2 class="blog-item__heading">{{ post.title }}</h2>
+                  <h2 class="articles-item__heading">{{ post.title }}</h2>
                 </router-link>
-                <p class="blog-item__body">{{ post.summary }}</p>
+                <p class="articles-item__summary">{{ post.summary }}</p>
               </div>
             </div>
           </div>
@@ -82,22 +82,20 @@ export default {
 <style>
 /* *********************************************** */
 
-.blog-item-block {
+.articles-item-block {
   border-top: 2px solid var(--color-light);
   background: var(--color-primary);
   padding: 4rem 0 4rem;
-  /* border: 2px solid red; */
 }
 
-.blog-grid {
+.articles-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   padding: 5rem 0 0 0;
 }
 
-.blog-item {
-  /* border: 1px solid var(--color-light); */
+.articles-item {
   position: relative;
   display: flex;
   flex-direction: column;
@@ -105,143 +103,75 @@ export default {
   margin-bottom: 5rem;
 }
 
-@media (max-width: 768px) {
-  .blog-grid {
-    flex-direction: column;
-  }
-
-  .blog-item {
-    width: 95%;
-    margin: 1rem;
-  }
+.articles-item img {
+  margin: 0;
+  width: 100%; /* Set image width to 100% of its container */
+  max-width: 100%; /* Ensure image doesn't exceed container width */
+  height: auto;
 }
 
-.blog-item img {
-  margin: 0;
+.articles-item__thumb {
+  position: relative;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.articles-item__thumb img {
   max-width: 100%;
   height: auto;
 }
 
-.blog-item__content {
+.articles-item__content {
   display: flex;
-  flex-direction: row;
+  flex-direction: row; /* Stack items horizontally */
+  max-width: 100%;
 }
 
-.blog-item__content-left {
-  display: flex;
-  max-width: 30%;
-}
-.blog-item__content-right {
-  display: flex;
-  flex-direction: row;
-  max-width: 70%;
-  padding: 0 1rem 0 2rem;
-}
-
-.blog-item__thumb {
-  position: relative;
+.articles-item__content-left {
   flex: 1;
 }
 
-.blog-item__thumb img {
-  position: relative;
-  /* object-fit: cover; */
-  width: 40rem;
+.articles-item__content-right {
+  flex: 2.5;
+  padding: 0 1rem; /* Add space between image and text */
+  align-items: flex-start; /* Align items at the start of the container */
 }
 
-.blog-item-heading {
-  padding: 0;
-  flex: 2;
-}
-
-.blog-item-body {
-  padding: 0;
-  flex: 2;
-}
-
-.blog-item-author {
-  padding: 0;
-}
-
-.blog-item-tags {
-  padding: 0;
-}
-
-.blog-item__heading {
-  margin: 0 0 1.5rem 0;
+.articles-item-heading {
   font-weight: 600;
 }
 
-.blog-item__heading:hover {
-  color: var(--color-secondary);
-  text-decoration: underline;
+.articles-item__heading {
+  margin: 0 0 1.5rem 1rem;
+  font-weight: 600;
 }
 
-.blog-item__subheading {
-  margin: 1rem 0;
-}
-
-.blog-item-meta {
-  flex: 2;
-  display: flex;
-  flex-direction: column;
-}
-
-.blog-item__author {
-  margin: 1rem 0;
-}
-
-.blog-item__tags {
-  margin: 0;
-}
-
-.blog-item__body {
+.articles-item__summary {
+  margin: 0 0 0 1rem;
   font-size: 2.1rem;
   line-height: 3.2rem;
 }
 
-.blog-item a {
-  color: var(--color-headings);
-  transition: color 0.3s;
-}
+/* Adjust the layout for smaller screens */
+@media screen and (max-width: 767px) {
+  .articles-item__content {
+    flex-direction: column; /* Stack items vertically */
+  }
 
-.blog-item a:hover {
-  color: var(--color-secondary);
-}
+  .articles-item__content-left {
+    margin-bottom: 1rem; /* Add space between image and text */
+    padding: 1rem;
+  }
 
-.blog-error {
-  background: var(--color-dark);
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  border-radius: 1rem;
-  margin-bottom: 0.5rem;
-}
+  .articles-item__content-right {
+    padding: 0; /* Remove padding for better alignment */
+  }
 
-.blog-error-message {
-  font-size: 1.5rem;
-  margin: 1rem;
-  font-weight: bold;
-}
-
-.blog-item-tag-pill {
-  display: inline-block;
-  margin: 1rem 1rem 0 0;
-  color: var(--color-footer);
-  background: var(--color-light);
-  padding: 0.3rem 0.7rem;
-  border-radius: 0.5rem;
-  font-size: 1.4rem;
-  font-weight: 700;
-}
-
-.blog-item-tag-pill:hover {
-  color: var(--color-header);
-  background: var(--color-secondary);
-}
-
-.blog-bottom {
-  border-bottom: 2px solid var(--color-light);
-  padding: 1rem;
+  .articles-item__thumb img {
+    width: 100%; /* Set image width to 100% on small screens */
+    max-width: none; /* Remove max-width constraint */
+  }
 }
 </style>
