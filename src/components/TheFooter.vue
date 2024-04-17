@@ -9,22 +9,23 @@
               <a href="https://oncetold.cloud" target="_blank">Oncetold Cloud</a>
             </li>
             <li>
-              Company: <a href="/about">About Us</a>
-              <a href="https://noteasilysquished.com" target="_blank">Podcast</a>&nbsp;
-              <a href="/blog">Blog</a>&nbsp;
+              Company: <a href="/about">About Us</a>&nbsp;
               <a href="/how-it-works">How It Works</a>&nbsp;
-              <a href="/pricing">Pricing</a>&nbsp; <a href="/support">Support</a>
+              <a href="/pricing">Pricing</a>&nbsp;
+              <a href="/support">Support</a>
             </li>
             <li>
               Guides:
-              <a href="https://www.slideshare.net/KyleBondo/presentations" target="_blank"
-                >Meetup Talks</a
-              >&nbsp;
+              <a href="https://noteasilysquished.com" target="_blank">Podcast</a>&nbsp;
+              <a href="/articles">Articles</a>&nbsp;
               <a
                 href="https://www.youtube.com/channel/UCK78Ub6I3JY-erwevl1EgTg"
                 target="_blank"
-                >Tutorial Videos
-              </a>
+                >Tutorial Videos </a
+              >&nbsp;
+              <a href="https://www.slideshare.net/KyleBondo/presentations" target="_blank"
+                >Meetup Talks</a
+              >&nbsp;
             </li>
             <li>
               Fine Print: <a href="/rights">Customer Rights</a>&nbsp;
