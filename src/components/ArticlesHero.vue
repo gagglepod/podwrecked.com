@@ -5,7 +5,7 @@
         <div class="about__heading-img">
           <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
         </div>
-        <h1 class="about__heading">Always Testing</h1>
+        <h1 class="about__heading">Always Teaching</h1>
         <p class="about__shortline">
           We know how tough starting a podcast can be. This is why Oncetold is about
           teaching you how to podcast first. The rest will follow.
