@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vueuse/core": "^10.7.0",
+    "@vueuse/core": "^10.9.0",
     "firebase": "^10.9.0",
     "moment": "^2.30.1",
     "pinia": "^2.1.7",

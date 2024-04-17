@@ -14,6 +14,8 @@ import BlogArticle from "../views/BlogArticle.vue";
 import RightsView from "../views/RightsView.vue";
 import TermsView from "../views/TermsView.vue";
 import UptimeView from "../views/UptimeView.vue";
+import ArticlesView from "../views/ArticlesView.vue";
+import ArticlesDetail from "../views/ArticlesDetail.vue";
 
 const routes = [
   {
@@ -77,6 +79,17 @@ const routes = [
     path: "/uptime",
     name: "uptime",
     component: UptimeView,
+  },
+  {
+    path: "/articles",
+    name: "articles",
+    component: ArticlesView,
+  },
+  {
+    path: "/articles/:slug",
+    name: "ArticlesDetail",
+    component: ArticlesDetail,
+    props: true,
   },
 ];
 
