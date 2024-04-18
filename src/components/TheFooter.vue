@@ -22,12 +22,13 @@
           <ul class="list">
             <li>
               Oncetold Platform:
-              <a href="https://oncetold.cloud" target="_blank">Oncetold Cloud</a>
+              <a href="https://oncetold.cloud" target="_blank">Oncetold Cloud</a>&nbsp;
+              <a href="/uptime">Uptime</a>
             </li>
             <li>
               Company: <a href="/about">About Us</a>&nbsp;
               <a href="/how-it-works">How It Works</a>&nbsp;
-              <a href="/pricing">Pricing</a>&nbsp;
+              <a href="/pricing">Pricing</a>&nbsp; <a href="/learn">Learn</a>&nbsp;
               <a href="/support">Support</a>
             </li>
             <li>
@@ -45,8 +46,7 @@
             </li>
             <li>
               Fine Print: <a href="/rights">Customer Rights</a>&nbsp;
-              <a href="/terms">Privacy & Terms</a>&nbsp;
-              <a href="/uptime">Uptime</a>
+              <a href="/terms">Privacy & Terms</a>
             </li>
           </ul>
         </div>

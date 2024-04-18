@@ -14,6 +14,7 @@
       <ul class="list nav__list collapsible__content">
         <li class="nav__item"><a href="/how-it-works">How it Works</a></li>
         <li class="nav__item"><a href="/pricing">Pricing</a></li>
+        <li class="nav__item"><a href="/learn">Learn</a></li>
         <li class="nav__item"><a href="/support">Support</a></li>
         <li class="nav__item">
           <a href="https://oncetold.cloud/login" target="_blank">Sign In</a>

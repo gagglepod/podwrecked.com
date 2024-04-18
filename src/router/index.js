@@ -6,6 +6,7 @@ import PageNotFound from "../views/PageNotFound.vue";
 import HomeView from "../views/HomeView.vue";
 import HowView from "../views/HowView.vue";
 import PricingView from "../views/PricingView.vue";
+import LearnView from "../views/LearnView.vue";
 import SupportView from "../views/SupportView.vue";
 import AboutView from "../views/AboutView.vue";
 import PodfestView from "../views/PodfestView.vue";
@@ -37,6 +38,11 @@ const routes = [
     path: "/pricing",
     name: "pricing",
     component: PricingView,
+  },
+  {
+    path: "/learn",
+    name: "learn",
+    component: LearnView,
   },
   {
     path: "/support",
