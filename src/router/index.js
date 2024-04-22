@@ -6,7 +6,7 @@ import PageNotFound from "../views/PageNotFound.vue";
 import HomeView from "../views/HomeView.vue";
 import HowView from "../views/HowView.vue";
 import PricingView from "../views/PricingView.vue";
-import LearnView from "../views/LearnView.vue";
+import LabView from "../views/LabView.vue";
 import SupportView from "../views/SupportView.vue";
 import AboutView from "../views/AboutView.vue";
 import PodfestView from "../views/PodfestView.vue";
@@ -17,6 +17,9 @@ import TermsView from "../views/TermsView.vue";
 import UptimeView from "../views/UptimeView.vue";
 import ArticlesView from "../views/ArticlesView.vue";
 import ArticlesDetail from "../views/ArticlesDetail.vue";
+import LearnView from "../views/LearnView.vue";
+// import CoursesView from "../views/CoursesView.vue";
+import IntroToPodDesignHomeView from "../views/courses/IntroToPodDesignHomeView.vue";
 
 const routes = [
   {
@@ -40,10 +43,11 @@ const routes = [
     component: PricingView,
   },
   {
-    path: "/learn",
-    name: "learn",
-    component: LearnView,
+    path: "/lab",
+    name: "lab",
+    component: LabView,
   },
+
   {
     path: "/support",
     name: "support",
@@ -96,6 +100,21 @@ const routes = [
     name: "ArticlesDetail",
     component: ArticlesDetail,
     props: true,
+  },
+  {
+    path: "/learn",
+    name: "learn",
+    component: LearnView,
+  },
+  // {
+  //   path: "/courses",
+  //   name: "courses",
+  //   component: CoursesView,
+  // },
+  {
+    path: "/learn/courses/intro-to-podcast-design",
+    name: "IntroToPodDesignHome",
+    component: IntroToPodDesignHomeView,
   },
 ];
 

@@ -5,21 +5,10 @@
         <div class="about__heading-img">
           <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
         </div>
-        <h1 class="about__heading">Learn to Podcast</h1>
+        <h1 class="about__heading">The Laboratory</h1>
         <p class="about__shortline">
-          <strong>Courses, Articles, and Curated Talks</strong> about learning how to
-          create and design podcasts.
-        </p>
-        <p class="about__shortline">
-          <strong>Get Inspired: </strong> We are podcasters too! That's how we know that
-          podcasting is the only tried and tested medium for getting all of your thoughts
-          and ideas out of your head and into your listener's ears.
-        </p>
-        <p class="about__shortline">
-          <strong>Get Started: </strong> To help you get started we've curated many of our
-          informed opinions (based on experience) and hard-fought lessons learned into
-          library of podcasting knowledge that contains contains everything you need to
-          start podcasting.
+          <strong>Our Podcasts</strong> that prove we know a thing or two about
+          podcasting.
         </p>
       </header>
     </div>

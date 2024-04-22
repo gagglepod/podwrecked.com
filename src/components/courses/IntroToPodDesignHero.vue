@@ -3,23 +3,15 @@
     <div class="container">
       <header class="about-block__header">
         <div class="about__heading-img">
-          <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
+          <img class="about-logo" src="../../assets/images/oncetold-logo-sm.svg" />
         </div>
         <h1 class="about__heading">Learn to Podcast</h1>
         <p class="about__shortline">
-          <strong>Courses, Articles, and Curated Talks</strong> about learning how to
-          create and design podcasts.
+          <strong> Practical workshops </strong>for creating podcasts.
         </p>
         <p class="about__shortline">
-          <strong>Get Inspired: </strong> We are podcasters too! That's how we know that
-          podcasting is the only tried and tested medium for getting all of your thoughts
-          and ideas out of your head and into your listener's ears.
-        </p>
-        <p class="about__shortline">
-          <strong>Get Started: </strong> To help you get started we've curated many of our
-          informed opinions (based on experience) and hard-fought lessons learned into
-          library of podcasting knowledge that contains contains everything you need to
-          start podcasting.
+          <strong>Get Inspired: </strong> Podcasting allows you to get all of your
+          thoughts and ideas out of your head and into your listener's ears.
         </p>
       </header>
     </div>
