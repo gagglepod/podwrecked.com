@@ -1,6 +1,14 @@
 <template>
   <section class="dashboard-block dashboard-block--dark">
     <div class="container">
+      <header class="dashboard-summary__header">
+        <h2>Podcast hosting for the rest of us</h2>
+        <p class="dashboard-summary__text">
+          <strong>Podcast Hosting</strong> shouldn't require you to have a degree in
+          engineering. Introducing Oncetold, a podcast education and hosting platform
+          created by podcasters for podcasters.
+        </p>
+      </header>
       <picture class="dashboard-summary__image">
         <source
           type="image/webp"
@@ -21,19 +29,23 @@
     </div>
     <div class="container">
       <header class="dashboard-summary__header">
-        <h2>For stories not easily squished.</h2>
+        <h2>Make your stories not easily squished</h2>
         <p class="dashboard-summary__text">
-          <strong>Stories are fragile </strong> and easily lost or forgotten if you don't
-          save them. Details get lost, names fade away, and all you are left with is an
-          outline of your experience.
+          <strong>Stories are fragile </strong> and easily forgotten. If you don't save
+          them names fade, details get missed, and lessons are lost. In the end, all you
+          are left with is an outline of your experience.
+          <strong>That's no way to treat a story.</strong>
         </p>
 
         <p class="dashboard-summary__text">
-          <strong>But when your story is shared using Oncetold,</strong> you can capture
-          it with a podcast, fill in the blanks, and share it with the world. Oncetold
-          gives you that path in small steps that uses a process that is easy to follow
-          without needing a degree in engineering.
+          When you capture a story with a podcast you get a chance to preserve it, fill in
+          the blanks, and share it with others.
+          <strong
+            >We give you the tools to save and share your stories using a step-by-step
+            process that is unlike any other in podcasting.</strong
+          >
         </p>
+
         <button
           class="btn btn--secondary btn--stretched"
           @click="$router.push('/how-it-works')"

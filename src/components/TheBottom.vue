@@ -2,14 +2,18 @@
   <section class="block block--hero bottom">
     <div class="container grid grid--1x1">
       <header class="bottom__header bottom__content">
-        <h2 class="bottom__heading">
+        <!-- <h2 class="bottom__heading">
           You have questions? <a href="#" class="bottom__link">We have answers.</a>
-        </h2>
+        </h2> -->
         <h2 class="bottom__heading">
-          <a href="#" class="bottom__link">Ready to Tell Your Story?</a>
+          <a href="https://oncetold.cloud" class="bottom__link"
+            >The time is now. Are you ready?</a
+          >
         </h2>
         <a href="https://oncetold.cloud" target="_blank"
-          ><button class="btn btn--secondary btn--stretched">The Time is Now</button></a
+          ><button class="btn btn--secondary btn--stretched">
+            I am ready to start telling my story
+          </button></a
         >
       </header>
     </div>

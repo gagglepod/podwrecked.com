@@ -34,8 +34,9 @@
             <li>
               Guides:
               <a href="https://noteasilysquished.com" target="_blank">Podcast</a>&nbsp;
-              <a href="/articles">Articles</a>&nbsp; <a href="/courses">Courses</a>&nbsp;
-              <a href="/lab">Lab</a>&nbsp;
+              <a href="/articles">Articles</a>&nbsp;
+              <a href="/learn/courses">Courses</a>&nbsp;
+              <a href="/learn/videos">Videos</a>&nbsp; <a href="/lab">Lab</a>&nbsp;
               <a href="https://www.slideshare.net/KyleBondo/presentations" target="_blank"
                 >Slides</a
               >&nbsp;

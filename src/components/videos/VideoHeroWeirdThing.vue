@@ -3,24 +3,9 @@
     <div class="container">
       <header class="about-block__header">
         <div class="about__heading-img">
-          <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
+          <img class="about-logo" src="../../assets/images/oncetold-logo-sm.svg" />
         </div>
-        <h1 class="about__heading">Learn with Oncetold</h1>
-        <p class="about__shortline">
-          <strong>Courses, Articles, and Curated Talks</strong> about learning how to
-          create and design podcasts.
-        </p>
-        <p class="about__shortline">
-          <strong>Get Inspired: </strong> We are podcasters too! That's how we know that
-          podcasting is the only tried and tested medium for getting all of your thoughts
-          and ideas out of your head and into your listener's ears.
-        </p>
-        <p class="about__shortline">
-          <strong>Get Started: </strong> To help you get started we've curated many of our
-          informed opinions (based on experience) and hard-fought lessons learned into
-          library of podcasting knowledge that contains contains everything you need to
-          start podcasting.
-        </p>
+        <h1 class="about__heading">What is Your Weird Thing</h1>
       </header>
     </div>
   </section>

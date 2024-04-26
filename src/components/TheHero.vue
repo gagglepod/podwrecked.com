@@ -7,15 +7,17 @@
         </div>
         <h1 class="hero__heading">Once upon a time...</h1>
         <p class="hero__shortline">
-          <strong>You have experienced life </strong> and know a thing or two but have
-          never saved that knowledge for anyone else to hear.
-          <strong>It is time to tell your story </strong> and share that knowledge in a
-          way that is simple, clear, and enduring.
+          You are curious. You've been on adventures. <strong>You lived a life. </strong
+          ><br />
+          All these events create stories. Stories you've never shared.
         </p>
-        <h2>It is time to tell your story!</h2>
+        <h2>It is time to tell your story</h2>
+        <p class="hero__shortline">
+          People what to hear your story. We can help you reach them.
+        </p>
         <a href="https://oncetold.cloud" target="_blank"
           ><button class="btn btn--secondary btn--stretched">
-            Don't Let it Fade Away
+            Start Today before they fade away
           </button></a
         >
       </header>

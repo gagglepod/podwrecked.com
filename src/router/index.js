@@ -18,8 +18,14 @@ import UptimeView from "../views/UptimeView.vue";
 import ArticlesView from "../views/ArticlesView.vue";
 import ArticlesDetail from "../views/ArticlesDetail.vue";
 import LearnView from "../views/LearnView.vue";
-// import CoursesView from "../views/CoursesView.vue";
-import IntroToPodDesignHomeView from "../views/courses/IntroToPodDesignHomeView.vue";
+import CoursesListView from "../views/courses/CoursesListView.vue";
+import CourseViewIntroToPodcastDesign from "../views/courses/CourseViewIntroToPodcastDesign.vue";
+import VideosListView from "../views/videos/VideosListView.vue";
+import VideoViewPodcastDesignPlan from "../views/videos/VideoViewPodcastDesignPlan.vue";
+import VideoViewStopPodwrecking from "../views/videos/VideoViewStopPodwrecking.vue";
+import VideoViewStoryHunting from "../views/videos/VideoViewStoryHunting.vue";
+import VideoViewBrandPodcastDesign from "../views/videos/VideoViewBrandPodcastDesign.vue";
+import VideoViewWeirdThing from "../views/videos/VideoViewWeirdThing.vue";
 
 const routes = [
   {
@@ -106,15 +112,45 @@ const routes = [
     name: "learn",
     component: LearnView,
   },
-  // {
-  //   path: "/courses",
-  //   name: "courses",
-  //   component: CoursesView,
-  // },
   {
-    path: "/learn/courses/intro-to-podcast-design",
-    name: "IntroToPodDesignHome",
-    component: IntroToPodDesignHomeView,
+    path: "/learn/courses",
+    name: "courses",
+    component: CoursesListView,
+  },
+  {
+    path: "/learn/courses/course-intro-to-podcast-design",
+    name: "CourseViewIntroToPodcastDesign",
+    component: CourseViewIntroToPodcastDesign,
+  },
+  {
+    path: "/learn/videos",
+    name: "vidoes",
+    component: VideosListView,
+  },
+  {
+    path: "/learn/videos/video-podcast-design-plan",
+    name: "VideoViewPodcastDesignPlan",
+    component: VideoViewPodcastDesignPlan,
+  },
+  {
+    path: "/learn/videos/video-stop-podwrecking",
+    name: "VideoViewStopPodwrecking",
+    component: VideoViewStopPodwrecking,
+  },
+  {
+    path: "/learn/videos/video-story-hunting",
+    name: "VideoViewStoryHunting",
+    component: VideoViewStoryHunting,
+  },
+  {
+    path: "/learn/videos/video-brand-podcast-design",
+    name: "VideoViewBrandPodcastDesign",
+    component: VideoViewBrandPodcastDesign,
+  },
+  {
+    path: "/learn/videos/video-what-is-your-weird-thing",
+    name: "VideoViewWeirdThing",
+    component: VideoViewWeirdThing,
   },
 ];
 

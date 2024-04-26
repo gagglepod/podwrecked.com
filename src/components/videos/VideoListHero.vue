@@ -3,9 +3,9 @@
     <div class="container">
       <header class="about-block__header">
         <div class="about__heading-img">
-          <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
+          <img class="about-logo" src="../../assets/images/oncetold-logo-sm.svg" />
         </div>
-        <h1 class="about__heading">Learn with Oncetold</h1>
+        <h1 class="about__heading">Oncetold Videos</h1>
         <p class="about__shortline">
           <strong>Courses, Articles, and Curated Talks</strong> about learning how to
           create and design podcasts.

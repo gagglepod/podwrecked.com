@@ -5,14 +5,7 @@
         <div class="about__heading-img">
           <img class="about-logo" src="../../assets/images/oncetold-logo-sm.svg" />
         </div>
-        <h1 class="about__heading">Learn to Podcast</h1>
-        <p class="about__shortline">
-          <strong> Practical workshops </strong>for creating podcasts.
-        </p>
-        <p class="about__shortline">
-          <strong>Get Inspired: </strong> Podcasting allows you to get all of your
-          thoughts and ideas out of your head and into your listener's ears.
-        </p>
+        <h1 class="about__heading">Brand Podcast Design</h1>
       </header>
     </div>
   </section>

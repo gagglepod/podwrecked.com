@@ -25,7 +25,7 @@
           </p>
           <h1 class="article-details__heading">{{ post.title }}</h1>
           <h3 class="article-details__shortline">{{ post.summary }}</h3>
-          <p class="article-details__author">By {{ post.author }} | {{ post.date }}</p>
+          <p class="article-details__author">By {{ post.author }}</p>
           <button class="btn btn--secondary btn--stretched" @click="router.back()">
             Back to Article List
           </button>
