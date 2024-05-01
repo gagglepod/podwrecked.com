@@ -42,7 +42,7 @@
 <script>
 import { ref, watchEffect } from "vue";
 import { db } from "../firebase/config";
-import { onSnapshot, collection } from "firebase/firestore";
+import { onSnapshot, collection, orderBy } from "firebase/firestore";
 import TheSpinner from "./TheSpinner.vue";
 
 export default {
@@ -60,6 +60,16 @@ export default {
           const post = doc.data();
           results.push({ ...post, slug: post.slug });
         });
+
+        // Sort the results by date
+        results.sort((a, b) => {
+          // Parse date strings into Date objects
+          const dateA = new Date(a.date);
+          const dateB = new Date(b.date);
+          // Compare dates
+          return dateB - dateA; // Sort in descending order
+        });
+
         readyList.value = results;
       });
 
