@@ -4,11 +4,14 @@
       <header class="learn-summary__header">
         <h2><a href="/learn/courses" class="bottom__link">Courses</a></h2>
       </header>
-      <a href="/learn/courses/course-intro-to-podcast-design" class="learn-detail__link">
+      <a
+        href="/learn/courses/course-episode-planning-masterclass"
+        class="learn-detail__link"
+      >
         <picture class="learn-summary__image">
           <img
-            src="/images/oncetold.us-say-what-v1-1600x600.jpg"
-            alt="Introduction to Podcast Design"
+            src="/images/oncetold.us-episode-planning-masterclass-v2-1600x600.jpg"
+            alt="Episode Planning Masterclass"
           /> </picture
       ></a>
     </div>
@@ -16,16 +19,72 @@
       <header class="learn-summary__header">
         <h2 class="learn-summary__article-heading">
           <a
-            href="/learn/courses/course-intro-to-podcast-design"
+            href="/learn/courses/course-episode-planning-masterclass"
             class="learn-detail__link"
-            >Introduction to Podcast Design</a
+            >Episode Planning Masterclass</a
           >
         </h2>
         <p class="learn-summary__text">
-          This course will teach you the basics of podcast design with an easy to follow
-          process.
+          This masterclass will teach you how to create the same podcast content strategy
+          used by professional podcasters to find, observe, and record stories that work
+          (and don't work) for your audience.
         </p>
       </header>
+    </div>
+  </section>
+
+  <section class="learn-basics-block">
+    <div class="learn-container">
+      <!-- learn learning row #1 -->
+      <article class="learn-grid learn-grid--1x2 learn">
+        <div class="learn-detail__content">
+          <div class="learn-detail__left">
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+            >
+              <img
+                src="/images/oncetold.us-episode-planning-masterclass-v2-1600x600.jpg"
+                alt="Episode Planning Masterclass"
+            /></a>
+            <h3 class="learn-summary__article-heading">
+              <a
+                href="/learn/courses/course-intro-to-podcast-design"
+                class="learn-detail__link"
+                >Episode Planning Masterclass</a
+              >
+            </h3>
+            <p class="learn-summary__text">
+              This masterclass will teach you how to create the same podcast content
+              strategy used by professional podcasters to find, observe, and record
+              stories that work (and don't work) for your audience.
+            </p>
+          </div>
+
+          <div class="learn-detail__right">
+            <a
+              href="/learn/courses/course-intro-to-podcast-design"
+              class="learn-detail__link"
+            >
+              <img
+                src="/images/oncetold.us-intro-to-podcast-design-v1-1600x600.jpg"
+                alt="Introduction to Podcast Design"
+            /></a>
+            <h3 class="learn-summary__article-heading">
+              <a
+                href="/learn/courses/course-intro-to-podcast-design"
+                class="learn-detail__link"
+                >Introduction to Podcast Design</a
+              >
+            </h3>
+            <p class="learn-summary__text">
+              This introductory course will teach you the the essential first steps in
+              producing any podcast by walking your through the process for expanding on
+              your idea, knowing your space, and defining your purpose.
+            </p>
+          </div>
+        </div>
+      </article>
     </div>
   </section>
 

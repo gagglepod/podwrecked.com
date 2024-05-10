@@ -3,8 +3,8 @@
     <div class="course-detail-container">
       <picture class="course-detail-summary__image">
         <img
-          src="/images/oncetold.us-intro-to-podcast-design-v1-1600x600.jpg"
-          alt="Introduction to Podcast Design"
+          src="/images/oncetold.us-episode-planning-masterclass-v2-1600x600.jpg"
+          alt="Episode Planning Masterclass"
         />
       </picture>
     </div>
@@ -15,36 +15,47 @@
       <!-- course-detail #1 -->
       <article class="course-detail-grid course-detail-grid--1x2 course-detail">
         <div class="course-detail-intro-header">
-          <h3 class="course-detail__intro-title">Introduction to Podcast Design</h3>
+          <h3 class="course-detail__intro-title">Episode Planning Masterclass</h3>
         </div>
         <div class="course-detail__intro">
           <div class="course-detail__intro-left">
-            <h3 class="course-detail__intro-sub-heading">Once Upon a Time</h3>
+            <h3 class="course-detail__intro-sub-heading">Every Podcast Needs a Plan</h3>
 
             <p class="course-detail__intro-info">
-              Intrigued by the process of podcast design? Want to learn the basics? You’ve
-              come to the right place!
+              The #1 reason podcasters fail is don't know what comes next.
             </p>
 
             <p class="course-detail__intro-info">
-              This course will illustrate the three (3) phases of podcast design: Design,
-              Build and Share.
+              But if you can master the art of episode planning you can find the best
+              stories to tell, know what comes next, and keep your audienced engaged.
             </p>
 
             <p class="course-detail__intro-info">
-              This course is designed to teach you the basics with an easy to follow
-              process and pointers for where to learn more.
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
             </p>
+
+            <p class="course-detail__intro-info">
+              Following us through each step will be The AnonyMoose Files, a podcast
+              created using these principles.
+            </p>
+
             <p class="course-detail__intro-info">
               <a href="/courses"
-                ><button class="btn btn--secondary btn--stretched">Get Started</button></a
+                ><button class="btn btn--secondary btn--stretched">
+                  Are You Ready?
+                </button></a
               >
             </p>
           </div>
 
           <div class="course-detail__intro-right">
             <!-- IMAGE -->
-            <img src="/images/tincan-man-400x400.png" alt="Tincan Man Podcast" />
+            <img
+              src="/images/anonymoose.com-showart-v3-400x400.jpg"
+              alt="The AnonyMoose Files Podcast"
+            />
           </div>
         </div>
       </article>
@@ -52,45 +63,43 @@
       <!-- course-detail #2 -->
       <article class="course-detail-pucks">
         <div class="course-detail-pucks-header">
-          <h3 class="course-detail__puck-title">For each phase, you will</h3>
+          <h3 class="course-detail__puck-title">For each step, you will</h3>
         </div>
         <div class="course-detail-grid course-detail-grid--1x4 course">
           <div class="course-detail__pucks">
             <h3 class="course-detail__puck-heading">Learn the Process</h3>
             <p class="course-detail__puck-info">
-              Use core design principles to turn an idea into a podcast.
+              Discover the core principle behind each step.
             </p>
           </div>
           <div class="course-detail__pucks">
-            <h3 class="course-detail__puck-heading">Know your Space</h3>
+            <h3 class="course-detail__puck-heading">Apply the Step</h3>
             <p class="course-detail__puck-info">
-              Understand how your idea fits into a special niche.
+              Understand how the step would work using a real world example.
             </p>
           </div>
           <div class="course-detail__pucks">
-            <h3 class="course-detail__puck-heading">Pull it Together</h3>
+            <h3 class="course-detail__puck-heading">Test Yourself</h3>
             <p class="course-detail__puck-info">
-              Take your idea, purpose, and story and build a prototype.
+              Quiz yourself to see if you've mastered the primary concept.
             </p>
           </div>
           <div class="course-detail__pucks">
-            <h3 class="course-detail__puck-heading">Serve your Audience</h3>
+            <h3 class="course-detail__puck-heading">Go Beyond</h3>
             <p class="course-detail__puck-info">
-              Test your idea, improve your reach, and find your people.
+              Find more details with additional resources that expand each step.
             </p>
           </div>
         </div>
         <div class="course-detail__puck-button">
           <a href="/courses"
-            ><button class="btn btn--secondary btn--stretched">
-              Let's Start with Design
-            </button></a
+            ><button class="btn btn--secondary btn--stretched">Let's Start</button></a
           >
         </div>
       </article>
 
       <!-- course-detail #3 -->
-      <article class="course-detail-grid course-detail-grid--1x3 course-detail">
+      <!-- <article class="course-detail-grid course-detail-grid--1x3 course-detail">
         <div class="course-detail__box">
           <h2 class="course-detail__box-heading">
             <a href="/lab" class="course-detail__link">Phase 1: Design</a>
@@ -121,7 +130,7 @@
             reach a new listener.
           </p>
         </div>
-      </article>
+      </article> -->
     </div>
   </section>
 </template>
