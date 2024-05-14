@@ -4,10 +4,7 @@
       <header class="learn-summary__header">
         <h2><a href="/learn/courses" class="bottom__link">Courses</a></h2>
       </header>
-      <a
-        href="/learn/courses/course-episode-planning-masterclass"
-        class="learn-detail__link"
-      >
+      <a href="/learn/courses/episode-planning-masterclass" class="learn-detail__link">
         <picture class="learn-summary__image">
           <img
             src="/images/oncetold.us-episode-planning-masterclass-v2-1600x600.jpg"
@@ -18,9 +15,7 @@
     <div class="container">
       <header class="learn-summary__header">
         <h2 class="learn-summary__article-heading">
-          <a
-            href="/learn/courses/course-episode-planning-masterclass"
-            class="learn-detail__link"
+          <a href="/learn/courses/episode-planning-masterclass" class="learn-detail__link"
             >Episode Planning Masterclass</a
           >
         </h2>
@@ -40,7 +35,7 @@
         <div class="learn-detail__content">
           <div class="learn-detail__left">
             <a
-              href="/learn/courses/course-episode-planning-masterclass"
+              href="/learn/courses/episode-planning-masterclass"
               class="learn-detail__link"
             >
               <img
@@ -48,9 +43,7 @@
                 alt="Episode Planning Masterclass"
             /></a>
             <h3 class="learn-summary__article-heading">
-              <a
-                href="/learn/courses/course-intro-to-podcast-design"
-                class="learn-detail__link"
+              <a href="/learn/courses/intro-to-podcast-design" class="learn-detail__link"
                 >Episode Planning Masterclass</a
               >
             </h3>
@@ -62,18 +55,13 @@
           </div>
 
           <div class="learn-detail__right">
-            <a
-              href="/learn/courses/course-intro-to-podcast-design"
-              class="learn-detail__link"
-            >
+            <a href="/learn/courses/intro-to-podcast-design" class="learn-detail__link">
               <img
                 src="/images/oncetold.us-intro-to-podcast-design-v1-1600x600.jpg"
                 alt="Introduction to Podcast Design"
             /></a>
             <h3 class="learn-summary__article-heading">
-              <a
-                href="/learn/courses/course-intro-to-podcast-design"
-                class="learn-detail__link"
+              <a href="/learn/courses/intro-to-podcast-design" class="learn-detail__link"
                 >Introduction to Podcast Design</a
               >
             </h3>

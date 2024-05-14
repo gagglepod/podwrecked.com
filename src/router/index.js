@@ -20,7 +20,11 @@ import ArticlesDetail from "../views/ArticlesDetail.vue";
 import LearnView from "../views/LearnView.vue";
 import CoursesListView from "../views/courses/CoursesListView.vue";
 import CourseViewIntroToPodcastDesign from "../views/courses/CourseViewIntroToPodcastDesign.vue";
+
 import CourseViewEpisodePlanningMasterclass from "../views/courses/CourseViewEpisodePlanningMasterclass.vue";
+
+import LessonViewEpisodePlanningMasterclass01 from "../views/courses/LessonViewEpisodePlanningMasterclass01.vue";
+
 import VideosListView from "../views/videos/VideosListView.vue";
 import VideoViewPodcastDesignPlan from "../views/videos/VideoViewPodcastDesignPlan.vue";
 import VideoViewStopPodwrecking from "../views/videos/VideoViewStopPodwrecking.vue";
@@ -119,14 +123,19 @@ const routes = [
     component: CoursesListView,
   },
   {
-    path: "/learn/courses/course-intro-to-podcast-design",
+    path: "/learn/courses/intro-to-podcast-design",
     name: "CourseViewIntroToPodcastDesign",
     component: CourseViewIntroToPodcastDesign,
   },
   {
-    path: "/learn/courses/course-episode-planning-masterclass",
+    path: "/learn/courses/episode-planning-masterclass",
     name: "CourseViewEpisodePlanningMasterclass",
     component: CourseViewEpisodePlanningMasterclass,
+  },
+  {
+    path: "/learn/courses/episode-planning-masterclass/lesson-01",
+    name: "LessonViewEpisodePlanningMasterclass01",
+    component: LessonViewEpisodePlanningMasterclass01,
   },
   {
     path: "/learn/videos",

@@ -42,7 +42,7 @@
             </p>
 
             <p class="course-detail__intro-info">
-              <a href="/courses"
+              <a href="/learn/courses/episode-planning-masterclass/lesson-01"
                 ><button class="btn btn--secondary btn--stretched">
                   Are You Ready?
                 </button></a
@@ -52,10 +52,11 @@
 
           <div class="course-detail__intro-right">
             <!-- IMAGE -->
-            <img
-              src="/images/anonymoose.com-showart-v3-400x400.jpg"
-              alt="The AnonyMoose Files Podcast"
-            />
+            <a href="https://anonymoosefiles.com/" target="_blank"
+              ><img
+                src="/images/anonymoose.com-showart-v3-400x400.jpg"
+                alt="The AnonyMoose Files Podcast"
+            /></a>
           </div>
         </div>
       </article>
@@ -92,45 +93,334 @@
           </div>
         </div>
         <div class="course-detail__puck-button">
-          <a href="/courses"
+          <a href="/learn/courses/episode-planning-masterclass/lesson-01"
             ><button class="btn btn--secondary btn--stretched">Let's Start</button></a
           >
         </div>
       </article>
 
-      <!-- course-detail #3 -->
-      <!-- <article class="course-detail-grid course-detail-grid--1x3 course-detail">
-        <div class="course-detail__box">
-          <h2 class="course-detail__box-heading">
-            <a href="/lab" class="course-detail__link">Phase 1: Design</a>
-          </h2>
-          <p class="course-detail__box-info">
-            Dig deep into the principles and process of podcast design. Take some time to
-            explore the "Why" that expresses your purpose, defines your space, and informs
-            the approach you take on your topic.
-          </p>
+      <!-- lesson summary #1 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail-lessons-header">
+          <h3 class="course-detail__lessons-title">Lessons in this Masterclass</h3>
         </div>
-        <div class="course-detail__box">
-          <h2 class="course-detail__box-heading">
-            <a href="/lab" class="course-detail__link">Phase 2: Build</a>
-          </h2>
-          <p class="course-detail__box-info">
-            Take your meticulously crafted design and start weaving your story and style
-            together into a podcast. This will become the baseline strategy for growing
-            your audience one episode at a time.
-          </p>
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/episode-planning-masterclass/lesson-01"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-01-v1-400x200.jpg"
+                alt="Lesson 01: Introduction"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/episode-planning-masterclass/lesson-01"
+                class="learn-detail__link"
+                >Lesson 01: Introduction</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
+            </p>
+          </div>
         </div>
-        <div class="course-detail__box">
-          <h2 class="course-detail__box-heading">
-            <a href="/lab" class="course-detail__link">Phase 3: Share</a>
-          </h2>
-          <p class="course-detail__box-info">
-            Sharing each episode with your audience requires you to develop a system for
-            constant refinement. Each episode is another chance for you to improve and
-            reach a new listener.
-          </p>
+      </article>
+
+      <!-- lesson summary #2 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-02-v1-400x200.jpg"
+                alt="Lesson 02: Direction"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 02: Direction</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
+            </p>
+          </div>
         </div>
-      </article> -->
+      </article>
+
+      <!-- lesson summary #3 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-03-v1-400x200.jpg"
+                alt="Lesson 03: Purpose"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 03: Purpose</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- lesson summary #4 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-04-v1-400x200.jpg"
+                alt="Lesson 04: Search"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 04: Search</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- lesson summary #5 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-05-v1-400x200.jpg"
+                alt="Lesson 05: Observation"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 05: Observation</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- lesson summary #6 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-06-v1-400x200.jpg"
+                alt="Lesson 06: Bucketing"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 06: Bucketing</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- lesson summary #7 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-07-v1-400x200.jpg"
+                alt="Lesson 07: Filtering"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 07: Filtering</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- lesson summary #8 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-08-v1-400x200.jpg"
+                alt="Lesson 08: Story Prioritization"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 08: Story Prioritization</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              In this lesson, you'll learn how to select which stories are the most
+              important to you in your first year of podcasting and how to organize them
+              into a manageable list.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- lesson summary #9 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-09-v1-400x200.jpg"
+                alt="Lesson 09: Story Selection"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 09: Story Selection</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              In this lesson, you'll work through turning stories into episodes and
+              exploring the advantages to including bonus episodes.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- lesson summary #10 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/course-episode-planning-masterclass"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-10-v1-400x200.jpg"
+                alt="Lesson 10: Wrap Up"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/course-episode-planning-masterclass"
+                class="learn-detail__link"
+                >Lesson 10: Wrap Up</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              In the final lesson of this masterclass you will learn the benefits to
+              planning your episodes and why it works in helping you keep your podcast
+              going.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- course-detail #2 -->
+      <article class="course-detail-pucks">
+        <div class="course-detail__puck-button">
+          <a href="/learn/courses/course-episode-planning-masterclass"
+            ><button class="btn btn--secondary btn--stretched">
+              Ready to Plan Your Episodes?
+            </button></a
+          >
+        </div>
+      </article>
     </div>
   </section>
 </template>
@@ -256,6 +546,64 @@ export default {
   padding-bottom: 4rem;
 }
 
+.course-detail__lessons {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+  justify-content: center;
+  /* border: 1px solid #fff; */
+  border-radius: 2rem;
+}
+
+.course-detail-lessons-header {
+  /* border-top: 1px solid var(--color-light); */
+  margin: 0;
+  padding: 0;
+}
+
+.course-detail__lessons-title {
+  margin: 0;
+  font-size: 4rem;
+  line-height: 3rem;
+  text-align: center;
+}
+
+.course-detail__lessons-heading {
+  margin: 1rem 0 1rem 0;
+  font-size: 2.2rem;
+  line-height: 2.8rem;
+}
+
+.course-detail__lessons-sub-heading {
+  font-size: 3rem;
+  margin: 1rem 0;
+  line-height: 3rem;
+}
+
+.course-detail__lessons-info {
+  font-size: 2.1rem;
+  line-height: 3.2rem;
+}
+
+.course-detail__lessons-left {
+  flex: 2;
+  /* display: flex; */
+  justify-content: center;
+  max-width: 400px; /* Set maximum width for the image container */
+  padding: 0 2rem 0 0;
+}
+
+.course-detail__lessons-left img {
+  width: 100%; /* Ensure the image takes the full width of its container */
+  height: auto;
+  border-radius: 1rem;
+}
+
+.course-detail__lessons-right {
+  flex: 3;
+  padding: 0;
+}
+
 .course-detail__box {
   padding: 0 2rem;
   border: 1px solid #fff;
@@ -317,6 +665,21 @@ export default {
   .course-detail__intro-right > img {
     width: 100%;
     padding: 0;
+  }
+
+  .course-detail__lessons-right {
+    order: 1;
+    flex-basis: 100%;
+    padding: 0;
+  }
+
+  .course-detail__lessons-right > img {
+    width: 100%;
+    padding: 0;
+  }
+
+  .course-detail__lessons-left {
+    padding: 1rem 2rem 0 2rem;
   }
 
   .course-detail__box {
