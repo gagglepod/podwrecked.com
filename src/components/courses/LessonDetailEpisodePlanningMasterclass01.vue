@@ -11,100 +11,131 @@
             />
           </picture>
 
-          <h2 class="lesson-detail__intro-heading">What is Podcast Planning?</h2>
+          <h2 class="lesson-detail__intro-heading">What is Episode Planning?</h2>
           <p class="lesson-detail__intro-info">
             <strong>Episode Planning</strong> is all about taking your podcast's defined
             purpose and aligning it with your target audience to create episodes they will
             enjoy.
           </p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Purpose Driven</h3>
+          <h3 class="lesson-detail__intro-sub-heading">Walking the Path</h3>
           <p class="lesson-detail__intro-info">
-            Each of the steps in the planning process requires you to have a purpose and
-            know, or at least have a good idea about, who your target audience is first.
+            Episode Planning includes eight (8) incremental steps:
           </p>
 
-          <p class="lesson-detail__intro-info">
-            When you know who your podcast is for, then following the process is a matter
-            of serving your listeners what they want. Not having it means disaster!
-          </p>
-
-          <p class="lesson-detail__intro-info">Here are the eight (8) steps:</p>
           <ul>
-            <li class="lesson-detail__intro-list">Direction</li>
-            <li class="lesson-detail__intro-list">Purpose</li>
-            <li class="lesson-detail__intro-list">Search</li>
-            <li class="lesson-detail__intro-list">Observation</li>
-            <li class="lesson-detail__intro-list">Bucketing</li>
-            <li class="lesson-detail__intro-list">Filtering</li>
-            <li class="lesson-detail__intro-list">Prioritization</li>
-            <li class="lesson-detail__intro-list">Selection</li>
+            <li class="lesson-detail__intro-list">Purpose - Define your perspective</li>
+            <li class="lesson-detail__intro-list">Direction - Know who this is for</li>
+            <li class="lesson-detail__intro-list">Filtering - Find good sources</li>
+            <li class="lesson-detail__intro-list">Observation - Lurk with a purpose</li>
+            <li class="lesson-detail__intro-list">Bucketing - Sort and find patterns</li>
+            <li class="lesson-detail__intro-list">
+              Selection - Choose the best 12 themes
+            </li>
+            <li class="lesson-detail__intro-list">
+              Prioritization - Pick the best-themed stories
+            </li>
+            <li class="lesson-detail__intro-list">Scheduling - Establish an order</li>
           </ul>
 
-          <h3 class="lesson-detail__intro-sub-heading">Digging for Gold</h3>
+          <h3 class="lesson-detail__intro-sub-heading">Internal Purpose</h3>
           <p class="lesson-detail__intro-info">
-            Once you have those established, you use that information as a filter to help
-            you sift through a mountain of research to help you determine which of your
-            sources are both credible and reusable.
+            The first step in the planning process requires you to define your
+            perspective. Your perspective, or your point of view on the podcast topic
+            you're interested in, is essential in knowing who your audience is going to
+            be. They will like what you like.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">External Direction</h3>
+          <p class="lesson-detail__intro-info">
+            Once you know your purpose, you can define your direction. Direction is the
+            clear understanding of who this podcast is for. While your perspective is
+            internal to you, your direction is external. It is the reason you give your
+            audience why they should listen.
+          </p>
+          <p class="lesson-detail__intro-info">
+            The goal of this step is to define your <em>WHY statement</em>, a single
+            sentence that establishes the reason your podcast exists.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Finding Good Sources</h3>
+          <p class="lesson-detail__intro-info">
+            Next, with your WHY statement at the ready, you can use it as a clear
+            constraint for finding sources that serve your audience. By applying this
+            filter to your search for credible and reusable sources you can narrow your
+            focus and discard anything that does not match your direction.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Lurking with a Purpose</h3>
+          <p class="lesson-detail__intro-info">
+            With each source you find, you are taking notes on what your potential
+            audience both wants and needs. These could be anything from a few words to a
+            few sentences, just enough to get the main idea and where you got it from. It
+            should be just enough to inspire a story.
+          </p>
+          <p class="lesson-detail__intro-info">
+            However, not all sources are equal. Each of your sources -- websites, blogs,
+            articles, forums, social media posts, scholarly, papers, books, newspapers,
+            other podcast, experts, witnesses, etc -- will need to be inspected, judged,
+            and ranked.
+          </p>
+          <p class="lesson-detail__intro-info">
+            This will provide you with a short list of sources that can provide you with
+            renewable value. These sources become your deep well of information.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Finding Patterns</h3>
+          <p class="lesson-detail__intro-info">
+            After collecting numerous notes from sources that you can trust, you will be
+            left with an unorganized collection of insights and story ideas that you will
+            have to sort into buckets.
           </p>
 
           <p class="lesson-detail__intro-info">
-            These sources will become your deep well of information, with each credible
-            source providing you with valuable insights, interesting stories, and topics
-            that will complement your intended purpose and audience.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Crafting Themes</h3>
-          <p class="lesson-detail__intro-info">
-            After combing through your credible sources you will be left with a focused
-            collection of unorganized insights, stories, and topics that you will have to
-            sort into a series of cohesive and reusable themes.
+            Each of these buckets -- or story buckets -- is simply an organized collection
+            of your notes that all center around a central theme. What these themes are
+            called is an exercise in guided judgment. Because you are the creative mind
+            behind this effort, you will get to decide which theme applies to which
+            logical story bucket.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Crafting each of your themes will require you to make judgment calls on which
-            piece in your collection goes in the most logical theme bucket.
+            The story buckets step takes the longest. Mainly because there is no right or
+            wrong answer to how you decide on organizing them into themes. Sometimes, a
+            certain theme clearly belongs to one story bucket, only to discover that that
+            theme is actually two similar but separate themes.
           </p>
 
           <p class="lesson-detail__intro-info">
-            However, over time you will start to see more and more theme groupings that
-            make sense to you and the direction you want to take your podcast.
+            These themes don't appear right away. They take time to materialize. However,
+            over time you will start to see better theme groupings for patterns you didn't
+            notice before.
           </p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Good Buckets, Bad Buckets</h3>
+          <h3 class="lesson-detail__intro-sub-heading">Choose the Best Themes</h3>
           <p class="lesson-detail__intro-info">
-            With all your research organized into themed buckets, the next step is to
-            decide which buckets are the most important to you and your podcast.
+            With all your research organized into themes, the next step is to decide which
+            themes you want to tackle first. These are the themes that inspire you, can be
+            developed into a series, or simply have the most topics.
           </p>
 
+          <h3 class="lesson-detail__intro-sub-heading">Choose the Best Stories</h3>
           <p class="lesson-detail__intro-info">
-            The selection and priority of these buckets will ultimately form how your
-            podcast's overall narrative will flow during its first year in production.
+            Having your top themes selected, you can now start to think of your story arc.
+            This is how you establish a logical structure for which stories best represent
+            the selected theme. The selection and priority of these stories will
+            ultimately form how the overall narrative will flow within each theme.
           </p>
 
+          <h3 class="lesson-detail__intro-sub-heading">Establish an Order</h3>
           <p class="lesson-detail__intro-info">
-            Think of this as your story arc that establishes a cohesive structure for
-            organizing your episodes.
+            The final step in the process is establishing the order you will tell these
+            stories in. It is a list, divided by theme, of episode topics that you, and by
+            extension your audience, will find the most compelling. It is also your
+            roadmap to creating recording session schedules, detailed scripts, teasers,
+            and what you should be working on next for all your episodes.
           </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Episode Roadmap</h3>
-          <p class="lesson-detail__intro-info">
-            Finally, you will generate a list of episode topics from the buckets you find
-            the most compelling.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            This list will help create detailed scripts, recording session schedules, and
-            teasers for all your episodes without having to create them from scratch.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            This will also give you a roadmap for navigating through the podcasting "messy
-            middle" by structuring your production, defeating writer's block, and knowing
-            what you are working on next.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Ready to Dig In?</h3>
+          <h3 class="lesson-detail__intro-sub-heading">Ready to Start Planning?</h3>
           <p class="lesson-detail__intro-info">
             By the end of this course, you should have a solid understanding of podcast
             planning principles, a collection of reliable sources, a repeatable research
