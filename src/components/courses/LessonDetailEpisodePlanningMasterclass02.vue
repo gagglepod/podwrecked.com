@@ -6,109 +6,228 @@
         <div class="lesson-detail__intro">
           <picture class="lesson-detail__intro-image">
             <img
-              src="/images/oncetold.us-lesson-01-v1-800x200.jpg"
+              src="/images/oncetold.us-lesson-02-v1-800x200.jpg"
               alt="Episode Planning Masterclass"
             />
           </picture>
-          <h2 class="lesson-detail__intro-heading">I want to tell you a story</h2>
-          <p class="lesson-detail__intro-info">This is a story about Bob.</p>
-          <h3 class="lesson-detail__intro-sub-heading">Once upon a time...</h3>
-          <p class="lesson-detail__intro-info">Bob started a podcast.</p>
 
+          <h2 class="lesson-detail__intro-heading">What is Episode Planning?</h2>
           <p class="lesson-detail__intro-info">
-            Bob is very excited about podcasting. He watched a bunch of videos, reads
-            everything on social media, and maybe even bought some books. Bob cannot wait
-            to start talking. So, he Immediately goes out an buys a microphone, plugs it
-            in a starts recording.
+            <strong>Episode Planning</strong> is all about taking your podcast's defined
+            purpose and aligning it with your target audience to create episodes they will
+            enjoy.
           </p>
 
-          <p class="lesson-detail__intro-info">Yeah Bob!</p>
+          <h3 class="lesson-detail__intro-sub-heading">Episode Planning is a System</h3>
+          <p class="lesson-detail__intro-info">
+            Every podcast is made up of systems. At a minimum, most podcasts have five (5)
+            systems:
+          </p>
+          <ul>
+            <li class="lesson-detail__intro-list">A system for thinking up ideas</li>
+            <li class="lesson-detail__intro-list">
+              <strong>A system for creating episodes</strong> (You Are Here!)
+            </li>
+            <li class="lesson-detail__intro-list">A system for editing audio</li>
+            <li class="lesson-detail__intro-list">A system for publishing</li>
+            <li class="lesson-detail__intro-list">A system for finding your audience</li>
+          </ul>
 
           <p class="lesson-detail__intro-info">
-            Let's say Bob get's episode #1 out and feels great. He seems to be off to a
-            great start but Bob has made a critical mistake. He hasn't plan any part of
-            his podcast nor did he do any research. He is just winging it.
+            Episode planning <em>IS</em> your system for creating episodes.
           </p>
 
+          <h3 class="lesson-detail__intro-sub-heading">Planning Season</h3>
           <p class="lesson-detail__intro-info">
-            And as he moves forward with episodes #2, #3, #5, all the way to #10.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Here Comes Trouble</h3>
-          <p class="lesson-detail__intro-info">
-            As it gets harder for him to come up with ideas for his next episode, Bob
-            starts to struggle. He's getting very few downloads, no emails, and zero
-            feedback. He starts to ask himself,
-            <em>"Do I really want to do this podcast thing?"</em>
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            And as it gets more and more difficult for Bob to keep his motivation going.
-            Something is wrong, but Bob doesn't know how to fix it.
-          </p>
-
-          <p class="lesson-detail__intro-info">Then he hits episode #13.</p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Welcome to The Messy Middle</h3>
-          <p class="lesson-detail__intro-info">
-            Where Bob's lack of feedback or downloads runs head-first into his waning
-            motivation. And like a raging beast, The Messy Middle attacks when you are at
-            your lowest point.
+            While episode planning can be done anytime, it should be done before you every
+            start any podcast. Do not start a podcast without first going through the
+            episode planning process at least once.
           </p>
 
           <p class="lesson-detail__intro-info">
-            With nothing solid to fall back on, Bob decides to push his podcast back a
-            day. And then he misses a week. Then a month. And before you know it, Bob's
-            podcast has <em>podfaded</em>.
+            However, once you start, you should revisit your plan after every episode to
+            make sure you don't need to make any corrections.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Why Episode Planning Matters</h3>
+          <p class="lesson-detail__intro-info">
+            If you don't know where you're going, any road will take you there. This is
+            why when you don't do episode planning before you start your podcast you risk
+            driving down the road without a map.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Before long it's been six months and the Messy Middle had grinded Bob's
-            podcast down into a <em>podwreck</em>.
+            When your audience is down one specific and tiny road you need to make sure
+            your directions are correct. Bad directions means getting lost.
+          </p>
+
+          <p class="lesson-detail__intro-info"><em>No map equals no audience!</em></p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Walking the Path</h3>
+          <p class="lesson-detail__intro-info">
+            Episode Planning includes eight (8) incremental steps:
+          </p>
+
+          <ul>
+            <li class="lesson-detail__intro-list">Purpose - Define your perspective</li>
+            <li class="lesson-detail__intro-list">Direction - Know who this is for</li>
+            <li class="lesson-detail__intro-list">Filtering - Find good sources</li>
+            <li class="lesson-detail__intro-list">Observation - Lurk with a purpose</li>
+            <li class="lesson-detail__intro-list">Bucketing - Sort and find patterns</li>
+            <li class="lesson-detail__intro-list">
+              Selection - Choose the best 12 themes
+            </li>
+            <li class="lesson-detail__intro-list">
+              Prioritization - Pick the best-themed stories
+            </li>
+            <li class="lesson-detail__intro-list">Scheduling - Establish an order</li>
+          </ul>
+
+          <h3 class="lesson-detail__intro-sub-heading">Internal Purpose</h3>
+          <p class="lesson-detail__intro-info">
+            The first step in the planning process requires you to define your
+            perspective.
           </p>
 
           <p class="lesson-detail__intro-info">
-            When Bob goes from a podfade to a podwreck, his podcast is effectively a
-            goner. Like they say in <em>The Lion King, "Hakuna Matata" -- No worries</em>.
-            It's the circle of life, or should I say the circle of <em>podcast life</em>.
+            Your perspective, or your point of view on the podcast topic you're interested
+            in, is essential in knowing who your audience is going to be. They will like
+            what you like.
           </p>
 
-          <h3 class="lesson-detail__intro-sub-heading">How did this happen?</h3>
+          <h3 class="lesson-detail__intro-sub-heading">External Direction</h3>
           <p class="lesson-detail__intro-info">
-            There are 2,650,800 podcasts in Apple's podcast directory (January 2024), of
-            which 455,900 are active podcasts. That leaves 2,194,900 podcasts that are NOT
-            active. That's a lot of Bobs!
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            How did this happen to Bob? How did his podcast become a <em>podwreck</em>?
+            Once you know your purpose, you can define your direction. Direction is the
+            clear understanding of who this podcast is for.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Simple. Bob used the <em>Wing It Strategy</em>. This is the strategy where you
-            say, "Nah, I don't need to plan. I'll just wing it!" And you do until the wing
-            it strategy stops working somewhere around episode #13.
+            While your perspective is internal to you, your direction is external. It is
+            the reason you give your audience why they should listen.
+          </p>
+          <p class="lesson-detail__intro-info">
+            The goal of this step is to define your <em>WHY statement</em>, a single
+            sentence that establishes the reason your podcast exists.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Finding Good Sources</h3>
+          <p class="lesson-detail__intro-info">
+            Next, with your WHY statement at the ready, you can use it as a clear
+            constraint for finding sources that serve your audience.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Because Bob rushed into podcasting without a plan, he got stuck. And most of
-            us get stuck we discover that just how hard podcasting really is.
+            By applying this filter to your search for credible and reusable sources you
+            can narrow your focus and discard anything that does not match your direction.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Lurking with a Purpose</h3>
+          <p class="lesson-detail__intro-info">
+            With each source you find, you are taking notes on what your potential
+            audience both wants and needs. These could be anything from a few words to a
+            few sentences, just enough to get the main idea and where you got it from. It
+            should be just enough to inspire a story.
+          </p>
+          <p class="lesson-detail__intro-info">However, not all sources are equal.</p>
+
+          <p class="lesson-detail__intro-info">
+            Each of your sources -- websites, blogs, articles, forums, social media posts,
+            scholarly, papers, books, newspapers, other podcast, experts, witnesses, etc
+            -- will need to be inspected, judged, and ranked.
+          </p>
+          <p class="lesson-detail__intro-info">
+            This will provide you with a short list of sources that can provide you with
+            renewable value. These sources become your deep well of information.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Finding Patterns</h3>
+          <p class="lesson-detail__intro-info">
+            After collecting numerous notes from sources that you can trust, you will be
+            left with an unorganized collection of insights and story ideas that you will
+            have to sort into buckets.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Unfortunately, for most new podcasters, when podcasting starts to get hard --
-            and the numbers back this up -- most of them quit!
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">But Not Today</h3>
-          <p class="lesson-detail__intro-info">
-            Today, with this course, you are going to fight back! You are going to learn
-            how to build a plan that will launch far past episode #13.
+            Each of these buckets -- or story buckets -- is simply an organized collection
+            of your notes that all center around a central theme.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Are you with me? If so, then continue on learn what it takes to survive your
-            podcast!
+            What these themes are called is an exercise in guided judgment. Because you
+            are the creative mind behind this effort, you will get to decide which theme
+            applies to which logical story bucket.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            The story buckets step takes the longest. Mainly because there is no right or
+            wrong answer to how you decide on organizing them into themes.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">
+            Finding Patterns within Patterns
+          </h3>
+          <p class="lesson-detail__intro-info">
+            Sometimes, a certain theme clearly belongs to one story bucket, only to
+            discover that that theme is actually two similar but separate themes.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This is where you discover the topics no one else is talking about!
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            While it takes time for these themes to materialize, over time you will start
+            to see better theme groupings appear inside each of your buckets you didn't
+            notice before.
+          </p>
+
+          <p class="lesson-detail__intro-info">You will cannot help but notice them!</p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Choose the Best Themes</h3>
+          <p class="lesson-detail__intro-info">
+            With all your research organized into themes, the next step is to decide which
+            themes you want to tackle first.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            These are the ones that inspire you, can be developed into a series, or simply
+            have the most topics.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Choose the Best Stories</h3>
+          <p class="lesson-detail__intro-info">
+            Having your top themes selected, you can now start to think of your story arc.
+            This is how you establish a logical structure for which stories best represent
+            the selected theme.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            The selection and priority of these stories will ultimately form how the
+            overall narrative will flow within each theme.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Establish an Order</h3>
+          <p class="lesson-detail__intro-info">
+            The final step in the process is establishing the order you will tell these
+            stories in.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            It is a list, divided by theme, of episode topics that you, and by extension
+            your audience, will find the most compelling.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            It is also your roadmap to creating recording session schedules, detailed
+            scripts, teasers, and what you should be working on next for all your
+            episodes.
+          </p>
+          <p class="lesson-detail__intro-info">
+            By the end of the process a collection of reliable sources and a schedule of
+            episodes that connect with your purpose and your target audience.
+          </p>
+          <p class="lesson-detail__intro-info">
+            Now, you are ready to record your podcast!
           </p>
         </div>
       </article>
@@ -220,7 +339,7 @@
         <div class="lesson-detail__lesson-buttons">
           <div class="lesson-detail__lesson-btn-left">
             <a
-              href="/learn/courses/episode-planning-masterclass"
+              href="/learn/courses/episode-planning-masterclass/lesson-01"
               class="lesson-detail__button-link"
             >
               <img
@@ -232,7 +351,7 @@
           </div>
           <div class="lesson-detail__lesson-btn-right">
             <a
-              href="/learn/courses/episode-planning-masterclass/lesson-02"
+              href="/learn/courses/episode-planning-masterclass/lesson-03"
               class="lesson-detail__button-link"
             >
               <img

@@ -22,8 +22,8 @@ import CoursesListView from "../views/courses/CoursesListView.vue";
 import CourseViewIntroToPodcastDesign from "../views/courses/CourseViewIntroToPodcastDesign.vue";
 
 import CourseViewEpisodePlanningMasterclass from "../views/courses/CourseViewEpisodePlanningMasterclass.vue";
-
 import LessonViewEpisodePlanningMasterclass01 from "../views/courses/LessonViewEpisodePlanningMasterclass01.vue";
+import LessonViewEpisodePlanningMasterclass02 from "../views/courses/LessonViewEpisodePlanningMasterclass02.vue";
 
 import VideosListView from "../views/videos/VideosListView.vue";
 import VideoViewPodcastDesignPlan from "../views/videos/VideoViewPodcastDesignPlan.vue";
@@ -136,6 +136,11 @@ const routes = [
     path: "/learn/courses/episode-planning-masterclass/lesson-01",
     name: "LessonViewEpisodePlanningMasterclass01",
     component: LessonViewEpisodePlanningMasterclass01,
+  },
+  {
+    path: "/learn/courses/episode-planning-masterclass/lesson-02",
+    name: "LessonViewEpisodePlanningMasterclass02",
+    component: LessonViewEpisodePlanningMasterclass02,
   },
   {
     path: "/learn/videos",

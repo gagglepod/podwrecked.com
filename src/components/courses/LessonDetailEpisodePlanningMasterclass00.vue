@@ -113,6 +113,22 @@
         </div>
       </article>
 
+      <!-- Apply the steps -->
+      <article class="lesson-detail">
+        <div class="lesson-detail__example">
+          <picture class="lesson-detail__example-image">
+            <img
+              src="/images/oncetold.us-lesson-apply-it-v1-800x100.jpg"
+              alt="Episode Planning Masterclass"
+            />
+          </picture>
+          <h2 class="lesson-detail__intro-heading">I want to tell you a story</h2>
+          <p class="lesson-detail__intro-info">This is a story about Bob.</p>
+          <h3 class="lesson-detail__intro-sub-heading">Once upon a time...</h3>
+          <p class="lesson-detail__intro-info">Bob started a podcast.</p>
+        </div>
+      </article>
+
       <!-- Test yourself -->
       <article class="lesson-detail">
         <div class="lesson-detail__test">

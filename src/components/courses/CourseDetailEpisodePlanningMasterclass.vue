@@ -139,7 +139,7 @@
           <div class="course-detail__lessons-left">
             <!-- IMAGE -->
             <a
-              href="/learn/courses/course-episode-planning-masterclass"
+              href="/learn/courses/episode-planning-masterclass/lesson-02"
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-02-v1-400x200.jpg"
