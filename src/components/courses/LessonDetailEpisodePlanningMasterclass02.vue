@@ -75,10 +75,10 @@
             <li class="lesson-detail__intro-list">Observation - Lurk with a purpose</li>
             <li class="lesson-detail__intro-list">Bucketing - Sort and find patterns</li>
             <li class="lesson-detail__intro-list">
-              Selection - Choose the best 12 themes
+              Selection - Choosing the best themes
             </li>
             <li class="lesson-detail__intro-list">
-              Prioritization - Pick the best-themed stories
+              Prioritization - Picking the stories
             </li>
             <li class="lesson-detail__intro-list">Scheduling - Establish an order</li>
           </ul>
