@@ -122,8 +122,8 @@
               >
             </h3>
             <p class="course-detail__intro-info">
-              Learn what they masterclass is essential in teaching the principles every
-              podcast needs if they are to survive their podcast.
+              Learn why episode planning is an essential system every podcaster needs to
+              know if they are to survive their podcast.
             </p>
           </div>
         </div>
@@ -182,9 +182,8 @@
               >
             </h3>
             <p class="course-detail__intro-info">
-              This masterclass will teach you the eight (8) steps of a podcast episode
-              planning: direction, purpose, search, observation, bucketing, filtering,
-              prioritization, and selection.
+              Understand the importance of knowing your podcast's purpose and target
+              audience.
             </p>
           </div>
         </div>
@@ -213,9 +212,8 @@
               >
             </h3>
             <p class="course-detail__intro-info">
-              This masterclass will teach you the eight (8) steps of a podcast episode
-              planning: direction, purpose, search, observation, bucketing, filtering,
-              prioritization, and selection.
+              Understand the importance of knowing your target audience and how to craft a
+              clear and focused "why statement" aligned with them.
             </p>
           </div>
         </div>

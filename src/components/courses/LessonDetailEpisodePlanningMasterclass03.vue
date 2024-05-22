@@ -6,228 +6,136 @@
         <div class="lesson-detail__intro">
           <picture class="lesson-detail__intro-image">
             <img
-              src="/images/oncetold.us-lesson-02-v1-800x200.jpg"
+              src="/images/oncetold.us-lesson-03-v1-800x200.jpg"
               alt="Episode Planning Masterclass"
             />
           </picture>
 
-          <h2 class="lesson-detail__intro-heading">What is Episode Planning?</h2>
+          <h2 class="lesson-detail__intro-heading">Define your Perspective</h2>
           <p class="lesson-detail__intro-info">
-            <strong>Episode Planning</strong> is all about taking your podcast's defined
-            purpose and aligning it with your target audience to create episodes they will
-            enjoy.
+            Understand the importance of knowing your podcast's purpose and target
+            audience.
           </p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Episode Planning is a System</h3>
+          <h3 class="lesson-detail__intro-sub-heading">Believe in Your Purpose</h3>
           <p class="lesson-detail__intro-info">
-            Every podcast is made up of systems. At a minimum, most podcasts have five (5)
-            systems:
-          </p>
-          <ul>
-            <li class="lesson-detail__intro-list">A system for thinking up ideas</li>
-            <li class="lesson-detail__intro-list">
-              <strong>A system for creating episodes</strong> (You Are Here!)
-            </li>
-            <li class="lesson-detail__intro-list">A system for editing audio</li>
-            <li class="lesson-detail__intro-list">A system for publishing</li>
-            <li class="lesson-detail__intro-list">A system for finding your audience</li>
-          </ul>
-
-          <p class="lesson-detail__intro-info">
-            Episode planning <em>IS</em> your system for creating episodes.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Planning Season</h3>
-          <p class="lesson-detail__intro-info">
-            While episode planning can be done anytime, it should be done before you every
-            start any podcast. Do not start a podcast without first going through the
-            episode planning process at least once.
+            The goal of your podcast should be to <em>make meaning</em>.
           </p>
 
           <p class="lesson-detail__intro-info">
-            However, once you start, you should revisit your plan after every episode to
-            make sure you don't need to make any corrections.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Why Episode Planning Matters</h3>
-          <p class="lesson-detail__intro-info">
-            If you don't know where you're going, any road will take you there. This is
-            why when you don't do episode planning before you start your podcast you risk
-            driving down the road without a map.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            When your audience is down one specific and tiny road you need to make sure
-            your directions are correct. Bad directions mean getting lost.
-          </p>
-
-          <p class="lesson-detail__intro-info"><em>No map equals no audience!</em></p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Walking the Path</h3>
-          <p class="lesson-detail__intro-info">
-            Episode Planning includes eight (8) incremental steps:
+            This is a principle that Guy Kawasaki, one of the co-founders of Apple
+            Computers, presented at Stanford University in 2004. He asked those in
+            attendance to tell him what it meant to make something that mattered – to give
+            it meaning. After a few fumbled attempts at an answer, Kawasaki told them it
+            meant one of three things:
           </p>
 
           <ul>
-            <li class="lesson-detail__intro-list">Purpose - Define your perspective</li>
-            <li class="lesson-detail__intro-list">Direction - Know who this is for</li>
-            <li class="lesson-detail__intro-list">Filtering - Find good sources</li>
-            <li class="lesson-detail__intro-list">Observation - Lurk with a purpose</li>
-            <li class="lesson-detail__intro-list">Bucketing - Sort and find patterns</li>
             <li class="lesson-detail__intro-list">
-              Selection - Choosing the best themes
+              To increase the quality of life of yourself or others
             </li>
+            <li class="lesson-detail__intro-list">To right a wrong</li>
             <li class="lesson-detail__intro-list">
-              Prioritization - Picking the stories
+              To prevent the end of something good
             </li>
-            <li class="lesson-detail__intro-list">Scheduling - Establish an order</li>
           </ul>
 
-          <h3 class="lesson-detail__intro-sub-heading">Internal Purpose</h3>
           <p class="lesson-detail__intro-info">
-            The first step in the planning process requires you to define your
-            perspective.
+            These same concepts can apply to how you bring meaning to your listeners with
+            your podcast. However, I like to think of the make-meaning principle using a
+            different word: <em>purpose</em>.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Your perspective, or your point of view on the podcast topic you're interested
-            in, is essential in knowing who your audience is going to be. They will like
-            what you like.
+            You might consider your why and your purpose to be interchangeable.
           </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">External Direction</h3>
-          <p class="lesson-detail__intro-info">
-            Once you know your purpose, you can define your direction. Direction is the
-            clear understanding of who this podcast is for.
-          </p>
+          <p class="lesson-detail__intro-info">I don’t.</p>
 
           <p class="lesson-detail__intro-info">
-            While your perspective is internal to you, your direction is external. It is
-            the reason you give your audience why they should listen.
-          </p>
-          <p class="lesson-detail__intro-info">
-            The goal of this step is to define your <em>WHY statement</em>, a single
-            sentence that establishes the reason your podcast exists.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Finding Good Sources</h3>
-          <p class="lesson-detail__intro-info">
-            Next, with your WHY statement at the ready, you can use it as a clear
-            constraint for finding sources that serve your audience.
+            I see your why – as in your why statement – a clear definition of what your
+            podcast is about and who your podcast is for. It’s an extrinsic expression to
+            remind you what your audience expects to hear when they press play.
           </p>
 
           <p class="lesson-detail__intro-info">
-            By applying this filter to your search for credible and reusable sources you
-            can narrow your focus and discard anything that does not match your direction.
+            Meanwhile, your purpose is an intrinsic expression of your why. If your why
+            statement is for those outside of you – your listeners – then your purpose is
+            for you alone – the reason you are doing this podcast in the first place.
           </p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Lurking with a Purpose</h3>
-          <p class="lesson-detail__intro-info">
-            With each source you find, you are taking notes on what your potential
-            audience both wants and needs. These could be anything from a few words to a
-            few sentences, just enough to get the main idea and where you got it from. It
-            should be just enough to inspire a story.
-          </p>
-          <p class="lesson-detail__intro-info">However, not all sources are equal.</p>
+          <p class="lesson-detail__intro-info">What is it? What is your purpose?</p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Improve a Life</h3>
 
           <p class="lesson-detail__intro-info">
-            Each of your sources -- websites, blogs, articles, forums, social media posts,
-            scholarly, papers, books, newspapers, other podcast, experts, witnesses, etc
-            -- will need to be inspected, judged, and ranked.
-          </p>
-          <p class="lesson-detail__intro-info">
-            This will provide you with a short list of sources that can provide you with
-            renewable value. These sources become your deep well of information.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Finding Patterns</h3>
-          <p class="lesson-detail__intro-info">
-            After collecting numerous notes from sources that you can trust, you will be
-            left with an unorganized collection of insights and story ideas that you will
-            have to sort into buckets.
+            Are you doing this podcast to increase the quality of life of yourself and
+            others? There’s a good chance that you are. You may have a deep drive to
+            provide your listeners with information that could change their lives the same
+            way it changed yours.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Each of these buckets -- or story buckets -- is simply an organized collection
-            of your notes that all center around a central theme.
+            You could also want to entertain people. Maybe you want to bring another
+            person joy or laughter. Many motivational, personal growth, fitness, and
+            coaching shows see life change as the primary purpose of their podcasts.
           </p>
 
           <p class="lesson-detail__intro-info">
-            What these themes are called is an exercise in guided judgment. Because you
-            are the creative mind behind this effort, you will get to decide which theme
-            applies to which logical story bucket.
+            I believe changing a life is an excellent purpose behind your reasons for
+            becoming a podcaster.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Right a Wrong</h3>
+
+          <p class="lesson-detail__intro-info">
+            If you’re not driven by changing someone’s life, maybe your purpose is to
+            right a wrong. Podcasting has created thousands of true crime investigative
+            journalists and amateur detectives whose whole purpose is to solve a real
+            mystery.
           </p>
 
           <p class="lesson-detail__intro-info">
-            The story buckets step takes the longest, mainly because there is no right or
-            wrong answer to how you decide on organizing them into themes.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">
-            Finding Patterns within Patterns
-          </h3>
-          <p class="lesson-detail__intro-info">
-            Sometimes, a certain theme clearly belongs to one story bucket, only to
-            discover that that theme is actually two similar but separate themes.
+            Righting a wrong could be your reason for trying to change the way people
+            think about an overlooked or underappreciated point of view.
           </p>
 
           <p class="lesson-detail__intro-info">
-            This is where you discover the topics no one else is talking about!
+            Many social, religious, cultural, political, and personal podcasts have this
+            as their purpose. They use their shows to take on a cause worth fighting for.
+            There are plenty of wrongs that need a spotlight. You could certainly do a lot
+            of good with having this as your purpose.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Keep Good Alive</h3>
+
+          <p class="lesson-detail__intro-info">
+            The last way to make meaning according to Guy Kawasaki, is to prevent the end
+            of something good. Many podcasters are very passionate about their topics and
+            go into podcasting to connect with others who care as much as they do. Your
+            purpose can be to become the conduit that keeps a good idea alive long after
+            others have given up on it.
           </p>
 
           <p class="lesson-detail__intro-info">
-            While it takes time for these themes to materialize, over time you will start
-            to see better theme groupings appear inside each of your buckets you didn't
-            notice before.
-          </p>
-
-          <p class="lesson-detail__intro-info">You cannot help but notice them!</p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Choose the Best Themes</h3>
-          <p class="lesson-detail__intro-info">
-            With all your research organized into themes, the next step is to decide which
-            themes you want to tackle first.
+            This could include long-forgotten lessons learned from history, pop culture,
+            health, education, technology, sports, art, or even business. There are
+            millions of good things that have been forgotten by the world. You could make
+            it your purpose to remind people of that good and why it matters that we
+            remember it or reconsider the lessons it taught us. Keeping something good
+            alive is an excellent purpose and possibly a lifelong endeavor.
           </p>
 
           <p class="lesson-detail__intro-info">
-            These are the ones that inspire you, can be developed into a series, or simply
-            have the most topics.
+            Your purpose should be about making meaning with your podcast. It should be
+            the driving factor that helps you to see the promise of your why statement
+            fulfilled. Know your purpose.
           </p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Choose the Best Stories</h3>
+          <h3 class="lesson-detail__intro-sub-heading">In the Next Lesson</h3>
           <p class="lesson-detail__intro-info">
-            Having your top themes selected, you can now start to think of your story arc.
-            This is how you establish a logical structure for which stories best represent
-            the selected theme.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            The selection and priority of these stories will ultimately form how the
-            overall narrative will flow within each theme.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Establish an Order</h3>
-          <p class="lesson-detail__intro-info">
-            The final step in the process is establishing the order you will tell these
-            stories in.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            It is a list, divided by theme, of episode topics that you, and by extension
-            your audience, will find the most compelling.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            It is also your roadmap to creating recording session schedules, detailed
-            scripts, teasers, and what you should be working on next for all your
-            episodes.
-          </p>
-          <p class="lesson-detail__intro-info">
-            By the end of the process a collection of reliable sources and a schedule of
-            episodes that connect with your purpose and your target audience.
-          </p>
-          <p class="lesson-detail__intro-info">
-            Now, you are ready to record your podcast!
+            In our next lesson, we are going to get into the importance of knowing your
+            target audience and how that will help you craft a clear and focused "why
+            statement".
           </p>
         </div>
       </article>

@@ -18,15 +18,15 @@
           <p class="lesson-detail__intro-info">
             Bob is very excited about podcasting. He watched a bunch of videos, reads
             everything on social media, and maybe even bought some books. Bob cannot wait
-            to start talking. So, he Immediately goes out an buys a microphone, plugs it
-            in a starts recording.
+            to start talking. So, he immediately goes out and buys a microphone, plugs it
+            in, and starts recording.
           </p>
 
-          <p class="lesson-detail__intro-info">Yeah Bob!</p>
+          <p class="lesson-detail__intro-info">Yeah, Bob!</p>
 
           <p class="lesson-detail__intro-info">
-            Let's say Bob get's episode #1 out and feels great. He seems to be off to a
-            great start but Bob has made a critical mistake. He hasn't plan any part of
+            Let's say Bob gets episode #1 out and feels great. He seems to be off to a
+            great start but Bob has made a critical mistake. He hasn't planned any part of
             his podcast nor did he do any research. He is just winging it.
           </p>
 
@@ -70,7 +70,7 @@
           <p class="lesson-detail__intro-info">
             When Bob goes from a podfade to a podwreck, his podcast is effectively a
             goner. Like they say in <em>The Lion King, "Hakuna Matata" -- No worries</em>.
-            It's the circle of life, or should I say the circle of <em>podcast life</em>.
+            It's the circle of life. Or should I say the circle of <em>podcast life</em>?
           </p>
 
           <h3 class="lesson-detail__intro-sub-heading">How did this happen?</h3>
@@ -86,13 +86,13 @@
 
           <p class="lesson-detail__intro-info">
             Simple. Bob used the <em>Wing It Strategy</em>. This is the strategy where you
-            say, "Nah, I don't need to plan. I'll just wing it!" And you do until the wing
-            it strategy stops working somewhere around episode #13.
+            say, "Nah, I don't need to plan. I'll just wing it!" And you do until the
+            wing-it strategy stops working somewhere around episode #13.
           </p>
 
           <p class="lesson-detail__intro-info">
             Because Bob rushed into podcasting without a plan, he got stuck. And most of
-            us get stuck we discover that just how hard podcasting really is.
+            us get stuck when we discover just how hard podcasting really is.
           </p>
 
           <p class="lesson-detail__intro-info">
@@ -102,13 +102,13 @@
 
           <h3 class="lesson-detail__intro-sub-heading">But Not Today</h3>
           <p class="lesson-detail__intro-info">
-            Today, with this course, you are going to fight back! You are going to learn
-            how to build a plan that will launch far past episode #13.
+            Today, with this course, you are going to fight back! You will learn how to
+            build a plan that will launch far past episode #13.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Are you with me? If so, then continue on learn what it takes to survive your
-            podcast!
+            Are you with me? If so, then continue on to learn what it takes to survive
+            your podcast!
           </p>
         </div>
       </article>
