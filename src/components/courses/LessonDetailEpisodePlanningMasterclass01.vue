@@ -49,6 +49,13 @@
 
           <p class="lesson-detail__intro-info">Then he hits episode #13.</p>
 
+          <picture class="lesson-detail__intro-image">
+            <img
+              src="/images/oncetold.us-lesson-01-messy-middle-800x400.jpg"
+              alt="Enter The Bear - AKA: The Messy Middle"
+            />
+          </picture>
+
           <h3 class="lesson-detail__intro-sub-heading">Welcome to The Messy Middle</h3>
           <p class="lesson-detail__intro-info">
             Where Bob's lack of feedback or downloads runs head-first into his waning
@@ -100,6 +107,13 @@
             and the numbers back this up -- most of them quit!
           </p>
 
+          <picture class="lesson-detail__intro-image">
+            <img
+              src="/images/oncetold.us-lesson-01-not-today-800x400.jpg"
+              alt="Moose fighting back against The Bear - AKA: The Messy Middle"
+            />
+          </picture>
+
           <h3 class="lesson-detail__intro-sub-heading">But Not Today</h3>
           <p class="lesson-detail__intro-info">
             Today, with this course, you are going to fight back! You will learn how to
@@ -114,7 +128,7 @@
       </article>
 
       <!-- Test yourself -->
-      <article class="lesson-detail">
+      <!-- <article class="lesson-detail">
         <div class="lesson-detail__test">
           <picture class="lesson-detail__example-image">
             <img
@@ -152,7 +166,7 @@
             <button @click="resetQuiz" class="check-answer-btn">Reset</button>
           </div>
         </div>
-      </article>
+      </article> -->
 
       <!-- Go Beyond -->
       <article class="lesson-detail">

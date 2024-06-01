@@ -6,141 +6,236 @@
         <div class="lesson-detail__intro">
           <picture class="lesson-detail__intro-image">
             <img
-              src="/images/oncetold.us-lesson-03-v1-800x200.jpg"
+              src="/images/oncetold.us-lesson-04-v1-800x200.jpg"
               alt="Episode Planning Masterclass"
             />
           </picture>
+          <h2 class="lesson-detail__intro-heading">Who This is For?</h2>
 
-          <h2 class="lesson-detail__intro-heading">Why are you doing this</h2>
-
-          <h3 class="lesson-detail__intro-sub-heading">Internal Purpose</h3>
+          <h3 class="lesson-detail__intro-sub-heading">External Direction</h3>
           <p class="lesson-detail__intro-info">
-            The first step in the planning process requires you to define the reason (or
-            reasons) you want to create a podcast in the first place.
-          </p>
-
-          <p class="lesson-detail__intro-info">This is your <em>purpose</em>.</p>
-
-          <p class="lesson-detail__intro-info">
-            Your purpose is internal to you and you alone. It should also be a good enough
-            reason to keep your podcast going for longer then a few months.
-          </p>
-          <p class="lesson-detail__intro-info">
-            However, communicating your purpose can be difficult. Many of us have a hard
-            time knowing why we want to do a podcast or why it is important to us.
-          </p>
-          <p class="lesson-detail__intro-info">
-            In the next section, I will give you three (3) good examples of what you
-            purpose could be. If one of them feels right to you, use it!
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Defining Your Purpose</h3>
-          <p class="lesson-detail__intro-info">
-            The purpose of your podcast should be to <em>make meaning</em>.
+            Once you know your purpose, you can define your direction. Direction is the
+            clear understanding of who this podcast is for.
           </p>
 
           <p class="lesson-detail__intro-info">
-            This is a principle that Guy Kawasaki, one of the co-founders of Apple
-            Computers, presented at Stanford University in 2004. When he was asked what it
-            meant to make something that mattered -- to give it meaning, Kawasaki told
-            them it meant one of three things:
+            While your perspective is internal to you, your direction is external. It is
+            the reason you give your audience why they should listen.
+          </p>
+          <p class="lesson-detail__intro-info">
+            The goal of this step is to define your <em>WHY statement</em>, a single
+            sentence that establishes the reason your podcast exists.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Understanding Perspective</h3>
+          <p class="lesson-detail__intro-info">
+            Your perspective is nothing more than your personal point of view. It is
+            <em>how</em> you see, feel, and approach the world.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            It's a fancy way of saying <em>bias</em>.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            We all have them. It is fundemental to how we filter out the things we don't
+            like for the things we do. It helps us quickly determine what we love, hate,
+            want, or need.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            When we start designing a podcast, understanding our perspective -- our biases
+            -- on our chosen topic is important because it will aid us in identifying our
+            audience.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            These are the people that also identify with our perspective and enjoy the
+            insights we create based on our point-of-view.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            In podcasting, we call this finding our <em>target audience</em>.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Why vs. Purpose</h3>
+          <p class="lesson-detail__intro-info">
+            You might consider your why and your purpose to be interchangeable.
+          </p>
+          <p class="lesson-detail__intro-info">I don't.</p>
+
+          <p class="lesson-detail__intro-info">
+            I see your why – as in your why statement – a clear definition of what your
+            podcast is about and who your podcast is for. It’s an extrinsic expression to
+            remind you what your audience expects to hear when they press play.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Meanwhile, your purpose is an intrinsic expression of your why. If your why
+            statement is for those outside of you – your listeners – then your purpose is
+            for you alone – the reason you are doing this podcast in the first place.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Knowing Your Who</h3>
+          <p class="lesson-detail__intro-info">
+            Everyone teaching podcasting tries to tell you to start with your why, as in,
+            <em>"Why are you doing this?"</em>. We just did that by defining your purpose.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Instead, you need to move on to your <em>Who</em>.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Unfortunately, too many podcasters never stop to consider their why. Instead,
+            they start podcasting by jumping straight into buying a microphone, purchasing
+            media hosting, setting up an Apple Podcast account, and thinking about all the
+            money they’re going to make.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            They never stop to understand why they are building a podcast in the first
+            place or why it’s important to get your why correct.
+          </p>
+          <p class="lesson-detail__intro-info">Can I say why one more time?</p>
+          <p class="lesson-detail__intro-info">Thank you.</p>
+          <p class="lesson-detail__intro-info">
+            In all seriousness, I strongly believe that without defining your why, your
+            podcast will drown your efforts. That’s why your why is the most important
+            part of your podcast! It is your lighthouse.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            It is your beacon back to safe harbors when you get lost and your liferaft
+            when you’re close to podwrecking.
+          </p>
+          <p class="lesson-detail__intro-info">
+            The good news is that you know why this is so important to get right! To begin
+            creating your why, every new podcaster, and every podcaster starting a new
+            podcast needs to begin by answering these five questions:
           </p>
 
           <ul>
-            <li class="lesson-detail__intro-list">
-              To increase the quality of life of yourself or others
-            </li>
-            <li class="lesson-detail__intro-list">To right a wrong</li>
-            <li class="lesson-detail__intro-list">
-              To prevent the end of something good
-            </li>
+            <li class="lesson-detail__intro-list">Why are you doing this?</li>
+            <li class="lesson-detail__intro-list">Why this topic?</li>
+            <li class="lesson-detail__intro-list">Why this audience?</li>
+            <li class="lesson-detail__intro-list">Why you?</li>
+            <li class="lesson-detail__intro-list">Why now?</li>
           </ul>
 
           <p class="lesson-detail__intro-info">
-            These same concepts can apply to how you give meaning to your own podcast. I
-            like to think of it as the <em>Purpose Principle</em>.
-          </p>
-
-          <picture class="lesson-detail__intro-image">
-            <img
-              src="/images/oncetold.us-lesson-03-purpose-800x400.jpg"
-              alt="Moose fighting for territory during mating season"
-            />
-          </picture>
-
-          <h3 class="lesson-detail__intro-sub-heading">Improve a Life</h3>
-
-          <p class="lesson-detail__intro-info">
-            Are you doing this podcast to increase the quality of life of yourself and
-            others? There’s a good chance that you are. You may have a deep drive to
-            provide your listeners with information that could change their lives the same
-            way it changed yours.
+            These are not trick questions. Instead, they are meant to be thought-provoking
+            in a way that gets you to consider your purpose, intentions, and motivations
+            for starting this show.
           </p>
 
           <p class="lesson-detail__intro-info">
-            You could also want to entertain people. Maybe you want to bring another
-            person joy or laughter. Many motivational, personal growth, fitness, and
-            coaching shows see life change as the primary purpose of their podcasts.
+            The principle behind them is to get you thinking about the elements of your
+            why statement – a one-sentence description of your podcast so crispy and clear
+            that it removes all doubt about what your idea is, who your talent will be,
+            what perspective you have, what direction it will go in and when you will be
+            done.
+          </p>
+          <h3 class="lesson-detail__intro-sub-heading">Focus on your Target Listener</h3>
+          <p class="lesson-detail__intro-info">
+            For example, here is the why statement to my podcast War Yankee - Overland:
+          </p>
+          <p class="lesson-detail__intro-info">
+            <em
+              >War Yankee - Overland is a podcast hosted by Kyle Bondo about the Unionist
+              view of the American Civil War during the Overland Campaign of 1864 for
+              history buffs and students of history who enjoy immersive,
+              documentary-style, storytelling.</em
+            >
+          </p>
+          <p class="lesson-detail__intro-info">
+            Let’s take this apart and see why it works.
+          </p>
+          <p class="lesson-detail__intro-info">
+            First, I have identified my core idea with a topic focusing on the Unionist
+            view of the American Civil War during the Overland Campaign of 1864. It’s not
+            about all American wars, it’s not even about the entire Civil War.
           </p>
 
           <p class="lesson-detail__intro-info">
-            I believe changing a life is an excellent purpose behind your reasons for
-            becoming a podcaster.
+            Heck, it’s not even about both sides of the Civil War.
           </p>
+          <p class="lesson-detail__intro-info">Now that is a niche!</p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Right a Wrong</h3>
-
+          <h3 class="lesson-detail__intro-sub-heading">Finding Riches in the Niches</h3>
           <p class="lesson-detail__intro-info">
-            If you’re not driven by changing someone’s life, maybe your purpose is to
-            right a wrong. Podcasting has created thousands of true crime investigative
-            journalists and amateur detectives whose whole purpose is to solve a real
-            mystery.
+            Next, my perspective is clear. My selected bias is the Unionist view of the
+            American Civil War. I’m going to talk only about the North – the Union Army
+            and its leaders.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Righting a wrong could be your reason for trying to change the way people
-            think about an overlooked or underappreciated point of view.
+            This is what picking a side looks like. Will it upset those interested in the
+            South’s side of the story? I don’t care. And neither should you because that
+            is not my audience.
+          </p>
+          <p class="lesson-detail__intro-info">
+            Speaking of audience, I state clearly that this podcast will be for history
+            buffs and students of history who enjoy immersive, documentary-style,
+            storytelling.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Many social, religious, cultural, political, and personal podcasts have this
-            as their purpose. They use their shows to take on a cause worth fighting for.
-            There are plenty of wrongs that need a spotlight. You could certainly do a lot
-            of good with having this as your purpose.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Keep Good Alive</h3>
-
-          <p class="lesson-detail__intro-info">
-            The last way to make meaning according to Guy Kawasaki, is to prevent the end
-            of something good. Many podcasters are very passionate about their topics and
-            go into podcasting to connect with others who care as much as they do. Your
-            purpose can be to become the conduit that keeps a good idea alive long after
-            others have given up on it.
+            What do I do about those who want a podcast like Gone with the Wind – a
+            fictional story? Or those looking for a harder, academic vibe? I might not be
+            for you either.
           </p>
 
           <p class="lesson-detail__intro-info">
-            This could include long-forgotten lessons learned from history, pop culture,
-            health, education, technology, sports, art, or even business. There are
-            millions of good things that have been forgotten by the world. You could make
-            it your purpose to remind people of that good and why it matters that we
-            remember it or reconsider the lessons it taught us. Keeping something good
-            alive is an excellent purpose and possibly a lifelong endeavor.
+            I’m telling a story about the American Civil War that I want to tell. It will
+            be factual but it will also be immersive – as in it will be full of sound
+            effects and atmospheric music. Some history buffs and students of history
+            enjoy immersive, documentary-style, storytelling.
           </p>
+          <p class="lesson-detail__intro-info">Those are my listeners!</p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Time to Decide</h3>
-
+          <h3 class="lesson-detail__intro-sub-heading">Getting Crispy with Your Why</h3>
           <p class="lesson-detail__intro-info">
-            Because your purpose should be about making meaning with your podcast you may
-            need to take some time and consider your reasons.
+            Finally, my why statement comes with a crispy, built-in definition of done:
+            The Overland Campaign of 1864. The military campaign I will be covering not
+            only has a definite beginning and end but I state it outright – 1864. Not 1863
+            or 1865 but 1864.
           </p>
 
+          <p class="lesson-detail__intro-info">It doesn’t get more crispy than that!</p>
           <p class="lesson-detail__intro-info">
-            The benefit of doing this now is that it can serve you in becoming a driving
-            factor that helps you keep podcasting when it gets hard.
+            Your definition of done might not be that clear. You could have the same goal
+            as <em>Coming Home with Bob Abbot</em>, a podcast about the ongoing problem of
+            Veteran mental health and possible solutions. His podcast’s own tagline is
+            <em>Until Everyone Comes Home</em>.
           </p>
-
-          <p class="lesson-detail__intro-info">So, what is it? What is your purpose?</p>
+          <p class="lesson-detail__intro-info">
+            This means Bob is not done until every US military service member comes back
+            home to the United States of America. Considering how our world is in constant
+            termoil overseas, that’s probably not going to happen any time soon. Which,
+            for Bob, means his Why is literally <em>Until Everyone Comes Home</em>.
+          </p>
+          <p class="lesson-detail__intro-info">That is a super crispy why.</p>
+          <p class="lesson-detail__intro-info">
+            It gives Bob his target audience -- US military service members, and when he
+            will be done -- potentially forever. Both are important elements in creating a
+            strong Why Statement.
+          </p>
+          <h3 class="lesson-detail__intro-sub-heading">The Why Statement</h3>
+          <p class="lesson-detail__intro-info">
+            The Why Statement is a single sentence that you craft by answering those five,
+            thought-provoking whys. The why questions are only an tool to help you dig
+            deep into your idea and go beyond the purpose to your podcast.
+          </p>
+          <p class="lesson-detail__intro-info">
+            While your why statement is powerful, it doesn't start that way. It starts out
+            as a fragile idea in your mind, a barely formed thought. Your job is to take
+            that fragile idea and give it a form.
+          </p>
+          <p class="lesson-detail__intro-info">
+            However, once you complete your why statement, you will always know what your
+            podcast is about and who it is for.
+          </p>
         </div>
       </article>
 
@@ -167,65 +262,26 @@
             <div class="lesson-detail__screen-right">
               <h3 class="lesson-detail__intro-heading">The AnonyMoose Files</h3>
               <p class="lesson-detail__intro-info">
-                We're going to create a new podcast called <em>The AnonyMoose Files</em>.
-                This section will help demonstrate how these principles are applied and
-                how you following along as you design your own podcast.
+                Our new podcast, <em>The AnonyMoose Files</em>, needs a Why Statement. In
+                this exercise, I will show you how we use our purpose and ideas we already
+                have craft a Why Statement we can use to build a show on.
               </p>
             </div>
           </div>
           <h3 class="lesson-detail__intro-sub-heading">It Starts With a Reason</h3>
 
-          <p class="lesson-detail__intro-info">
-            The AnonyMoose Files was an idea I started with when I had a mountain biking
-            accident out in the desert of Moab, Utah. I had passed out from dehydration
-            and flipped over the handlebars and woke up hours later, cooking in 100-degree
-            heat.
-          </p>
+          <ul>
+            <li class="lesson-detail__intro-list">Why are you doing this?</li>
+            <li class="lesson-detail__intro-list">Why this topic?</li>
+            <li class="lesson-detail__intro-list">Why this audience?</li>
+            <li class="lesson-detail__intro-list">Why you?</li>
+            <li class="lesson-detail__intro-list">Why now?</li>
+          </ul>
+
+          <p class="lesson-detail__intro-info">[CONTINUE HERE]</p>
 
           <p class="lesson-detail__intro-info">
-            Luckily, I had two things with me that helped saved my life. I had my
-            smartphone that was just within range of a cell tower to call for help, and a
-            space blanket that allowed the Search & Rescue helicopter to find me in the
-            middle of the Utah desert before the sun set.
-          </p>
-
-          What a bad day but with a happy ending!
-
-          <p class="lesson-detail__intro-info">
-            However, it got me thinking about wilderness survival. How many other people
-            have stories like this? And if I had heard a story like this would I have
-            planned my mountain biking trip better?
-          </p>
-
-          <p class="lesson-detail__intro-info">I think I would have.</p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Saving a Life</h3>
-          <p class="lesson-detail__intro-info">
-            This has me leaning towards a purpose that includes increase the quality of
-            life for others. I want to find stories of wilderness survival to both terrify
-            and encouage my audience. The hope is that it will scare people into being
-            prepared.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            The reality is that I want a story I share to save the life of someone in my
-            audience. I want at least one listener to say, "Because I listened to that
-            podcast, I lived!"
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Finding Purpose</h3>
-          <p class="lesson-detail__intro-info">
-            This sounds like a perfect purpose for my podcast: Tell wilderness survival
-            stories to educate my audience.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            This increases the quality of life of my audience because it could save their
-            life.
-          </p>
-
-          <p class="lesson-detail__intro-info">
-            I will remember this for the next lesson.
+            Remember your Why Statement for the next lesson.
           </p>
 
           <p class="lesson-detail__intro-info">To be continued!</p>
@@ -334,7 +390,7 @@
         <div class="lesson-detail__lesson-buttons">
           <div class="lesson-detail__lesson-btn-left">
             <a
-              href="/learn/courses/episode-planning-masterclass/lesson-02"
+              href="/learn/courses/episode-planning-masterclass/lesson-03"
               class="lesson-detail__button-link"
             >
               <img
@@ -346,7 +402,7 @@
           </div>
           <div class="lesson-detail__lesson-btn-right">
             <a
-              href="/learn/courses/episode-planning-masterclass/lesson-04"
+              href="/learn/courses/episode-planning-masterclass/lesson-05"
               class="lesson-detail__button-link"
             >
               <img
@@ -366,7 +422,7 @@
 import { ref } from "vue";
 
 export default {
-  name: "LessonDetailEpisodePlanningMasterclass03",
+  name: "LessonDetailEpisodePlanningMasterclass04",
   setup() {
     const answers = ref([
       "Your podcast doesn't need a plan",

@@ -49,6 +49,13 @@
             make sure you don't need to make any corrections.
           </p>
 
+          <picture class="lesson-detail__intro-image">
+            <img
+              src="/images/oncetold.us-lesson-02-no-plan-800x400.jpg"
+              alt="Running for your podcast's life with no plan!"
+            />
+          </picture>
+
           <h3 class="lesson-detail__intro-sub-heading">Why Episode Planning Matters</h3>
           <p class="lesson-detail__intro-info">
             If you don't know where you're going, any road will take you there. This is
@@ -69,8 +76,8 @@
           </p>
 
           <ul>
-            <li class="lesson-detail__intro-list">Purpose - Define your perspective</li>
-            <li class="lesson-detail__intro-list">Direction - Know who this is for</li>
+            <li class="lesson-detail__intro-list">Purpose - Why are you doing this?</li>
+            <li class="lesson-detail__intro-list">Direction - Who is this for?</li>
             <li class="lesson-detail__intro-list">Filtering - Find good sources</li>
             <li class="lesson-detail__intro-list">Observation - Lurk with a purpose</li>
             <li class="lesson-detail__intro-list">Bucketing - Sort and find patterns</li>
@@ -85,14 +92,13 @@
 
           <h3 class="lesson-detail__intro-sub-heading">Internal Purpose</h3>
           <p class="lesson-detail__intro-info">
-            The first step in the planning process requires you to define your
-            perspective.
+            The first step in the planning process requires you to define the reason (or
+            reasons) you want to create a podcast in the first place.
           </p>
 
           <p class="lesson-detail__intro-info">
-            Your perspective, or your point of view on the podcast topic you're interested
-            in, is essential in knowing who your audience is going to be. They will like
-            what you like.
+            The benefit of knowing your purpose is that it can serve you in becoming a
+            driving factor that helps you keep podcasting when it gets hard.
           </p>
 
           <h3 class="lesson-detail__intro-sub-heading">External Direction</h3>
@@ -120,6 +126,13 @@
             By applying this filter to your search for credible and reusable sources you
             can narrow your focus and discard anything that does not match your direction.
           </p>
+
+          <picture class="lesson-detail__intro-image">
+            <img
+              src="/images/oncetold.us-lesson-02-lurking-with-a-purpose-800x400.jpg"
+              alt="Lurking with a Purpose"
+            />
+          </picture>
 
           <h3 class="lesson-detail__intro-sub-heading">Lurking with a Purpose</h3>
           <p class="lesson-detail__intro-info">
@@ -232,6 +245,59 @@
         </div>
       </article>
 
+      <!-- Apply the steps -->
+      <article class="lesson-detail">
+        <div class="lesson-detail__example">
+          <picture class="lesson-detail__example-image">
+            <img
+              src="/images/oncetold.us-lesson-apply-it-v1-800x100.jpg"
+              alt="Episode Planning Masterclass"
+            />
+          </picture>
+
+          <h3 class="lesson-detail__intro-sub-heading">Build as You Go</h3>
+
+          <p class="lesson-detail__intro-info">
+            To demonstrate how each lesson can be applied to a real podcast, I'll be
+            planning a new podcast called <em>The AnonyMoose Files</em>.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Each of time you see the <em>Apply It</em> section just know that I will be
+            building on to the previous lesson.
+          </p>
+
+          <picture class="lesson-detail__intro-image">
+            <img
+              src="/images/oncetold.us-lesson-02-build-as-you-go-800x400.jpg"
+              alt="Show Art for The AnonyMoose Files"
+            />
+          </picture>
+
+          <h3 class="lesson-detail__intro-sub-heading">Only an Example</h3>
+
+          <p class="lesson-detail__intro-info">
+            I know that your podcast will be different and that's okay. I believe that the
+            fundamentals and principles in this masterclass apply to any podcast you
+            create.
+          </p>
+          <p class="lesson-detail__intro-info">
+            My goal is to teach you <em>my way</em> of planning episodes and give you
+            <em>one system</em> that I know works. That way you don't have to take the
+            time to figure it out all on your own. You can take this one and start
+            podcasting!
+          </p>
+          <p class="lesson-detail__intro-info">
+            But you need to remember that this is <em>YOUR</em> podcast and that nothing
+            you learn here today are rules. If they don't work with your podcast, don't
+            use them.
+          </p>
+          <p class="lesson-detail__intro-info">
+            Take what you need and start podcasting!
+          </p>
+        </div>
+      </article>
+
       <!-- Test yourself -->
       <article class="lesson-detail">
         <div class="lesson-detail__test">
@@ -241,10 +307,21 @@
               alt="Episode Planning Masterclass"
             />
           </picture>
+          <h3 class="lesson-detail__intro-sub-heading">What Did You Learn?</h3>
 
-          <h3 class="lesson-detail__intro-sub-heading">Quick Quiz</h3>
           <p class="lesson-detail__intro-info">
-            Why should every podcast start with Episode Planning?
+            At the end of each lesson I will also give you the opportunity to quiz
+            yourself to see if you've mastered the primary concept.
+          </p>
+          <p class="lesson-detail__intro-info">
+            None of these quizes are required to move the masterclass forward. They are
+            here only as a way help you learn.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Your First Quick Quiz</h3>
+          <p class="lesson-detail__intro-info">
+            To start you off, here is an easy one: Why should every podcast start with
+            Episode Planning?
           </p>
           <div v-if="!answerChecked" class="button-container">
             <ul v-if="!answerChecked" class="lesson-detail__intro-list-container">
@@ -371,7 +448,7 @@
 import { ref } from "vue";
 
 export default {
-  name: "LessonDetailEpisodePlanningMasterclass01",
+  name: "LessonDetailEpisodePlanningMasterclass02",
   setup() {
     const answers = ref([
       "Your podcast doesn't need a plan",

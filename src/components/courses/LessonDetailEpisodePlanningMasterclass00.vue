@@ -122,10 +122,58 @@
               alt="Episode Planning Masterclass"
             />
           </picture>
-          <h2 class="lesson-detail__intro-heading">I want to tell you a story</h2>
-          <p class="lesson-detail__intro-info">This is a story about Bob.</p>
-          <h3 class="lesson-detail__intro-sub-heading">Once upon a time...</h3>
-          <p class="lesson-detail__intro-info">Bob started a podcast.</p>
+          <h2 class="lesson-detail__intro-heading">A New Story Each Episode</h2>
+
+          <p class="lesson-detail__intro-info">
+            The AnonyMoose Files was an idea I started with when I had a mountain biking
+            accident out in the desert of Moab, Utah. I had passed out from dehydration
+            and flipped over the handlebars and woke up hours later, cooking in 100-degree
+            heat.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Luckily, I had two things with me that helped saved my life. I had my
+            smartphone that was just within range of a cell tower to call for help, and a
+            space blanket that allowed the Search & Rescue helicopter to find me in the
+            middle of the Utah desert before the sun set.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This got me thinking about wilderness survival. How many other people have
+            stories like this? And if I had heard a story like this would I have planned
+            my mountain biking trip better?
+          </p>
+
+          <p class="lesson-detail__intro-info">I think I would have.</p>
+
+          <p class="lesson-detail__intro-info">
+            This has me leaning towards a purpose that includes increase the quality of
+            life for others. I want to find stories of wilderness survival to both terrify
+            and encouage my audience. The hope is that it will scare people into being
+            prepared.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            The reality is that I want a story I share to save the life of someone in my
+            audience. I want at least one listener to say, "Because I listened to that
+            podcast, I lived!"
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This sounds like a perfect purpose for my podcast: Tell wilderness survival
+            stories to educate my audience.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This increases the quality of life of my audience because it could save their
+            life.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            I will remember this for the next lesson.
+          </p>
+
+          <p class="lesson-detail__intro-info">To be continued!</p>
         </div>
       </article>
 
