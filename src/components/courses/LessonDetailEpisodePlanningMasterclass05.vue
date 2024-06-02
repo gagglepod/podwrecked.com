@@ -6,211 +6,213 @@
         <div class="lesson-detail__intro">
           <picture class="lesson-detail__intro-image">
             <img
-              src="/images/oncetold.us-lesson-04-v1-800x200.jpg"
+              src="/images/oncetold.us-lesson-05-v1-800x200.jpg"
               alt="Episode Planning Masterclass"
             />
           </picture>
-          <h2 class="lesson-detail__intro-heading">Who This is For?</h2>
+          <h2 class="lesson-detail__intro-heading">Crafting Your Why Statement</h2>
 
-          <h3 class="lesson-detail__intro-sub-heading">Understanding Perspective</h3>
-
-          <p class="lesson-detail__intro-info">
-            Your perspective is your personal point of view and is defined as
-            <em>how</em> you see, feel, and approach the world.
-          </p>
+          <h3 class="lesson-detail__intro-sub-heading">
+            Why, Oh, Why Have a Why Statement?
+          </h3>
 
           <p class="lesson-detail__intro-info">
-            It's a fancy way of saying <em>bias</em>.
+            Your <em>Why Statement</em> is your podcast's mission statement.
           </p>
 
           <p class="lesson-detail__intro-info">
-            We all have them. It is fundemental to how we filter out the things we don't
-            like for the things we do. It helps us quickly determine what we love, hate,
-            want, or need.
+            If your purpose is an intrinsic expression of why <em>YOU</em> are doing this,
+            then your <em>Why Statement</em> is an extrinsic expression of why your
+            <em>target audience</em> should listen to it.
           </p>
 
           <p class="lesson-detail__intro-info">
-            When we start designing a podcast, understanding our perspective or biases on
-            our chosen topic is an important factor in identifying our audience.
+            It is a way of taking everything you've decided on, up with this point -- your
+            idea (What will I talk about), your purpose (Why am I doing this), and your
+            target audience (Who is this for) -- and distilling it down into a single,
+            cripy sentence.
           </p>
 
           <p class="lesson-detail__intro-info">
-            These are the people that also identify with our perspective and enjoy the
-            insights we create based on our point-of-view.
+            The best part of a Why Statement is a daily reminder of the promise you are
+            making to your target audience. It is the service level agreement you make
+            with your listener that tells them what they should expect to hear every
+            episode when they press play.
           </p>
 
           <p class="lesson-detail__intro-info">
-            In podcasting, we call these people our <em>target audience</em>.
-          </p>
-
-          <h3 class="lesson-detail__intro-sub-heading">Knowing Your Who</h3>
-          <p class="lesson-detail__intro-info">
-            While your purpose is internal to you, your perspective is external. It is the
-            reason you give your audience why they should listen.
-          </p>
-          <p class="lesson-detail__intro-info">
-            Unfortunately, too many podcasters never stop to consider their target
-            audience. Instead, they start podcasting by jumping straight into buying a
-            microphone, purchasing media hosting, setting up an Apple Podcast account, and
-            thinking about all the money they’re going to make.
+            The reason you do this it to declare -- to <em>YOURSELF</em> -- who this
+            podcast is for and why that audience should listen to it.
           </p>
 
           <p class="lesson-detail__intro-info">
-            They never stop to understand who they are building a podcast for in the first
-            place or why it’s important to get your who correct.
-          </p>
-          <p class="lesson-detail__intro-info">
-            I strongly believe that without defining your who, your podcast will drown in
-            obscurity. In other words, a podcast that is for everyone is for no one.
+            Externally, you share your Why Statement as the description to your podcast.
           </p>
 
           <p class="lesson-detail__intro-info">
-            That’s why your knowing your target audience is an essential element to
-            building a successful podcast. It is your compass out of the dark forest when
-            you get lost and don't which way to go next.
-          </p>
-          <p class="lesson-detail__intro-info">
-            Knowing your target audience gives you direction.
+            But internally, you need to look at it every day, every time you step up to
+            the microphone, and most importantly, every time you plan an episode.
           </p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Finding your Target Audience</h3>
+          <h3 class="lesson-detail__intro-sub-heading">Building a Why Statement</h3>
           <p class="lesson-detail__intro-info">
-            To illustrate how to find your target audience you need to
-            <em>get crispy</em> with who you think is your ideal listener. This is to say
-            that the more defined you can make this person the better you will be at
-            creating episodes they will enjoy.
-          </p>
-          <p class="lesson-detail__intro-info">
-            First, my purpose and perspective have already helped me make some big
-            decisions about my core topic and my point of view on my topic. This means I
-            have already narrowed my focus for who this will be for, and who this will not
-            be for.
-          </p>
-          <p class="lesson-detail__intro-info">
-            Next, you refine my perspective so that it is crystal clear. To make this
-            super crispy you make a decision and pick a side.
-          </p>
-          <p class="lesson-detail__intro-info">
-            To do this you simply have to declare this decision this way:
+            Every <em>Why Statement</em> begins by answering these five questions:
           </p>
 
           <ul>
+            <li class="lesson-detail__intro-list">What will I talk about - Idea/Topic</li>
             <li class="lesson-detail__intro-list">
-              This podcast will be for those who agree with my purpose and point of view.
+              Why am I doing this - Purpose/Direction (Lesson 3)
             </li>
             <li class="lesson-detail__intro-list">
-              This podcast will not be for those who disagree with my purpose and point of
-              view.
+              Who is this for - Perspective/Bias/Target Audience (Lesson 4)
             </li>
+            <li class="lesson-detail__intro-list">
+              Who will be the talent - Talent/Host/Voices
+            </li>
+            <li class="lesson-detail__intro-list">When will it be done - Goal/Ending</li>
           </ul>
 
-          <p class="lesson-detail__intro-info">See? Simple.</p>
           <p class="lesson-detail__intro-info">
-            You might be saying, "Didn't we just eliminate half of my potential audience
-            this way?"
+            These are not trick questions. Instead, they are meant to be thought-provoking
+            in a way that gets you to take your podcast's production seriously.
           </p>
-          <p class="lesson-detail__intro-info">
-            Maybe. But they where not going to listen to you anyway. Why? Because they
-            don't agree with your point of view. They are not worth chasing because they
-            are not your target audience.
-          </p>
-          <p class="lesson-detail__intro-info">
-            Only those who do agree with your point of view are your target audience.
-            Focus on them and on what they might want from your podcast!
-          </p>
-          <p class="lesson-detail__intro-info">
-            Finally, you need to <em>niche down</em>.
-          </p>
-          <p class="lesson-detail__intro-info">
-            This is the process of taking all the people that agree with your purpose
-            <em>AND</em> your point of view, and then filtering most of them out by
-            focusing in on one, very narrow sub-set of your topic.
-          </p>
-          <p class="lesson-detail__intro-info">Here are some examples of niching down:</p>
-          <p class="lesson-detail__intro-info">Example #1:</p>
 
-          <ul>
-            <li class="lesson-detail__intro-list">
-              Your Purpose: Preserving American military history (Keep Good Alive)
-            </li>
-            <li class="lesson-detail__intro-list">
-              Your Perspective: Preserving only American Civil War history
-            </li>
-            <li class="lesson-detail__intro-list">
-              Your Niche: Preserving only the Union-side of American Civil War military
-              history during the Overland Campaign of 1864
-            </li>
-            <li class="lesson-detail__intro-list">
-              Niching Down: Preserving only the Union-side of American Civil War military
-              history during the Overland Campaign between May-June, 1864
-            </li>
-          </ul>
+          <p class="lesson-detail__intro-info">Let's take this question one at a time.</p>
 
-          <p class="lesson-detail__intro-info">Example #2:</p>
-          <ul>
-            <li class="lesson-detail__intro-list">
-              Your Purpose: Investigating True Crime (Right a Wrong)
-            </li>
-            <li class="lesson-detail__intro-list">
-              Your Perspective: Investigating only cold murder cases in Texas
-            </li>
-            <li class="lesson-detail__intro-list">
-              Your Niche: Investigating only cold murder cases of adult women in Fort
-              Worth, Texas
-            </li>
-            <li class="lesson-detail__intro-list">
-              Niching Down: Investigate only one cold murder cases of a specific woman in
-              Fort Worth, Texas
-            </li>
-          </ul>
+          <h3 class="lesson-detail__intro-sub-heading">What will I talk about?</h3>
+          <p class="lesson-detail__intro-info">
+            Well? What are you going to talk about? What is your core idea or topic you
+            will focus on?
+          </p>
 
-          <p class="lesson-detail__intro-info">Example #3:</p>
+          <h3 class="lesson-detail__intro-sub-heading">Why am I doing this?</h3>
+          <p class="lesson-detail__intro-info">
+            I walked you through <em>making meaning</em> in
+            <a
+              href="/learn/courses/episode-planning-masterclass/lesson-03"
+              class="lesson-detail__link"
+              >Lesson 03</a
+            >
+            that hopefully helped you decide on your purpose for this podcast.
+          </p>
+          <p class="lesson-detail__intro-info">
+            If you did not decided on your purpose, I recommend you go back to
+            <a
+              href="/learn/courses/episode-planning-masterclass/lesson-03"
+              class="lesson-detail__link"
+              >Lesson 03</a
+            >
+            and take another try at establishing one.
+          </p>
 
-          <ul>
-            <li class="lesson-detail__intro-list">
-              Your Purpose: How to build a successful company (Improving a Life)
-            </li>
-            <li class="lesson-detail__intro-list">
-              Your Perspective: How to build a successful tech company
-            </li>
-            <li class="lesson-detail__intro-list">
-              Your Niche: Talk to only Founders/CEO's who have built successful gaming
-              software companies
-            </li>
-            <li class="lesson-detail__intro-list">
-              Niching Down: Talk to only Founders/CEO's who have built successful gaming
-              software companies and who have been in business at least 5 years
-            </li>
-          </ul>
+          <h3 class="lesson-detail__intro-sub-heading">Who is this for?</h3>
+          <p class="lesson-detail__intro-info">
+            I walked you through picking a side and deciding on your
+            <em>target audience</em> in
+            <a
+              href="/learn/courses/episode-planning-masterclass/lesson-04"
+              class="lesson-detail__link"
+              >Lesson 04</a
+            >.
+          </p>
+          <p class="lesson-detail__intro-info">
+            If your target audience is still a mystery to you, I recommend you go back to
+            <a
+              href="/learn/courses/episode-planning-masterclass/lesson-04"
+              class="lesson-detail__link"
+              >Lesson 04</a
+            >
+            and try to define that niche one more time.
+          </p>
 
-          <h3 class="lesson-detail__intro-sub-heading">Changing Your Niche</h3>
+          <h3 class="lesson-detail__intro-sub-heading">Who will be the talent?</h3>
           <p class="lesson-detail__intro-info">
-            Niching down can be very dauntling to first time podcasters. It's normal to
-            want to be open to a larger number of people.
-          </p>
-          <p class="lesson-detail__intro-info">Don't do it.</p>
-          <p class="lesson-detail__intro-info">
-            Focusing on your narrow topic will create will help you attract more true fans
-            <em>because</em> of how narrow your niche is, not despite it.
+            This should be an easy question to answer. Either you are the host or your
+            not. If you are not the host, who is?
           </p>
           <p class="lesson-detail__intro-info">
-            Additionally, a narrow focus puts your podcast in a space with less
-            competition. When fewer podcasts are talking about your topic you have a
-            better chance of being found.
+            Or if you are going to be a co-host then who else will co-hosting with you?
+          </p>
+          <p class="lesson-detail__intro-info">Solve for X.</p>
+
+          <h3 class="lesson-detail__intro-sub-heading">When will it be done?</h3>
+          <p class="lesson-detail__intro-info">
+            This is a question defining your <em>definition of done</em>. It may seem easy
+            but it can be a tricky one.
           </p>
           <p class="lesson-detail__intro-info">
-            Once you've established an audience, you will naturally discover ways to
-            broaden out from your narrow topic or find taht your audience is full of
-            suggestions.
+            This is a question defining your <em>definition of done</em>. It may seem easy
+            but it can be a tricky one. All podcasters want their podcast to last forever.
+            Sadly, it will not. It may go on for many, many years but at some point, it
+            will end.
           </p>
           <p class="lesson-detail__intro-info">
-            However, these are principles, not rules. Some topics don't have much
-            competition while others don't have competition that is taking the other side.
-            You have free reign to decide how broad or narrow you want to be.
+            However, your definition of done does not need to be a date but rather a part
+            of the statement that defines the totality of your work. This could mean
+            <em>until I talk to everyone there is to talk to</em>,
+            <em>until the case is solved</em>, or
+            <em>until the I reach the end of the battle</em>.
           </p>
           <p class="lesson-detail__intro-info">
-            But remember that the more narrow -- the more crispy -- you are the easier it
-            will be to find your target audience.
+            Or it could simply be <em>until I decide it's done</em>.
+          </p>
+          <p class="lesson-detail__intro-info">
+            The point of the question is force you to consider what done would mean to
+            you.It's your podcast. You decide if there is an ending or goal.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">One Sentence, Please</h3>
+
+          <p class="lesson-detail__intro-info">
+            All the work up to this point has been to establish a clear, concise, and
+            crispy understanding of your podcast's details.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Now that you understand the principle behind the reason for a Why Statement,
+            its time to create your own one-sentence Why Statement by simply filling in
+            the blanks:
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            <em
+              >The [PODCAST NAME] is a podcast hosted by [TALENT NAME] about [IDEA/TOPIC]
+              for [TARGET AUDIENCE] that like to hear about [NICHE/BIAS/PERSPECTIVE] until
+              [GOAL].</em
+            >
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Is that it? Yes! That's it! But look how far you've come to get this one
+            sentence in place.
+          </p>
+          <p class="lesson-detail__intro-info">
+            Is a Why Statement set in stone? No! You can change any of the words, leave
+            off the "until [GOAL]", change hosted to co-hosted -- it's your show!
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Once you've finished crafting your Why Statement to your own satifaction,
+            remember it. Recite it everytime you sit down to record your podcast. Place it
+            on a sticky-note on your wall and read it every day.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This is your podcast's map -- don't lose it!
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Now What?</h3>
+
+          <p class="lesson-detail__intro-info">
+            The point to all these lessons up to now was to have you
+            <em>think through</em> your podcast design <em>BEFORE</em> you started
+            planning episodes.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            In the next lessons, you will find that your answers to these important
+            questions will make or break how you plan you episodes.
           </p>
         </div>
       </article>
@@ -224,37 +226,90 @@
               alt="Episode Planning Masterclass"
             />
           </picture>
-          <div class="lesson-detail__screen">
-            <div class="lesson-detail__screen-left">
-              <picture class="lesson-detail__screen-image">
-                <!-- IMAGE -->
-                <a href="https://anonymoosefiles.com/" target="_blank"
-                  ><img
-                    src="/images/anonymoose.com-showart-v3-400x400.jpg"
-                    alt="The AnonyMoose Files Podcast"
-                /></a>
-              </picture>
-            </div>
-            <div class="lesson-detail__screen-right">
-              <h3 class="lesson-detail__intro-heading">The AnonyMoose Files</h3>
-              <p class="lesson-detail__intro-info">
-                Our new podcast, <em>The AnonyMoose Files</em>, needs a Why Statement. In
-                this exercise, I will show you how we use our purpose and ideas we already
-                have craft a Why Statement we can use to build a show on.
-              </p>
-            </div>
-          </div>
-          <h3 class="lesson-detail__intro-sub-heading">It Starts With a Reason</h3>
+          <h3 class="lesson-detail__intro-sub-heading">Why Statement in Action</h3>
 
-          <ul>
-            <li class="lesson-detail__intro-list">Why are you doing this?</li>
-            <li class="lesson-detail__intro-list">Why this topic?</li>
-            <li class="lesson-detail__intro-list">Why this audience?</li>
-            <li class="lesson-detail__intro-list">Why you?</li>
-            <li class="lesson-detail__intro-list">Why now?</li>
-          </ul>
+          <p class="lesson-detail__intro-info">
+            Here is the Why Statement to The AnonyMoose Files:
+          </p>
 
-          <p class="lesson-detail__intro-info">[CONTINUE HERE]</p>
+          <p class="lesson-detail__intro-info">
+            <em
+              >The [AnonyMoose Files] is a podcast hosted by [Kyle Bondo] about
+              [Wilderness Survival Stories] for [Outdoor Survivalists] that like to hear
+              how others [Escape Disaster].</em
+            >
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Let’s take this apart and see why it works.
+          </p>
+          <p class="lesson-detail__intro-info">
+            First, I have identified my core idea with a topic focusing on Wilderness
+            Survival Stories. It’s not about all Survival Stories.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            It's not even about Desert, Jungle, or even Ocean survival either. I only want
+            the stories where someone had to survive in <em>The Wilderness</em>.
+          </p>
+          <p class="lesson-detail__intro-info">Now that is a niche!</p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Finding Riches in the Niches</h3>
+          <p class="lesson-detail__intro-info">
+            Next, I have an established bias too. I only want those stories where someone
+            <em>Escaped Disaster</em>. I want actual survivors!
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This is what picking a side looks like. Will it be for those interested in
+            those who did not survive in the wilderness? Nope. I don’t care. And neither
+            should you because that is not my audience.
+          </p>
+          <p class="lesson-detail__intro-info">
+            Speaking of audience, I state clearly that this podcast will be for Outdoor
+            Survivalists who enjoy immersive, interview and/or documentary-style,
+            storytelling. This means the details are important to them.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            What do I do about those who want a podcast like Call of the Wild – a
+            fictional story? Or those looking for a harder, academic vibe? I might not be
+            for you either.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            I’m telling a story about Wilderness Survival from the survivors point of view
+            that I want to tell. It will be factual but it will also be immersive – as in
+            it will be full of sound effects and atmospheric music. Some Outdoor
+            Survivalists enjoy immersive, interview and/or documentary-style,
+            storytelling.
+          </p>
+          <p class="lesson-detail__intro-info">Those are my listeners!</p>
+          <p class="lesson-detail__intro-info">Those that don't are not my listeners.</p>
+          <p class="lesson-detail__intro-info">It doesn’t get more crispy than that!</p>
+
+          <p class="lesson-detail__intro-info">
+            My definition of done might not be clear and it often optional.
+          </p>
+          <p class="lesson-detail__intro-info">
+            You could have the same goal as <em>Coming Home with Bob Abbot</em>, a podcast
+            about the ongoing problem of Veteran mental health and possible solutions. His
+            podcast’s own tagline is <em>Until Everyone Comes Home</em>.
+          </p>
+          <p class="lesson-detail__intro-info">
+            This means Bob is not done until every US military service member comes back
+            home to the United States of America. Considering how our world is in constant
+            termoil overseas, that’s probably not going to happen any time soon. Which,
+            for Bob, means his Why is literally <em>Until Everyone Comes Home</em>.
+          </p>
+          <p class="lesson-detail__intro-info">
+            That is a super crispy why and a definition of done.
+          </p>
+          <p class="lesson-detail__intro-info">
+            It gives Bob his target audience -- US military service members -- and when he
+            will be done, which is potentially forever. Both are important elements in
+            creating a strong Why Statement.
+          </p>
 
           <p class="lesson-detail__intro-info">
             Remember your Why Statement for the next lesson.
@@ -366,7 +421,7 @@
         <div class="lesson-detail__lesson-buttons">
           <div class="lesson-detail__lesson-btn-left">
             <a
-              href="/learn/courses/episode-planning-masterclass/lesson-03"
+              href="/learn/courses/episode-planning-masterclass/lesson-04"
               class="lesson-detail__button-link"
             >
               <img
@@ -378,7 +433,7 @@
           </div>
           <div class="lesson-detail__lesson-btn-right">
             <a
-              href="/learn/courses/episode-planning-masterclass/lesson-05"
+              href="/learn/courses/episode-planning-masterclass/lesson-06"
               class="lesson-detail__button-link"
             >
               <img
@@ -606,6 +661,10 @@ export default {
 
 .lesson-detail__link {
   color: var(--color-header);
+}
+
+.lesson-detail__link:hover {
+  color: var(--color-light);
 }
 
 .lesson-detail__button-link:hover img {

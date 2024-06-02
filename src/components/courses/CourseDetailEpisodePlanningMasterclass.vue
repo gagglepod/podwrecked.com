@@ -178,12 +178,12 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-03"
                 class="learn-detail__link"
-                >Lesson 03: Define your Perspective</a
+                >Lesson 03: What is Your Purpose?</a
               >
             </h3>
             <p class="course-detail__intro-info">
-              Understand the importance of knowing your podcast's purpose and target
-              audience.
+              Learn how to discover the purpose behind why you want to create a podcast in
+              the first place.
             </p>
           </div>
         </div>
@@ -208,12 +208,12 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-04"
                 class="learn-detail__link"
-                >Lesson 04: Know Who This is For</a
+                >Lesson 04: Who Is This For?</a
               >
             </h3>
             <p class="course-detail__intro-info">
-              Understand the importance of knowing your target audience and how to craft a
-              clear and focused "why statement" aligned with them.
+              Understand the importance of knowing your podcast's target audience and how
+              to determine who they are.
             </p>
           </div>
         </div>
@@ -229,7 +229,7 @@
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-05-v1-400x200.jpg"
-                alt="Lesson 05: Find Good Sources"
+                alt="Lesson 05: The Why Statement"
             /></a>
           </div>
 
@@ -238,13 +238,12 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-05"
                 class="learn-detail__link"
-                >Lesson 05: Find Good Sources</a
+                >Lesson 05: Crafting a Why Statement</a
               >
             </h3>
             <p class="course-detail__intro-info">
-              This masterclass will teach you the eight (8) steps of a podcast episode
-              planning: direction, purpose, search, observation, bucketing, filtering,
-              prioritization, and selection.
+              Understand the importance of a clear and focused Why Statement and how to
+              craft one for your podcast.
             </p>
           </div>
         </div>
@@ -260,7 +259,7 @@
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-06-v1-400x200.jpg"
-                alt="Lesson 06: Lurk with a Purpose"
+                alt="Lesson 06: Find Good Sources"
             /></a>
           </div>
 
@@ -269,7 +268,7 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-06"
                 class="learn-detail__link"
-                >Lesson 06: Lurk with a Purpose</a
+                >Lesson 06: Find Good Sources</a
               >
             </h3>
             <p class="course-detail__intro-info">
@@ -291,7 +290,7 @@
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-07-v1-400x200.jpg"
-                alt="Lesson 07: Sort and Find Patterns"
+                alt="Lesson 07: Lurk with a Purpose"
             /></a>
           </div>
 
@@ -300,7 +299,7 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-07"
                 class="learn-detail__link"
-                >Lesson 07: Sort and Find Patterns</a
+                >Lesson 07: Lurk with a Purpose</a
               >
             </h3>
             <p class="course-detail__intro-info">
@@ -322,7 +321,7 @@
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-08-v1-400x200.jpg"
-                alt="Lesson 08: Choosing the Best Themes"
+                alt="Lesson 08: Sort and Find Patterns"
             /></a>
           </div>
 
@@ -331,7 +330,7 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-08"
                 class="learn-detail__link"
-                >Lesson 08: Choosing the Best Themes</a
+                >Lesson 08: Sort and Find Patterns</a
               >
             </h3>
             <p class="course-detail__intro-info">
@@ -353,7 +352,7 @@
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-09-v1-400x200.jpg"
-                alt="Lesson 09: Picking the Stories"
+                alt="Lesson 09: Choosing the Best Themes"
             /></a>
           </div>
 
@@ -362,7 +361,7 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-09"
                 class="learn-detail__link"
-                >Lesson 09: Picking the Stories</a
+                >Lesson 09: Choosing the Best Themes</a
               >
             </h3>
             <p class="course-detail__intro-info">
@@ -384,7 +383,7 @@
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-10-v1-400x200.jpg"
-                alt="Lesson 10: Establish an Order"
+                alt="Lesson 10: Picking the Stories"
             /></a>
           </div>
 
@@ -393,13 +392,13 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-10"
                 class="learn-detail__link"
-                >Lesson 10: Establish an Order</a
+                >Lesson 10: Picking the Stories</a
               >
             </h3>
             <p class="course-detail__intro-info">
-              In this lesson, you'll learn how to select which stories are the most
-              important to you in your first year of podcasting and how to organize them
-              into a manageable list.
+              This masterclass will teach you the eight (8) steps of a podcast episode
+              planning: direction, purpose, search, observation, bucketing, filtering,
+              prioritization, and selection.
             </p>
           </div>
         </div>
@@ -415,7 +414,7 @@
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-11-v1-400x200.jpg"
-                alt="Lesson 11: Customizing Your Plan"
+                alt="Lesson 11: Establish an Order"
             /></a>
           </div>
 
@@ -424,12 +423,13 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-11"
                 class="learn-detail__link"
-                >Lesson 11: Customizing Your Plan</a
+                >Lesson 11: Establish an Order</a
               >
             </h3>
             <p class="course-detail__intro-info">
-              In this lesson, you'll work through turning stories into episodes and
-              exploring the advantages to including bonus episodes.
+              In this lesson, you'll learn how to select which stories are the most
+              important to you in your first year of podcasting and how to organize them
+              into a manageable list.
             </p>
           </div>
         </div>
@@ -445,7 +445,7 @@
               class="learn-detail__link"
               ><img
                 src="/images/oncetold.us-lesson-12-v1-400x200.jpg"
-                alt="Lesson 12: Maintaining Momentum"
+                alt="Lesson 12: Customizing Your Plan"
             /></a>
           </div>
 
@@ -454,7 +454,37 @@
               <a
                 href="/learn/courses/episode-planning-masterclass/lesson-12"
                 class="learn-detail__link"
-                >Lesson 12: Maintaining Momentum</a
+                >Lesson 12: Customizing Your Plan</a
+              >
+            </h3>
+            <p class="course-detail__intro-info">
+              In this lesson, you'll work through turning stories into episodes and
+              exploring the advantages to including bonus episodes.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- lesson summary #13 -->
+      <article class="course-detail-grid course-detail-grid--1x2 course-detail">
+        <div class="course-detail__lessons">
+          <div class="course-detail__lessons-left">
+            <!-- IMAGE -->
+            <a
+              href="/learn/courses/episode-planning-masterclass/lesson-13"
+              class="learn-detail__link"
+              ><img
+                src="/images/oncetold.us-lesson-13-v1-400x200.jpg"
+                alt="Lesson 13: Maintaining Momentum"
+            /></a>
+          </div>
+
+          <div class="course-detail__lessons-right">
+            <h3 class="course-detail__intro-sub-heading">
+              <a
+                href="/learn/courses/episode-planning-masterclass/lesson-13"
+                class="learn-detail__link"
+                >Lesson 13: Maintaining Momentum</a
               >
             </h3>
             <p class="course-detail__intro-info">
