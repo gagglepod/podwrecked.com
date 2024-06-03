@@ -189,7 +189,7 @@
             middle of the Utah desert before the sun set.
           </p>
 
-          What a bad day but with a happy ending!
+          <p class="lesson-detail__intro-info">What a bad day but with a happy ending!</p>
 
           <p class="lesson-detail__intro-info">
             However, it got me thinking about wilderness survival. How many other people

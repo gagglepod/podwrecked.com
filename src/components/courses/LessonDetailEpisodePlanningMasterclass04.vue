@@ -127,59 +127,62 @@
             focusing in on one, very narrow sub-set of your topic.
           </p>
           <p class="lesson-detail__intro-info">Here are some examples of niching down:</p>
-          <p class="lesson-detail__intro-info">Example #1:</p>
+          <p class="lesson-detail__intro-info">Example #1: History</p>
 
           <ul>
             <li class="lesson-detail__intro-list">
               Your Purpose: Preserving American military history (Keep Good Alive)
             </li>
             <li class="lesson-detail__intro-list">
-              Your Perspective: Preserving only American Civil War history
+              Your Topic: Telling the Union-side of American Civil War military history
+              during the Overland Campaign of 1864
             </li>
             <li class="lesson-detail__intro-list">
-              Your Niche: Preserving only the Union-side of American Civil War military
-              history during the Overland Campaign of 1864
+              Target Audience: Military History enthusiasts, American Civil War history
+              buffs and history teachers/students studying the American Civil War.
             </li>
             <li class="lesson-detail__intro-list">
-              Niching Down: Preserving only the Union-side of American Civil War military
-              history during the Overland Campaign between May-June, 1864
-            </li>
-          </ul>
-
-          <p class="lesson-detail__intro-info">Example #2:</p>
-          <ul>
-            <li class="lesson-detail__intro-list">
-              Your Purpose: Investigating True Crime (Right a Wrong)
-            </li>
-            <li class="lesson-detail__intro-list">
-              Your Perspective: Investigating only cold murder cases in Texas
-            </li>
-            <li class="lesson-detail__intro-list">
-              Your Niche: Investigating only cold murder cases of adult women in Fort
-              Worth, Texas
-            </li>
-            <li class="lesson-detail__intro-list">
-              Niching Down: Investigate only one cold murder cases of a specific woman in
-              Fort Worth, Texas
+              Niche Target Audience: American Civil War history buffs interested in the
+              Overland Campaign of 1864
             </li>
           </ul>
 
-          <p class="lesson-detail__intro-info">Example #3:</p>
+          <p class="lesson-detail__intro-info">Example #2: True Crime</p>
+          <ul>
+            <li class="lesson-detail__intro-list">
+              Your Purpose: Investigating cold/unsolved murder cases of women in Fort
+              Worth, Texas (Right a Wrong)
+            </li>
+            <li class="lesson-detail__intro-list">
+              Your Topic: Investigate a specific unsolved cold murder case of a woman in
+              Fort Worth, Texas in 2001
+            </li>
+            <li class="lesson-detail__intro-list">
+              Target Audience: True Crime enthusiasts, Amateur detectives, people who live
+              in Fort Worth, Texas
+            </li>
+            <li class="lesson-detail__intro-list">
+              Niche Target Audience: Amateur detectives in Fort Worth, Texas
+            </li>
+          </ul>
+
+          <p class="lesson-detail__intro-info">Example #3: Business How-To</p>
 
           <ul>
             <li class="lesson-detail__intro-list">
-              Your Purpose: How to build a successful company (Improving a Life)
+              Your Purpose: Learn how to build a successful gaming software company
+              (Improving a Life)
             </li>
             <li class="lesson-detail__intro-list">
-              Your Perspective: How to build a successful tech company
+              Your Topic: Talk to only Founders/CEO's who have built successful gaming
+              software companies over the past 5 years.
             </li>
             <li class="lesson-detail__intro-list">
-              Your Niche: Talk to only Founders/CEO's who have built successful gaming
-              software companies
+              Target Audience: Entrepreneurs, other Founders/CEOs, gamers/game developers,
+              those starting a software business.
             </li>
             <li class="lesson-detail__intro-list">
-              Niching Down: Talk to only Founders/CEO's who have built successful gaming
-              software companies and who have been in business at least 5 years
+              Niche Target Audience: Those starting a game development company
             </li>
           </ul>
 
@@ -224,40 +227,192 @@
               alt="Episode Planning Masterclass"
             />
           </picture>
-          <div class="lesson-detail__screen">
-            <div class="lesson-detail__screen-left">
-              <picture class="lesson-detail__screen-image">
-                <!-- IMAGE -->
-                <a href="https://anonymoosefiles.com/" target="_blank"
-                  ><img
-                    src="/images/anonymoose.com-showart-v3-400x400.jpg"
-                    alt="The AnonyMoose Files Podcast"
-                /></a>
-              </picture>
-            </div>
-            <div class="lesson-detail__screen-right">
-              <h3 class="lesson-detail__intro-heading">The AnonyMoose Files</h3>
-              <p class="lesson-detail__intro-info">
-                Our new podcast, <em>The AnonyMoose Files</em>, needs a Why Statement. In
-                this exercise, I will show you how we use our purpose and ideas we already
-                have craft a Why Statement we can use to build a show on.
-              </p>
-            </div>
-          </div>
-          <h3 class="lesson-detail__intro-sub-heading">It Starts With a Reason</h3>
+
+          <picture class="lesson-detail__intro-image">
+            <img
+              src="/images/oncetold.us-lesson-04-niche-down-800x400.jpg"
+              alt="The AnonyMoose Files Target Audience"
+            />
+          </picture>
+
+          <h3 class="lesson-detail__intro-sub-heading">Finding Our Niche</h3>
+          <p class="lesson-detail__intro-info">
+            For The AnonyMoose Files podcast, we need to figure out who are target
+            audience will be. Here is what I came up with:
+          </p>
 
           <ul>
-            <li class="lesson-detail__intro-list">Why are you doing this?</li>
-            <li class="lesson-detail__intro-list">Why this topic?</li>
-            <li class="lesson-detail__intro-list">Why this audience?</li>
-            <li class="lesson-detail__intro-list">Why you?</li>
-            <li class="lesson-detail__intro-list">Why now?</li>
+            <li class="lesson-detail__intro-list">
+              Your Purpose: Stories about wilderness survival (Improving a Life)
+            </li>
+            <li class="lesson-detail__intro-list">
+              Your Topic: Talk to only survivors who almost died but somehow survived the
+              wilderness.
+            </li>
+            <li class="lesson-detail__intro-list">
+              Target Audience: recreational mountain bikers, hikers, fishermen/hunters,
+              campers, off-the-grid homesteaders
+            </li>
+            <li class="lesson-detail__intro-list">
+              Niche Target Audience: Outdoor Survivalists
+            </li>
           </ul>
 
-          <p class="lesson-detail__intro-info">[CONTINUE HERE]</p>
+          <p class="lesson-detail__intro-info">
+            How did I get there? Good question! To do this, we need to work through what
+            we know about this podcast and then identify which people we think might agree
+            with our purpose
+            <em>AND</em> our point of view.
+          </p>
 
           <p class="lesson-detail__intro-info">
-            Remember your Why Statement for the next lesson.
+            Then, filter most of them out by focusing in on one, very narrow sub-set of
+            our topic.
+          </p>
+
+          <p class="lesson-detail__intro-info">Ready?</p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Start With Purpose</h3>
+          <p class="lesson-detail__intro-info">
+            We need to first remember the purpose we already decided on for The AnonyMoose
+            Files way back in
+            <a
+              href="/learn/courses/episode-planning-masterclass/lesson-03"
+              class="lesson-detail__link"
+              >Lesson 03</a
+            >.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            To refresh your memory, we decided that this podcast will be about telling
+            wilderness survival stories to educate our audience.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            We want this podcast to improve a listeners life by giving them tips on what
+            to do (and not do) when in the great outdoors.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Refine our Topic</h3>
+
+          <p class="lesson-detail__intro-info">
+            Next, we need to pick a side, start a fight, or just get more specific about
+            our topic.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            To do that we need to focus in on what kind of person wants to hear stories
+            about surviving in the outdoors.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Does that include all outdoor and recreation lovers? Its a good place to start
+            but its too broad. It could mean anybody who likes to go outside. This
+            includes anyone from gardeners to park rangers.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            I don't think we will find too many interesting stories about someone getting
+            lost in their garden.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            The AnonyMoose Files needs people who actually have problems in the outdoors.
+            We need hardcore outdoor enthusiasts. These are the people who use the word
+            <em>outings</em> and <em>expeditions</em>.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This could focus us to narrow our scope down to people who venture into the
+            wilderness. Hardcore outdoor enthusiasts who do <em>wilderness</em> activities
+            away from real help seems like a good target audience to aim for.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            If we are chosing to focus on Hardcore outdoor enthusiasts as our target
+            audience, then it will force us to modify our topic to be more detailed about
+            the survival stories we tell.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Being too general will not work for these people. They are going to want to
+            know all the details about how someone survived the wilderness.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This might force us to move away from just stories and try interviewing these
+            people instead. That presents an interesting design problem. Do we change the
+            show to attract a certain audience? Or do we stay the course and modify our
+            target audience expectations?
+          </p>
+
+          <p class="lesson-detail__intro-info">Have to think about that one.</p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Deciding Our Target Audience</h3>
+
+          <p class="lesson-detail__intro-info">
+            Okay. I thought about it. I think for now our podcast would work best if we
+            told stories of wilderness survival. We might try interviews at a later date
+            but for now we'll stick to good old fashioned storytelling.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            That means our target audience includes anyone in the hardcore outdoor
+            enthusiast circle. Thhis could include anyone from recreational mountain
+            bikers, hikers, and fishermen/hunters, to campers and off-the-grid
+            homesteaders.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Basically anyone who could go missing in the wilderness could benefit from our
+            show. But these type of outdoor enthusiasts are particularly vulnerable.
+          </p>
+
+          <h3 class="lesson-detail__intro-sub-heading">Niching Down</h3>
+
+          <p class="lesson-detail__intro-info">
+            We could, in all honesty, stop there. Most outdoor enthusiasts, hardcore or
+            not, could enjoy and be informed by stories about surviving in the wilderness.
+            This target audience is a good place as any to start from.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Howerver, I want to take this a step further.
+          </p>
+
+          <p class="lesson-detail__intro-info">I want to <em>niche down</em>!</p>
+
+          <p class="lesson-detail__intro-info">
+            No worries. If niching down doesn't give us enough stories to work with, we
+            can always go back up to the broader niche.
+          </p>
+
+          <p class="lesson-detail__intro-info">Again, these are principles, not rules.</p>
+
+          <p class="lesson-detail__intro-info">
+            To niche down into stories about surviving in the wilderness, I want to get
+            very detailed. I want to show how you can get lost and live off the land.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            This would not be just stories of people who looked death in the eye and lived
+            to tell the tale! No, it would be those that walked into the wilderness with
+            nothing on their back and built a life.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            I want to only tell stories of long-term wilderness survival.
+          </p>
+
+          <p class="lesson-detail__intro-info">Now, that's a niche!</p>
+
+          <p class="lesson-detail__intro-info">
+            I don't have to stay in that niche but it does give me an optional direction
+            to go if I want. Until I hit record, I still have a lot of choices.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Remember all of this for the next lesson. You will need it!
           </p>
 
           <p class="lesson-detail__intro-info">To be continued!</p>

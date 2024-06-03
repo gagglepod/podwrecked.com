@@ -226,6 +226,14 @@
               alt="Episode Planning Masterclass"
             />
           </picture>
+
+          <picture class="lesson-detail__intro-image">
+            <img
+              src="/images/oncetold.us-lesson-05-why-statement-800x400.jpg"
+              alt="The AnonyMoose Files Why Statement"
+            />
+          </picture>
+
           <h3 class="lesson-detail__intro-sub-heading">Why Statement in Action</h3>
 
           <p class="lesson-detail__intro-info">
@@ -235,13 +243,25 @@
           <p class="lesson-detail__intro-info">
             <em
               >The [AnonyMoose Files] is a podcast hosted by [Kyle Bondo] about
-              [Wilderness Survival Stories] for [Outdoor Survivalists] that like to hear
-              how others [Escape Disaster].</em
+              [Wilderness Survival Stories] for [Outdoor Enthusiast] that like to hear how
+              others [Escape Disaster].</em
             >
           </p>
 
           <p class="lesson-detail__intro-info">
-            Let’s take this apart and see why it works.
+            Yup! If you were paying attention to the last lesson, I was on the fence about
+            niching down to target the Outdoor Survivalist audience. However, I have
+            changed my mind and decide to stay with the topic of wilderness survivial
+            stories.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            Besides, it turns out that Outdoor Survivalist don't tend to get into much
+            danger. Outdoor Enthusiasts, however, get into a lot of danger.
+          </p>
+
+          <p class="lesson-detail__intro-info">
+            With that said, let’s take this Why Statement apart and see why it works.
           </p>
           <p class="lesson-detail__intro-info">
             First, I have identified my core idea with a topic focusing on Wilderness
