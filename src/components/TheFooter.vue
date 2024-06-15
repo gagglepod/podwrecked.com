@@ -4,15 +4,14 @@
       <!-- Brand section -->
       <div class="footer__brand">
         <img
-          class="logo-text logo-primary"
-          src="../assets/images/oncetold-logo-text.svg"
-          alt="Oncetold Logo"
+          class="footer-logo-text logo-primary"
+          src="../assets/images/flowgnar-logo-footer.svg"
+          alt="Flowgnar Logo"
         />
         <p class="footer__copyright">
-          Copyright &copy; {{ currentYear }}. Oncetold. Tell Your Story. Website v{{
-            otVersion
-          }}.
+          Copyright &copy; {{ currentYear }}. Flowgnar and Oncetold.
         </p>
+        <p class="footer__version">Website Version: {{ otVersion }}</p>
         <!-- <p class="footer__footnote">ver{{ otVersion }}</p> -->
       </div>
 
@@ -21,29 +20,34 @@
         <div class="footer__navigation">
           <ul class="list">
             <li>
-              Oncetold Platform:
-              <a href="https://oncetold.cloud" target="_blank">Oncetold Cloud</a>&nbsp;
-              <a href="/uptime">Uptime</a>
+              Directories:
+              <a href="https://podcastindex.org/podcast/6933361" target="_blank"
+                >Podcast Index</a
+              >&nbsp;
+              <a
+                href="https://lnbeats.com/album/2973941f-0d0e-5b33-8cee-a56647fb878d"
+                target="_blank"
+                >LN Beats</a
+              >&nbsp;
+              <a href="https://wavlake.com" target="_blank">WavLake</a>
             </li>
             <li>
-              Company: <a href="/about">About Us</a>&nbsp;
-              <a href="/how-it-works">How It Works</a>&nbsp;
-              <a href="/pricing">Pricing</a>&nbsp; <a href="/learn">Learn</a>&nbsp;
-              <a href="/support">Support</a>
+              Hosting: <a href="https://oncetold.us" target="_blank">Oncetold</a>&nbsp;
+            </li>
+            <li>
+              Apps:
+              <a href="https://podcastguru.io" target="_blank">PodcastGuru</a>&nbsp;
+              <a href="https://truefans.fm" target="_blank">TrueFans</a>&nbsp;
+              <a href="https://podverse.fm" target="_blank">Podverse</a>
             </li>
             <li>
               Guides:
-              <a href="https://noteasilysquished.com" target="_blank">Podcast</a>&nbsp;
-              <a href="/articles">Articles</a>&nbsp;
-              <a href="/learn/courses">Courses</a>&nbsp;
-              <a href="/learn/videos">Videos</a>&nbsp; <a href="/lab">Lab</a>&nbsp;
-              <a href="https://www.slideshare.net/KyleBondo/presentations" target="_blank"
-                >Slides</a
-              >&nbsp;
+              <a href="/boosts">How to Boost</a>&nbsp;
+              <a href="https://value4value.info" target="_blank">V4V Lifestyle</a>
             </li>
             <li>
-              Fine Print: <a href="/rights">Customer Rights</a>&nbsp;
-              <a href="/terms">Privacy & Terms</a>
+              Fine Print: <a href="/disclaimer">Disclaimer</a>&nbsp;
+              <a href="/licenses">Licenses</a>
             </li>
           </ul>
         </div>
@@ -59,16 +63,26 @@ export default {
   components: {},
   props: [],
   setup() {
+    // const envVars = import.meta.env;
+    // console.log("Environment Variables: ", envVars);
+
+    // const envTest = import.meta.env.VITE_TEST_VAR;
+    // console.log("envTest: ", envTest);
+
     const otVersion = import.meta.env.VITE_VERSION;
+    // console.log("otVersion: ", otVersion);
 
     // console.log("Current Date:", moment().toString());
     // console.log("Current year is:", moment().year());
 
     let currentYear = moment().year();
+    // console.log("currentYear: ", currentYear);
 
     return {
       otVersion,
       currentYear,
+      // envTest,
+      // envVars,
     };
   },
 };
@@ -84,7 +98,7 @@ export default {
 
 .footer--dark {
   background: var(--color-footer);
-  color: var(--color-primary-alt);
+  color: var(--color-headings);
 }
 
 .footer__section {
@@ -102,9 +116,14 @@ export default {
   text-align: center;
 }
 
+.footer-logo-text {
+  width: 350px;
+  padding-bottom: 0.25rem;
+}
+
 .footer__brand img {
   width: 100%;
-  max-width: 230px;
+  max-width: 350px;
 }
 
 .footer__copyright {
@@ -112,7 +131,15 @@ export default {
   color: #fff;
   opacity: 0.3;
   margin-bottom: 0;
-  padding: 1rem;
+  padding: 0.25rem 0 0.25rem 0;
+}
+
+.footer__version {
+  font-size: 2.1rem;
+  color: #fff;
+  opacity: 0.3;
+  margin-bottom: 0;
+  padding: 0;
 }
 
 .footer__footnote {
@@ -156,6 +183,10 @@ export default {
   }
 
   .footer .footer__copyright {
+    font-size: 1.5rem;
+  }
+
+  .footer .footer__version {
     font-size: 1.5rem;
   }
 

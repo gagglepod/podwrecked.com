@@ -1,21 +1,17 @@
 <template>
-  <section class="about-block block--about">
+  <section class="about-block block--how">
     <div class="container">
       <header class="about-block__header">
         <div class="about__heading-img">
-          <img class="about-logo" src="../assets/images/oncetold-logo-sm.svg" />
+          <img class="about-logo" src="../assets/images/t-rex-drawing-big-v2.svg" />
         </div>
-        <h1 class="about__heading">We the Oncetold!</h1>
-        <p class="about__shortline">
-          <strong> Welcome to Oncetold, </strong>a podcast education and technology
-          company teaching you how to use podcasting to tell your story.
-        </p>
-        <p class="about__shortline">
-          <strong>We’re podcasters too.</strong> Oncetold is not another podcast hosting
-          company. We built Oncetold from the ground up using a decade’s worth of
-          real-world podcasting experience and endless frustration from a tone-deaf
-          industry.
-        </p>
+        <a class="about__brand" href="/"
+          ><img
+            class="about-logo-text logo-primary"
+            src="../assets/images/flowgnar-about.svg"
+            alt="Flowgnar Logo"
+        /></a>
+        <h2>Embrace the Flow, Chew the Gnar!</h2>
       </header>
     </div>
   </section>
@@ -33,8 +29,8 @@ export default {};
   /* border: 2px solid red; */
 }
 
-.block--about {
-  background: var(--color-primary-alt);
+.block--how {
+  background: var(--color-dino-sky);
   color: var(--color-headings);
 }
 
@@ -60,8 +56,17 @@ export default {};
 }
 
 .about-logo {
-  height: 64px;
+  height: 120px;
   margin: 0;
+}
+
+.about__brand {
+  transform: translateY(5px);
+}
+
+.about-logo-text {
+  width: 300px;
+  padding-bottom: 0.25rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -78,8 +83,13 @@ export default {};
   }
 
   .about-logo {
-    height: 96px;
+    height: 120px;
     margin: 0;
+  }
+
+  .about-logo-text {
+    height: 165px;
+    padding-bottom: 0.25rem;
   }
 }
 </style>

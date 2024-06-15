@@ -1,27 +1,28 @@
 <template>
   <header>
     <nav class="nav" :class="[isActive ? 'collapsible--expanded' : 'collapsible']">
-      <a class="nav__brand" href="/"
-        ><img
-          class="logo-text logo-primary"
-          src="../assets/images/oncetold-logo-text.svg"
-          alt="Oncetold Logo"
-      /></a>
-
       <svg class="icon icon--white nav__toggler" @click="toggleMenu">
         <use href="../assets/images/sprite.svg#menu"></use>
       </svg>
       <ul class="list nav__list collapsible__content">
-        <li class="nav__item"><a href="/how-it-works">How it Works</a></li>
-        <li class="nav__item"><a href="/pricing">Pricing</a></li>
-        <li class="nav__item"><a href="/learn">Learn</a></li>
-        <li class="nav__item"><a href="/support">Support</a></li>
         <li class="nav__item">
-          <a href="https://oncetold.cloud/login" target="_blank">Sign In</a>
+          <a href="/">Home</a>
         </li>
         <li class="nav__item">
-          <a href="https://oncetold.cloud" target="_blank">Try it FREE</a>
+          <a href="https://podcastindex.org/podcast/6933361" target="_blank">Podcast</a>
         </li>
+      </ul>
+      <a class="nav__brand" href="/"
+        ><img
+          class="logo-text logo-primary"
+          src="../assets/images/flowgnar-logo-header.svg"
+          alt="Flowgnar Logo"
+      /></a>
+      <ul class="list nav__list collapsible__content">
+        <li class="nav__item">
+          <a href="https://oncetold.cloud" target="_blank">Oncetold</a>
+        </li>
+        <li class="nav__item"><a href="/about">About</a></li>
       </ul>
     </nav>
   </header>
@@ -56,7 +57,7 @@ export default {
 }
 
 .logo-text {
-  width: 150px;
+  width: 300px;
   padding-bottom: 0.25rem;
 }
 
@@ -114,7 +115,7 @@ export default {
 .nav {
   background: var(--color-background);
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
   padding: 0.25rem 1rem 0.5rem;
   align-items: center;
@@ -128,6 +129,9 @@ export default {
 .nav__item {
   padding: 0.5rem 2rem;
   border-bottom: 1px solid #222;
+  font-size: 1.8rem;
+  /* font-weight: 500; */
+  text-transform: uppercase;
 }
 
 .nav__item > a {

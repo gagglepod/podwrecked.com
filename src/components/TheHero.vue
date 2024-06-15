@@ -3,23 +3,21 @@
     <div class="container">
       <header class="hero-block__header">
         <div class="hero__heading-img">
-          <img class="hero-logo" src="../assets/images/oncetold-logo-sm.svg" />
+          <img class="hero-logo" src="../assets/images/t-rex-drawing-big-v2.svg" />
         </div>
-        <h1 class="hero__heading">Once upon a time...</h1>
-        <p class="hero__shortline">
-          You are curious. You've been on adventures. <strong>You lived a life. </strong
-          ><br />
-          All these events create stories. Stories you've never shared.
+        <a class="hero__brand" href="/"
+          ><img
+            class="hero-logo-text logo-primary"
+            src="../assets/images/flowgnar-logo-text.svg"
+            alt="Flowgnar Logo"
+        /></a>
+        <h2>Embrace the Flow, Chew the Gnar!</h2>
+        <p class="hero-summary__text">
+          Flowgnarl, hosted by Kyle M. Bondo, is a music podcast featuring Valueverse
+          artists who grind the trail, flow over the drops, and climb the gnar. Each
+          episode turns your off-road workout into a personal adventure by turning curated
+          Value 4 Value playlists into pure endurance fuel.
         </p>
-        <h2>It is time to tell your story</h2>
-        <p class="hero__shortline">
-          People what to hear your story. We can help you reach them.
-        </p>
-        <a href="https://oncetold.cloud" target="_blank"
-          ><button class="btn btn--secondary btn--stretched">
-            Start Today before they fade away
-          </button></a
-        >
       </header>
     </div>
   </section>
@@ -33,17 +31,17 @@ export default {};
 .hero-block {
   display: flex;
   flex-direction: column;
-  padding: 3rem 0 1rem;
+  padding: 3rem 0 0 0;
 }
 
 .block--hero {
-  background: var(--color-primary-alt);
+  background: var(--color-dino-sky);
   color: var(--color-headings);
 }
 
 .hero-block__header {
   text-align: center;
-  margin: 2rem 0 2rem;
+  margin: 2rem 0 0 0;
 }
 
 .block__heading {
@@ -62,9 +60,25 @@ p.hero__shortline {
   padding: 0;
 }
 
+.hero__brand {
+  transform: translateY(5px);
+}
+
 .hero-logo {
-  height: 64px;
+  height: 120px;
   margin: 0;
+}
+
+.hero-logo-text {
+  width: 300px;
+  padding-bottom: 0.25rem;
+}
+
+.hero-summary__text {
+  text-align: center;
+  color: var(--color-headings);
+  letter-spacing: 0.1rem;
+  padding: 0 1rem 0 1rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -81,8 +95,13 @@ p.hero__shortline {
   }
 
   .hero-logo {
-    height: 96px;
+    height: 120px;
     margin: 0;
+  }
+
+  .hero-logo-text {
+    width: 600px;
+    padding-bottom: 0.25rem;
   }
 }
 </style>

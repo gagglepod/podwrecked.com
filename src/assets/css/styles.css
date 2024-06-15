@@ -35,20 +35,30 @@
 :root {
   --color-primary: #5eb1bf;
   --color-primary-alt: #368d9a;
-  --color-bottom: #004956;
+
   --color-secondary: #bf6c5e;
   --color-tertiary: #006a77;
+
+  --color-background: #232F3E;
+  --color-dino-sky: #385266;
+  --color-dino-ride: #394955;
+  --color-bottom: #385266;
+  --color-footer: #232F3E;
+
+  --color-dino-skin: #232F3E;
+  --color-dino-flow: #707B81;
+
   --color-accent: #ef7b45;
   --color-light: #b5dde4;
   --color-headings: #fffff0;
   --color-body: #fffff0;
   --color-body-darker: #5c5577;
   --color-background-lt: #465056;
-  --color-background: #2f363a;
+
   --color-border: #ccc;
   --color-borders: #c1c9ce;
   --color-dark: #81362c;
-  --color-footer: #002b37;
+
   --color-placeholder: #cbcdd7;
   --border-radius: 30px;
 }
@@ -78,7 +88,7 @@ html {
 }
 
 body {
-  background: var(--color-tertiary);
+  background: var(--color-dino-ride);
   color: var(--color-body);
   font-family: 'Open Sans', sans-serif;
   font-size: 2.4rem;
@@ -285,6 +295,15 @@ a {
   background: var(--color-dark);
 }
 
+.btn--dino-skin {
+  background: var(--color-dino-skin);
+  color: #fff;
+}
+
+.btn--dino-skin:hover {
+  background: var(--color-dino-flow);
+}
+
 .btn--accent {
   background: var(--color-accent);
   color: #fff;
@@ -458,7 +477,7 @@ a {
 }
 
 .block--hero {
-  background: var(--color-primary-alt);
+  background: var(--color-dino-sky);
   color: var(--color-headings);
 }
 

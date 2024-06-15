@@ -1,23 +1,20 @@
 <template>
-  <TheHero />
+  <PageNotFoundHero />
   <CloudRow />
   <TheSplash />
-  <!-- <TheBottom /> -->
 </template>
 
 <script>
-import TheHero from "../components/TheHero.vue";
+import PageNotFoundHero from "../components/PageNotFoundHero.vue";
 import CloudRow from "../components/CloudRow.vue";
 import TheSplash from "../components/TheSplash.vue";
-// import TheBottom from "../components/TheBottom.vue";
 
 export default {
-  name: "HomeView",
+  name: "PageNotFound",
   components: {
-    TheHero,
+    PageNotFoundHero,
     CloudRow,
     TheSplash,
-    // TheBottom,
   },
 };
 </script>

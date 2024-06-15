@@ -1,21 +1,24 @@
 <template>
-    <section class="not-found-block block--not-found">
-        <div class="container">
-        <header class="not-found-block__header">
-            <div class="not-found__heading-img">
-                <img class="not-found-logo" src="../assets/images/oncetold-logo-sm.svg" />
-            </div>
-            <h1 class="not-found__heading">404</h1>
-            <p class="not-found__shortline">Whoops! Now a word from Oncetold Web Engineer Buck Futz: <em>"Something Broke!"</em></p>
-        </header>
+  <section class="not-found-block block--not-found">
+    <div class="container">
+      <header class="not-found-block__header">
+        <div class="not-found__heading-img">
+          <img class="not-found-logo" src="../assets/images/t-rex-drawing-big-v2.svg" />
         </div>
-    </section>
+        <h1 class="not-found__heading">404</h1>
+        <p class="not-found__shortline">
+          Whoops! Now a word from Oncetold Web Engineer, Buck Futz:
+        </p>
+        <h2 class="not-found__heading">
+          <em>"Something Broke!"</em>
+        </h2>
+      </header>
+    </div>
+  </section>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
@@ -27,7 +30,7 @@ export default {
 }
 
 .block--not-found {
-  background: var(--color-primary-alt);
+  background: var(--color-dino-sky);
   color: var(--color-headings);
 }
 
@@ -53,7 +56,7 @@ export default {
 }
 
 .not-found-logo {
-  height: 64px;
+  height: 120px;
   margin: 0;
 }
 
@@ -71,8 +74,8 @@ export default {
   }
 
   .not-found-logo {
-    height: 96px;
+    height: 120px;
     margin: 0;
-    }
+  }
 }
 </style>

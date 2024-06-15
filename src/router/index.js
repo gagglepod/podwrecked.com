@@ -2,38 +2,20 @@ import { useAuthStore } from "../stores/AuthStore";
 import { createRouter, createWebHistory } from "vue-router";
 
 // #######################
-import PageNotFound from "../views/PageNotFound.vue";
+import SitePageNotFound from "../views/SitePageNotFound.vue";
+
 import HomeView from "../views/HomeView.vue";
-import HowView from "../views/HowView.vue";
-import PricingView from "../views/PricingView.vue";
-import LabView from "../views/LabView.vue";
-import SupportView from "../views/SupportView.vue";
 import AboutView from "../views/AboutView.vue";
-import PodfestView from "../views/PodfestView.vue";
+import BoostView from "../views/BoostView.vue";
+
 import BlogView from "../views/BlogView.vue";
 import BlogArticle from "../views/BlogArticle.vue";
-import RightsView from "../views/RightsView.vue";
-import TermsView from "../views/TermsView.vue";
-import UptimeView from "../views/UptimeView.vue";
+
 import ArticlesView from "../views/ArticlesView.vue";
 import ArticlesDetail from "../views/ArticlesDetail.vue";
-import LearnView from "../views/LearnView.vue";
-import CoursesListView from "../views/courses/CoursesListView.vue";
-import CourseViewIntroToPodcastDesign from "../views/courses/CourseViewIntroToPodcastDesign.vue";
 
-import CourseViewEpisodePlanningMasterclass from "../views/courses/CourseViewEpisodePlanningMasterclass.vue";
-import LessonViewEpisodePlanningMasterclass01 from "../views/courses/LessonViewEpisodePlanningMasterclass01.vue";
-import LessonViewEpisodePlanningMasterclass02 from "../views/courses/LessonViewEpisodePlanningMasterclass02.vue";
-import LessonViewEpisodePlanningMasterclass03 from "../views/courses/LessonViewEpisodePlanningMasterclass03.vue";
-import LessonViewEpisodePlanningMasterclass04 from "../views/courses/LessonViewEpisodePlanningMasterclass04.vue";
-import LessonViewEpisodePlanningMasterclass05 from "../views/courses/LessonViewEpisodePlanningMasterclass05.vue";
-
-import VideosListView from "../views/videos/VideosListView.vue";
-import VideoViewPodcastDesignPlan from "../views/videos/VideoViewPodcastDesignPlan.vue";
-import VideoViewStopPodwrecking from "../views/videos/VideoViewStopPodwrecking.vue";
-import VideoViewStoryHunting from "../views/videos/VideoViewStoryHunting.vue";
-import VideoViewBrandPodcastDesign from "../views/videos/VideoViewBrandPodcastDesign.vue";
-import VideoViewWeirdThing from "../views/videos/VideoViewWeirdThing.vue";
+import FooterLicensesView from "../views/FooterLicensesView.vue";
+import FooterDisclaimerView from "../views/FooterDisclaimerView.vue";
 
 const routes = [
   {
@@ -43,29 +25,8 @@ const routes = [
   },
   {
     path: "/:catchAll(.*)*",
-    name: "PageNotFound",
-    component: PageNotFound,
-  },
-  {
-    path: "/how-it-works",
-    name: "how-it-works",
-    component: HowView,
-  },
-  {
-    path: "/pricing",
-    name: "pricing",
-    component: PricingView,
-  },
-  {
-    path: "/lab",
-    name: "lab",
-    component: LabView,
-  },
-
-  {
-    path: "/support",
-    name: "support",
-    component: SupportView,
+    name: "SitePageNotFound",
+    component: SitePageNotFound,
   },
   {
     path: "/about",
@@ -73,9 +34,9 @@ const routes = [
     component: AboutView,
   },
   {
-    path: "/podfest",
-    name: "podfest",
-    component: PodfestView,
+    path: "/boosts",
+    name: "boosts",
+    component: BoostView,
   },
   {
     path: "/blog",
@@ -90,19 +51,14 @@ const routes = [
     props: true,
   },
   {
-    path: "/rights",
-    name: "rights",
-    component: RightsView,
+    path: "/disclaimer",
+    name: "disclaimer",
+    component: FooterDisclaimerView,
   },
   {
-    path: "/terms",
-    name: "terms",
-    component: TermsView,
-  },
-  {
-    path: "/uptime",
-    name: "uptime",
-    component: UptimeView,
+    path: "/licenses",
+    name: "licenses",
+    component: FooterLicensesView,
   },
   {
     path: "/articles",
@@ -114,81 +70,6 @@ const routes = [
     name: "ArticlesDetail",
     component: ArticlesDetail,
     props: true,
-  },
-  {
-    path: "/learn",
-    name: "learn",
-    component: LearnView,
-  },
-  {
-    path: "/learn/courses",
-    name: "courses",
-    component: CoursesListView,
-  },
-  {
-    path: "/learn/courses/intro-to-podcast-design",
-    name: "CourseViewIntroToPodcastDesign",
-    component: CourseViewIntroToPodcastDesign,
-  },
-  {
-    path: "/learn/courses/episode-planning-masterclass",
-    name: "CourseViewEpisodePlanningMasterclass",
-    component: CourseViewEpisodePlanningMasterclass,
-  },
-  {
-    path: "/learn/courses/episode-planning-masterclass/lesson-01",
-    name: "LessonViewEpisodePlanningMasterclass01",
-    component: LessonViewEpisodePlanningMasterclass01,
-  },
-  {
-    path: "/learn/courses/episode-planning-masterclass/lesson-02",
-    name: "LessonViewEpisodePlanningMasterclass02",
-    component: LessonViewEpisodePlanningMasterclass02,
-  },
-  {
-    path: "/learn/courses/episode-planning-masterclass/lesson-03",
-    name: "LessonViewEpisodePlanningMasterclass03",
-    component: LessonViewEpisodePlanningMasterclass03,
-  },
-  {
-    path: "/learn/courses/episode-planning-masterclass/lesson-04",
-    name: "LessonViewEpisodePlanningMasterclass04",
-    component: LessonViewEpisodePlanningMasterclass04,
-  },
-  {
-    path: "/learn/courses/episode-planning-masterclass/lesson-05",
-    name: "LessonViewEpisodePlanningMasterclass05",
-    component: LessonViewEpisodePlanningMasterclass05,
-  },
-  {
-    path: "/learn/videos",
-    name: "vidoes",
-    component: VideosListView,
-  },
-  {
-    path: "/learn/videos/video-podcast-design-plan",
-    name: "VideoViewPodcastDesignPlan",
-    component: VideoViewPodcastDesignPlan,
-  },
-  {
-    path: "/learn/videos/video-stop-podwrecking",
-    name: "VideoViewStopPodwrecking",
-    component: VideoViewStopPodwrecking,
-  },
-  {
-    path: "/learn/videos/video-story-hunting",
-    name: "VideoViewStoryHunting",
-    component: VideoViewStoryHunting,
-  },
-  {
-    path: "/learn/videos/video-brand-podcast-design",
-    name: "VideoViewBrandPodcastDesign",
-    component: VideoViewBrandPodcastDesign,
-  },
-  {
-    path: "/learn/videos/video-what-is-your-weird-thing",
-    name: "VideoViewWeirdThing",
-    component: VideoViewWeirdThing,
   },
 ];
 
