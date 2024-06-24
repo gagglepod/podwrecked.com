@@ -33,28 +33,6 @@
       <!-- about-detail #4 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">How to Listen</h2>
-          <p class="about-detail__info">
-            Flowgnar is a
-            <a href="https://Value4Value.info" target="_blank">Value-4-Value</a> enabled
-            podcast bringing you my curated playlist of independent, online artists to
-            join you on your next adventure. These artists all have one thing in common:
-            they have connected their music to a Lightning Wallet! This allows you to both
-            enjoy their work and, if you found value in that work, tell them by sending
-            them value in the form of Satoishis (SATS - factions of a Bitcoin). This is
-            the new way to enjoy music!
-          </p>
-          <p class="about-detail__info">
-            No middle-men, no contracts, no big studios. Just you telling the artist --
-            <a href="/boosts" target="_blank">directly via boosts</a> -- how much you
-            enjoyed their work. All I do is arrange the meeting!
-          </p>
-        </div>
-      </article>
-
-      <!-- about-detail #5 -->
-      <article class="about-detail">
-        <div class="about-detail__content">
           <h2 class="about-detail__heading">Where does this music come from?</h2>
           <p class="about-detail__info">
             Flowgnar is a
@@ -76,6 +54,28 @@
             like <a href="https://lnbeats.com" target="_blank">LN Beats</a> and
             <a href="https://wavlake.com" target="_blank">WavLake</a> have popped up to
             help these artist get discovered.
+          </p>
+        </div>
+      </article>
+
+      <!-- about-detail #5 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h2 class="about-detail__heading">How to Listen</h2>
+          <p class="about-detail__info">
+            Flowgnar is a
+            <a href="https://Value4Value.info" target="_blank">Value-4-Value</a> enabled
+            podcast bringing you my curated playlist of independent, online artists to
+            join you on your next adventure. These artists all have one thing in common:
+            they have connected their music to a Lightning Wallet! This allows you to both
+            enjoy their work and, if you found value in that work, tell them by sending
+            them value in the form of Satoishis (SATS - factions of a Bitcoin). This is
+            the new way to enjoy music!
+          </p>
+          <p class="about-detail__info">
+            No middle-men, no contracts, no big studios. Just you telling the artist --
+            <a href="/boosts" target="_blank">directly via boosts</a> -- how much you
+            enjoyed their work. All I do is arrange the meeting!
           </p>
         </div>
       </article>

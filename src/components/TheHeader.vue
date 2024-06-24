@@ -8,21 +8,26 @@
         <li class="nav__item">
           <a href="/">Home</a>
         </li>
-        <li class="nav__item">
-          <a href="https://podcastindex.org/podcast/6933361" target="_blank">Podcast</a>
-        </li>
+        <li class="nav__item"><a href="/about">About</a></li>
+        <li class="nav__item"><a href="/episodes">Episodes</a></li>
       </ul>
-      <a class="nav__brand" href="/"
-        ><img
+      <a class="nav__brand" href="/" :class="{ 'hidden-mobile': isActive }">
+        <img
           class="logo-text logo-primary"
           src="../assets/images/flowgnar-logo-header.svg"
           alt="Flowgnar Logo"
-      /></a>
+        />
+      </a>
       <ul class="list nav__list collapsible__content">
+        <li class="nav__item">
+          <a href="https://podcastindex.org/podcast/6933361" target="_blank">Subscribe</a>
+        </li>
+        <li class="nav__item">
+          <a href="https://podcastindex.org/podcast/6933361" target="_blank">Podcast</a>
+        </li>
         <li class="nav__item">
           <a href="https://oncetold.cloud" target="_blank">Oncetold</a>
         </li>
-        <li class="nav__item"><a href="/about">About</a></li>
       </ul>
     </nav>
   </header>
@@ -116,21 +121,21 @@ export default {
   background: var(--color-background);
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   padding: 0.25rem 1rem 0.5rem;
-  align-items: center;
 }
 
 .nav__list {
   width: 100%;
   margin: 0;
+  text-align: center;
 }
 
 .nav__item {
   padding: 0.5rem 2rem;
   border-bottom: 1px solid #222;
   font-size: 1.8rem;
-  /* font-weight: 500; */
   text-transform: uppercase;
 }
 
@@ -156,7 +161,11 @@ export default {
 }
 
 .nav__brand {
-  transform: translateY(5px);
+  margin: 0 2rem;
+}
+
+.hidden-mobile {
+  display: none;
 }
 
 @media screen and (min-width: 768px) {
@@ -174,6 +183,10 @@ export default {
 
   .nav__item {
     border: 0;
+  }
+
+  .nav__brand {
+    display: block;
   }
 }
 </style>

@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "oncetold-company-sites",
   storageBucket: "oncetold-company-sites.appspot.com",
   messagingSenderId: "463285512681",
-  appId: "1:463285512681:web:967a68fd722eedd99c0378",
+  appId: "1:463285512681:web:e8ebc7060d639c349c0378",
 };
 
 // init firebase

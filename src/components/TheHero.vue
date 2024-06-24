@@ -20,11 +20,21 @@
         </p>
       </header>
     </div>
+    <div class="sine-wave-container">
+      <SineWaveHome />
+    </div>
   </section>
 </template>
 
 <script>
-export default {};
+import SineWaveHome from "../components/SineWaveHome.vue"; // Import SineWave component
+
+export default {
+  name: "TheHero",
+  components: {
+    SineWaveHome,
+  },
+};
 </script>
 
 <style>
@@ -79,6 +89,12 @@ p.hero__shortline {
   color: var(--color-headings);
   letter-spacing: 0.1rem;
   padding: 0 1rem 0 1rem;
+}
+
+/* Ensure sine wave is properly placed */
+.sine-wave-container {
+  position: relative;
+  margin-top: -1px; /* Adjust margin to connect to the previous section */
 }
 
 @media screen and (min-width: 768px) {

@@ -108,7 +108,8 @@ export default {
   .splash-summary__image > img {
     width: 600px;
     height: 600px;
-    padding: 0rem;
+    padding: 0;
+    margin-top: 2rem;
     border-radius: 2rem;
   }
 

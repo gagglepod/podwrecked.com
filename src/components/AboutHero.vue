@@ -14,18 +14,28 @@
         <h2>Embrace the Flow, Chew the Gnar!</h2>
       </header>
     </div>
+    <div class="sine-wave-container">
+      <SineWaveHome />
+    </div>
   </section>
 </template>
 
 <script>
-export default {};
+import SineWaveHome from "../components/SineWaveHome.vue"; // Import SineWave component
+
+export default {
+  name: "AboutHero",
+  components: {
+    SineWaveHome,
+  },
+};
 </script>
 
 <style>
 .about-block {
   display: flex;
   flex-direction: column;
-  padding: 3rem 0 5rem;
+  /* padding: 3rem 0 5rem; */
   /* border: 2px solid red; */
 }
 

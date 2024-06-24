@@ -8,11 +8,9 @@ import HomeView from "../views/HomeView.vue";
 import AboutView from "../views/AboutView.vue";
 import BoostView from "../views/BoostView.vue";
 
-import BlogView from "../views/BlogView.vue";
-import BlogArticle from "../views/BlogArticle.vue";
-
-import ArticlesView from "../views/ArticlesView.vue";
-import ArticlesDetail from "../views/ArticlesDetail.vue";
+// import EpisodesView from "../views/EpisodesView.vue";
+import EpisodesView from "../views/EpisodesView.vue";
+import EpisodesDetail from "../views/EpisodesDetail.vue";
 
 import FooterLicensesView from "../views/FooterLicensesView.vue";
 import FooterDisclaimerView from "../views/FooterDisclaimerView.vue";
@@ -39,18 +37,6 @@ const routes = [
     component: BoostView,
   },
   {
-    path: "/blog",
-    name: "blog",
-    component: BlogView,
-    props: true,
-  },
-  {
-    path: "/blog/:id",
-    name: "BlogArticle",
-    component: BlogArticle,
-    props: true,
-  },
-  {
     path: "/disclaimer",
     name: "disclaimer",
     component: FooterDisclaimerView,
@@ -60,15 +46,20 @@ const routes = [
     name: "licenses",
     component: FooterLicensesView,
   },
+  // {
+  //   path: "/episodes",
+  //   name: "episodes",
+  //   component: EpisodesView,
+  // },
   {
-    path: "/articles",
-    name: "articles",
-    component: ArticlesView,
+    path: "/episodes",
+    name: "episodes",
+    component: EpisodesView,
   },
   {
-    path: "/articles/:slug",
-    name: "ArticlesDetail",
-    component: ArticlesDetail,
+    path: "/episodes/:slug",
+    name: "EpisodesDetail",
+    component: EpisodesDetail,
     props: true,
   },
 ];

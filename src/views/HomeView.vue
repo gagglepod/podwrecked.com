@@ -1,13 +1,11 @@
 <template>
   <TheHero />
-  <CloudRow />
   <TheSplash />
   <!-- <TheBottom /> -->
 </template>
 
 <script>
 import TheHero from "../components/TheHero.vue";
-import CloudRow from "../components/CloudRow.vue";
 import TheSplash from "../components/TheSplash.vue";
 // import TheBottom from "../components/TheBottom.vue";
 
@@ -15,7 +13,6 @@ export default {
   name: "HomeView",
   components: {
     TheHero,
-    CloudRow,
     TheSplash,
     // TheBottom,
   },
