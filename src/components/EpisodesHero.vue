@@ -14,18 +14,28 @@
         <h2>Pure Endurance Fuel for Your Ears!</h2>
       </header>
     </div>
+    <div class="sine-wave-container">
+      <SineWaveHome />
+    </div>
   </section>
 </template>
 
 <script>
-export default {};
+import SineWaveHome from "../components/SineWaveHome.vue"; // Import SineWave component
+
+export default {
+  name: "EpisodesHero",
+  components: {
+    SineWaveHome,
+  },
+};
 </script>
 
 <style>
 .episodes-block {
   display: flex;
   flex-direction: column;
-  padding: 3rem 0 5rem;
+  /* padding: 3rem 0 5rem; */
   /* border: 2px solid red; */
 }
 
