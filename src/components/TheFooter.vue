@@ -45,10 +45,7 @@
               <a href="/boosts">How to Boost</a>&nbsp;
               <a href="https://value4value.info" target="_blank">V4V Lifestyle</a>
             </li>
-            <li>
-              Fine Print: <a href="/disclaimer">Disclaimer</a>&nbsp;
-              <a href="/licenses">Licenses</a>
-            </li>
+            <li>Admin: <a href="/fine-print">Fine Print</a></li>
           </ul>
         </div>
       </section>

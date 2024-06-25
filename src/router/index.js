@@ -12,8 +12,7 @@ import BoostView from "../views/BoostView.vue";
 import EpisodesView from "../views/EpisodesView.vue";
 import EpisodesDetail from "../views/EpisodesDetail.vue";
 
-import FooterLicensesView from "../views/FooterLicensesView.vue";
-import FooterDisclaimerView from "../views/FooterDisclaimerView.vue";
+import FinePrintView from "../views/FinePrintView.vue";
 
 const routes = [
   {
@@ -37,20 +36,10 @@ const routes = [
     component: BoostView,
   },
   {
-    path: "/disclaimer",
-    name: "disclaimer",
-    component: FooterDisclaimerView,
+    path: "/fine-print",
+    name: "fine-print",
+    component: FinePrintView,
   },
-  {
-    path: "/licenses",
-    name: "licenses",
-    component: FooterLicensesView,
-  },
-  // {
-  //   path: "/episodes",
-  //   name: "episodes",
-  //   component: EpisodesView,
-  // },
   {
     path: "/episodes",
     name: "episodes",

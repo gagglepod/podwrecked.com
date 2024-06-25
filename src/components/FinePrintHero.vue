@@ -8,10 +8,10 @@
         <a class="boost__brand" href="/"
           ><img
             class="boost-logo-text logo-primary"
-            src="../assets/images/flowgnar-boosts.svg"
-            alt="Flowgnar Logo"
+            src="../assets/images/flowgnar-fine-print.svg"
+            alt="Flowgnar Fine Print"
         /></a>
-        <h2>Boosting is Loving!</h2>
+        <h2>Open and Transparent</h2>
       </header>
     </div>
     <div class="sine-wave-container">
@@ -24,7 +24,7 @@
 import SineWaveHome from "../components/SineWaveHome.vue"; // Import SineWave component
 
 export default {
-  name: "BoostHero",
+  name: "FinePrintHero",
   components: {
     SineWaveHome,
   },
@@ -75,7 +75,7 @@ export default {
 }
 
 .boost-logo-text {
-  width: 300px;
+  width: 500px;
   padding-bottom: 0.25rem;
 }
 

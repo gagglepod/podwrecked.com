@@ -13,7 +13,9 @@
             <a href="https://Value4Value.info" target="_blank">Value-4-Value</a> garage
             band sounds to be the soundtrack to your next great outdoor adventure.
           </p>
-          <p class="about-detail__info">Flowgnar has one goal Keep... You... Moving!</p>
+          <p class="about-detail__info">
+            <strong>Flowgnar has one goal Keep... You... Moving!</strong>
+          </p>
         </div>
       </article>
 
@@ -25,7 +27,10 @@
             Flowgnar, hosted by Kyle M. Bondo, is a music podcast for outdoor enthusiasts
             who need a soundtrack for their next adventure. It features a curated playlist
             of Valueverse artists that turn garage band-like beats into pure endurance
-            fuel. Embrace the flow while you chew the gnar!
+            fuel.
+          </p>
+          <p class="about-detail__info">
+            <strong>Embrace the flow while you chew the gnar!</strong>
           </p>
         </div>
       </article>
@@ -74,9 +79,45 @@
           </p>
           <p class="about-detail__info">
             No middle-men, no contracts, no big studios. Just you telling the artist --
-            <a href="/boosts" target="_blank">directly via boosts</a> -- how much you
-            enjoyed their work. All I do is arrange the meeting!
+            <a href="/boosts">directly via boosts</a> -- how much you enjoyed their work.
           </p>
+          <p class="about-detail__info">
+            <strong>All I do is arrange the meeting!</strong>
+          </p>
+        </div>
+      </article>
+
+      <!-- about-detail #6 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h2 class="about-detail__heading">Reach Out</h2>
+          <p class="about-detail__info">
+            Each episode of Flowgnar is a curated playlist that I would like to hear while
+            I'm out on a mountain bike ride. That being said, I would love to hear what
+            you would like to hear on the show. If you have a song recommendation please
+            reach out to me
+            <a href="https://getalby.com/p/oncetold" target="_blank">with a Boost</a> or
+            <a href="mailto:grandpianowarfare@gmail.com" target="_blank"
+              >send me an email!</a
+            >
+          </p>
+        </div>
+      </article>
+
+      <!-- about-detail #7 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h2 class="about-detail__heading">Boost Me</h2>
+          <p class="about-detail__info">
+            If you want to Boost Flowgnar using your modern podcasting app or wallet, you
+            can do that with this QR Code to my
+            <a href="https://getalby.com/p/oncetold" target="_blank"
+              >Oncetold Lightning Address on GetAlby.com</a
+            >:
+          </p>
+        </div>
+        <div class="about__heading-img">
+          <img class="about-logo" src="../assets/images/oncetold-alby-qr-code.svg" />
         </div>
       </article>
     </div>
@@ -120,5 +161,17 @@ export default {};
 .about-detail a:hover {
   color: var(--color-placeholder);
   text-decoration: none;
+}
+
+.about-qr-code {
+  height: 120px;
+  margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .about-qr-code {
+    height: 120px;
+    margin: 0;
+  }
 }
 </style>

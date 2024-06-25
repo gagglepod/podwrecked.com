@@ -8,8 +8,10 @@
         <li class="nav__item">
           <a href="/">Home</a>
         </li>
-        <li class="nav__item"><a href="/about">About</a></li>
         <li class="nav__item"><a href="/episodes">Episodes</a></li>
+        <li class="nav__item">
+          <a href="/boosts">How to Boost</a>
+        </li>
       </ul>
       <a class="nav__brand" href="/" :class="{ 'hidden-mobile': isActive }">
         <img
@@ -19,11 +21,9 @@
         />
       </a>
       <ul class="list nav__list collapsible__content">
+        <li class="nav__item"><a href="/about">About</a></li>
         <li class="nav__item">
           <a href="https://podcastindex.org/podcast/6933361" target="_blank">Subscribe</a>
-        </li>
-        <li class="nav__item">
-          <a href="https://podcastindex.org/podcast/6933361" target="_blank">Podcast</a>
         </li>
         <li class="nav__item">
           <a href="https://oncetold.cloud" target="_blank">Oncetold</a>
