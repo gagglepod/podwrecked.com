@@ -41,24 +41,24 @@
           <h2 class="about-detail__heading">Where does this music come from?</h2>
           <p class="about-detail__info">
             Flowgnar is a
-            <a href="https://Value4Value.info" target="_blank">Value-4-Value</a>
-            enabled podcast bringing you my curated playlist of independent, online
-            artists to join you on your next adventure. These artists all have one thing
-            in common: they have connected their music to a Lightning Wallet! This allows
-            you to both enjoy their work and, if you found value in that work, tell them
-            by sending them value in the form of Satoishis (SATS - factions of a Bitcoin).
-            This is the new way to enjoy music!
+            <a href="https://Value4Value.info" target="_blank">Value-4-Value-enabled</a>
+            podcast bringing you my curated playlist of independent, online artists to
+            join you on your next adventure. These artists all have one thing in common:
+            they have connected their music to a Lightning Wallet! This allows you to both
+            enjoy their work and, if you found value in that work, tell them by sending
+            them value in the form of Satoishis (SATS - factions of a Bitcoin). This is
+            the new way to enjoy music!
           </p>
           <p class="about-detail__info">
             <a href="https://Value4Value.info" target="_blank">Value-4-Value</a>
-            music are also podcasts. They have all the same elements of a podcast and you
-            can even find these artist on directories like
+            music podcasts are still podcasts. They have all the same elements of a
+            podcast and you can even find the artists they feature on directories like
             <a href="https://podcastindex.org" target="_blank">Podcast Index</a>.
-            Forunately, new
+            Fortunately, new
             <a href="https://Value4Value.info" target="_blank">V4V</a> music directories
             like <a href="https://lnbeats.com" target="_blank">LN Beats</a> and
             <a href="https://wavlake.com" target="_blank">WavLake</a> have popped up to
-            help these artist get discovered.
+            help you discover these artists.
           </p>
         </div>
       </article>
@@ -69,7 +69,7 @@
           <h2 class="about-detail__heading">How to Listen</h2>
           <p class="about-detail__info">
             Flowgnar is a
-            <a href="https://Value4Value.info" target="_blank">Value-4-Value</a> enabled
+            <a href="https://Value4Value.info" target="_blank">Value-4-Value-enabled</a>
             podcast bringing you my curated playlist of independent, online artists to
             join you on your next adventure. These artists all have one thing in common:
             they have connected their music to a Lightning Wallet! This allows you to both
@@ -78,7 +78,7 @@
             the new way to enjoy music!
           </p>
           <p class="about-detail__info">
-            No middle-men, no contracts, no big studios. Just you telling the artist --
+            No middlemen, no contracts, no big studios. Just you telling the artist --
             <a href="/boosts">directly via boosts</a> -- how much you enjoyed their work.
           </p>
           <p class="about-detail__info">
