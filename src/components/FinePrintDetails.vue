@@ -4,7 +4,7 @@
       <!-- fine-print-detail #1 -->
       <article class="fine-print-detail">
         <div class="fine-print-detail__content">
-          <h3 class="fine-print-detail__heading">Value 4 Value Music Ownership</h3>
+          <h2 class="fine-print-detail__heading">Value 4 Value Music Ownership</h2>
           <p class="fine-print-detail__info">
             Flowgnar is a
             <a href="https://oncetold.us/" target="_blank">Oncetold Music Experiment</a>
@@ -19,7 +19,7 @@
       <!-- fine-print-detail #2 -->
       <article class="fine-print-detail">
         <div class="fine-print-detail__content">
-          <h3 class="fine-print-detail__heading">V4V Split Percentages</h3>
+          <h2 class="fine-print-detail__heading">V4V Split Percentages</h2>
           <p class="fine-print-detail__info">
             The Flowgnar Value Block is setup to send 90 percent of all boosts to the
             artist's value block while the song is playing. Flowgnar receives the
@@ -31,7 +31,7 @@
       <!-- fine-print-detail #3 -->
       <article class="fine-print-detail">
         <div class="fine-print-detail__content">
-          <h3 class="fine-print-detail__heading">Segue Music</h3>
+          <h2 class="fine-print-detail__heading">Segue Music</h2>
           <p class="fine-print-detail__info">
             Flowgnar segue music is
             <a
