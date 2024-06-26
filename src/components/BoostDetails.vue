@@ -6,13 +6,14 @@
         <div class="boost-detail__content">
           <h2 class="boost-detail__heading">How to Boost</h2>
           <p class="boost-detail__info">
-            Boosting is how you show an artist how you value them. It is also a way for
-            the artist to benefit from their work while hearing directly from you!
+            Boosting is how you show an artist you value them. It is also a way for
+            the artist to benefit from their work while hearing directly from you. This is the center of the Valueverse and your introduction to the <a href="https://value4value.info" target="_blank"
+            >Value 4 Value lifestyle!</a>
           </p>
 
           <p class="boost-detail__info">
-            However, before you can Boost you need to know <em>how</em> to Boost. The
-            following directions should help make you dangerous.
+            However, before you can jump in and start Boosting, you need to know <em>how</em> to Boost. The
+            following steps should give you the essentials and help get you started.
             <strong>Happy Boosting!</strong>
           </p>
         </div>
@@ -26,10 +27,10 @@
             First, you need a
             <a href="https://podcastindex.org/apps?appTypes=app" target="_blank"
               >modern podcast app</a
-            >. Might I recommend
+            >. I recommend
             <a href="https://podcastguru.io" target="_blank">PodcastGuru</a>,
             <a href="https://podverse.fm" target="_blank">Podverse</a>, or
-            <a href="https://truefans.fm" target="_blank">TrueFans</a>? Those are my
+            <a href="https://truefans.fm" target="_blank">TrueFans</a>. Those are my
             current favorites!
           </p>
         </div>
@@ -46,7 +47,7 @@
             >
             on that app or you go over to
             <a href="https://lnbeats.com" target="_blank">LN Beats</a>, click on the <em>Music Shows</em> tab, and see all the
-            other music podcasts out there. There's about 22 of us to choose from right
+            other music podcasts out there. There are about 22 of us to choose from right
             now!
           </p>
         </div>
@@ -66,7 +67,7 @@
           <p class="boost-detail__info">
             However, if you want to own your own wallet you can use external wallet apps like <a href="https://getalby.com/" target="_blank">Get Alby</a>, <a href="https://breez.technology/" target="_blank">Breez</a>, or <a href="https://podcasterwallet.com/" target="_blank">Podcaster Wallet</a>. 
             <p class="boost-detail__info">
-            The goal is to get a wallet that will allow you to hold SATs. Once you have your own wallet, you can connect it to any modern podcast app. </p>
+            The goal is to get a wallet allowing you to hold SATs. Once you have your own wallet, you can connect it to any modern podcast app. </p>
           </p>
         </div>
       </article>
@@ -76,10 +77,10 @@
         <div class="boost-detail__content">
           <h2 class="boost-detail__heading">Step 4 - Send a Boost</h2>
           <p class="boost-detail__info">
-            Fourth, once you got a few SATS in your wallet and that wallet is connected to your new, modern podcast app, it's time to Boost!</p>
+            Fourth, once you have a few SATS in your wallet and that wallet is connected to your new, modern podcast app, it's time to Boost!</p>
             <p class="boost-detail__info">When you play Flowgnar on your modern podcast app you will see the option to boost the podcast or the artist while it is playing. If you like what you hear, Boost them some SATs, which is to say you use that app
             to send them some of your SATs. That's it!</p>
-            <p class="boost-detail__info">But wait, there's more! A boost can include a short messaage that goes directly to the artist or the podcaster too. And I mean directly! They see it. They read it. And they <em>LOVE IT!</em> That's why it's called a <em>BOOST!</em>
+            <p class="boost-detail__info">But wait, there's more! A boost can include a short message that goes directly to the artist or the podcaster too. And I mean directly! They see it. They read it. And they <em>LOVE IT!</em> That's why it's called a <em>BOOST!</em>
           </p>
         </div>
       </article>
@@ -91,9 +92,9 @@
           <p class="boost-detail__info">
             Finally, when you start getting the hang of boosting, you will start boosting all the time -- you won't be able to stop! Just make sure when you boost a song you tell them you heard it here on Flowgnar! </p>
             <p class="boost-detail__info">
-            Boosting opens up a whole new world of communication, apperciation, and monitization between you, the listener, and the hosts and artist you hear on Flowgnar! If you like what you hear and want to hear more, don't forget that you can even boost me when I'm jabbering away between tracks!</p>
+            Boosting opens up a whole new world of communication, appreciation, and monetization between you, the listener, and the hosts and artists you hear on Flowgnar! If you like what you hear and want to hear more, don't forget that you can even boost me when I'm jabbering away between tracks!</p>
             <p class="boost-detail__info">
-            The best part of the Value 4 Value lifestyle is that any time you feel like you got value, you can give value back. Simple!
+            The best part of the Value 4 Value lifestyle is that any time you feel like you have value, you can give value back. Simple!
           </p>
         </div>
       </article>
@@ -105,7 +106,7 @@
           <p class="boost-detail__info">
             The main goal of Flowgnar is to support the artists you hear on each episode. To quote the Podfather himself, Adam
             Curry over at <a href="https://www.boostagramball.com/" target="_blank">Boostagram Ball (the show that started it all)</a>:
-            <em>"I play the tracks while the artist get the SATS!"</em>
+            <em>"I play the tracks while the artist gets the SATS!"</em>
           </p>
 
           <p class="boost-detail__info">Now you know!</p>
