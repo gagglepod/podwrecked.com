@@ -112,7 +112,7 @@ export default {
   flex-direction: column;
   /* padding: 3rem 0 5rem; */
   padding: 5rem 0; /* Increase padding for more height */
-  min-height: 80vh; /* Ensure minimum height */
+  min-height: 100vh; /* Ensure minimum height */
 }
 
 /* Ensure that .block--episode-details has position relative */

@@ -51,6 +51,6 @@ export default {
   height: auto;
   position: absolute;
   bottom: 0;
-  margin-bottom: -1px; /* Adjust margin to remove the thin line */
+  margin-bottom: -5px; /* Adjust margin to remove the thin line */
 }
 </style>
