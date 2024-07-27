@@ -41,40 +41,30 @@
 
 <script>
 import { ref, watchEffect } from "vue";
-// import { ref, onMounted } from "vue";
 import { db } from "../firebase/config";
 import { onSnapshot, collection, orderBy } from "firebase/firestore";
-// import matter from "gray-matter";
-// import { Buffer } from "buffer";
 import TheSpinner from "./TheSpinner.vue";
 
 export default {
   name: "EpisodesList",
   components: { TheSpinner },
   setup() {
-    // const readyList = ref(null);
-    // const error = ref(null);
     const error = ref(null);
     const episodes = ref([]);
 
     try {
+      // Create a Firestore query that orders by the "index" field
       const q = collection(db, "episodes");
-      const unsub = onSnapshot(q, (snapshot) => {
+      const orderedQuery = orderBy("index");
+
+      const unsub = onSnapshot(q, orderedQuery, (snapshot) => {
         let results = [];
         snapshot.docs.forEach((doc) => {
           const post = doc.data();
           results.push({ ...post, slug: post.slug });
         });
 
-        // Sort the results by date
-        results.sort((a, b) => {
-          // Parse date strings into Date objects
-          const dateA = new Date(a.date);
-          const dateB = new Date(b.date);
-          // Compare dates
-          return dateB - dateA; // Sort in descending order
-        });
-
+        // Assign the sorted results to episodes
         episodes.value = results;
       });
 
@@ -85,38 +75,6 @@ export default {
       error.value = err.message;
       console.error(error.value);
     }
-
-    // const importAllMarkdown = async () => {
-    //   try {
-    //     // Use import.meta.glob to dynamically import all markdown files from the episodes folder
-    //     const episodeImports = import.meta.glob("../assets/episodes/*.md", {
-    //       eager: true,
-    //     });
-    //     const episodeContents = Object.values(episodeImports).map((mod) => mod.default);
-
-    //     // Extract titles and excerpts from the front matter of the Markdown files
-    //     episodeContents.forEach((content, index) => {
-    //       console.log(`Processing episode ${index + 1}`);
-    //       console.log(content);
-
-    //       const parsed = matter(Buffer.from(content));
-    //       console.log(parsed);
-
-    //       const title = parsed.data.title || "No title";
-    //       const excerpt = parsed.data.excerpt || "No excerpt";
-    //       const slug = parsed.data.slug || "No slug";
-    //       const image = parsed.data.image || "No image";
-    //       episodes.value.push({ title, excerpt, slug, image });
-    //     });
-    //   } catch (e) {
-    //     console.error(e);
-    //     error.value = "Failed to load episode titles";
-    //   }
-    // };
-
-    // onMounted(() => {
-    //   importAllMarkdown();
-    // });
 
     return {
       episodes,
