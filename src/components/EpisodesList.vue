@@ -42,7 +42,7 @@
 <script>
 import { ref, watchEffect } from "vue";
 import { db } from "../firebase/config";
-import { onSnapshot, collection, orderBy } from "firebase/firestore";
+import { onSnapshot, collection, query, orderBy } from "firebase/firestore";
 import TheSpinner from "./TheSpinner.vue";
 
 export default {
@@ -54,10 +54,9 @@ export default {
 
     try {
       // Create a Firestore query that orders by the "index" field
-      const q = collection(db, "episodes");
-      const orderedQuery = orderBy("index");
+      const q = query(collection(db, "episodes"), orderBy("index"));
 
-      const unsub = onSnapshot(q, orderedQuery, (snapshot) => {
+      const unsub = onSnapshot(q, (snapshot) => {
         let results = [];
         snapshot.docs.forEach((doc) => {
           const post = doc.data();
