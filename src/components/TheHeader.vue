@@ -26,7 +26,7 @@
           <a href="https://podcastindex.org/podcast/6933361" target="_blank">Subscribe</a>
         </li>
         <li class="nav__item">
-          <a href="https://oncetold.cloud" target="_blank">Oncetold</a>
+          <a href="https://oncetold.com" target="_blank">Oncetold</a>
         </li>
       </ul>
     </nav>

@@ -32,7 +32,11 @@
               <a href="https://wavlake.com" target="_blank">WavLake</a>
             </li>
             <li>
-              Hosting: <a href="https://oncetold.us" target="_blank">Oncetold</a>&nbsp;
+              Hosting: <a href="https://oncetold.com" target="_blank">Oncetold</a>&nbsp;<a
+                href="https://oncetold.cloud"
+                target="_blank"
+                >Oncetold Login</a
+              >
             </li>
             <li>
               Apps:
