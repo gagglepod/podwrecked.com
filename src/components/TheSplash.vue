@@ -101,10 +101,6 @@ export default {
 }
 
 @media screen and (min-width: 768px) {
-  .splash-summary__image {
-    justify-self: end;
-  }
-
   .splash-summary__image > img {
     width: 600px;
     height: 600px;
