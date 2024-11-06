@@ -52,9 +52,15 @@ export default {
     const error = ref(null);
     const episodes = ref([]);
 
+    const otSiteID = import.meta.env.VITE_SITE_ID;
+    console.log("otSiteID: ", otSiteID);
+
     try {
-      // Create a Firestore query that orders by the "index" field
-      const q = query(collection(db, "episodes"), orderBy("index"));
+      // Reference the episodes collection under the specific site document
+      const q = query(
+        collection(db, `sites/${otSiteID}/episodes`),
+        orderBy("index", "desc")
+      );
 
       const unsub = onSnapshot(q, (snapshot) => {
         let results = [];
@@ -76,6 +82,7 @@ export default {
     }
 
     return {
+      otSiteID,
       episodes,
       error,
     };

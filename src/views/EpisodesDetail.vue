@@ -59,7 +59,6 @@ import { ref, watchEffect } from "vue";
 import { db } from "../firebase/config";
 import { collection, query, where, getDocs } from "firebase/firestore";
 import { useRouter } from "vue-router";
-// import CloudRow from "../components/CloudRow.vue";
 import TheSpinner from "../components/TheSpinner.vue";
 import SineWave from "../components/SineWave.vue"; // Import SineWave component
 
@@ -76,20 +75,29 @@ export default {
     const isLoading = ref(true);
     const router = useRouter();
 
+    // Retrieve the site ID from environment variables
+    const otSiteID = import.meta.env.VITE_SITE_ID;
+
     watchEffect(async () => {
       try {
-        const q = query(collection(db, "episodes"), where("slug", "==", props.slug));
+        // Reference the episodes sub-collection for the specific site
+        const q = query(
+          collection(db, `sites/${otSiteID}/episodes`),
+          where("slug", "==", props.slug)
+        );
+
         const querySnapshot = await getDocs(q);
         querySnapshot.forEach((doc) => {
           episode.value = { ...doc.data(), id: doc.id };
         });
 
+        // If no episode is found, throw an error
         if (!episode.value) {
           throw new Error("Episode not found");
         }
       } catch (err) {
         error.value = err.message;
-        console.error(error.value);
+        console.error("Error fetching episode:", error.value);
       } finally {
         isLoading.value = false;
       }

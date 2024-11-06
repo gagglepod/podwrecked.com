@@ -14,6 +14,8 @@ import EpisodesDetail from "../views/EpisodesDetail.vue";
 
 import FinePrintView from "../views/FinePrintView.vue";
 
+import FiresaleView from "../views/FiresaleView.vue";
+
 const routes = [
   {
     path: "/",
@@ -50,6 +52,11 @@ const routes = [
     name: "EpisodesDetail",
     component: EpisodesDetail,
     props: true,
+  },
+  {
+    path: "/firesale",
+    name: "firesale",
+    component: FiresaleView,
   },
 ];
 
