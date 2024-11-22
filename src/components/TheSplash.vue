@@ -5,7 +5,7 @@
         <a href="https://podcastindex.org/podcast/6933361" target="_blank">
           <picture class="splash-summary__image">
             <img
-              src="../assets/images/flowgnar-v5-1400x1400.jpg"
+              src="../assets/images/flowgnar-v11-1400x1400.jpg"
               alt="Flowgnar Showart"
             />
           </picture>
