@@ -20,16 +20,18 @@
         <div class="footer__navigation">
           <ul class="list">
             <li>
-              Directories:
+              Subscribe:
+              <a href="https://podcastindex.org/podcast/6933361" target="_blank">RSS</a
+              >&nbsp;
               <a href="https://podcastindex.org/podcast/6933361" target="_blank"
                 >Podcast Index</a
               >&nbsp;
-              <a
-                href="https://lnbeats.com/album/2973941f-0d0e-5b33-8cee-a56647fb878d"
-                target="_blank"
-                >LN Beats</a
-              >&nbsp;
-              <a href="https://wavlake.com" target="_blank">WavLake</a>
+            </li>
+            <li>
+              Production:
+              <a href="/about">Cast & Crew</a>&nbsp;
+              <a href="/extras">Behind the Scenes</a>&nbsp;
+              <a href="/extras">Scripts</a>&nbsp;
             </li>
             <li>
               Hosting: <a href="https://oncetold.com" target="_blank">Oncetold</a>&nbsp;<a
@@ -46,10 +48,14 @@
             </li>
             <li>
               Guides:
-              <a href="/boosts">How to Boost</a>&nbsp;
-              <a href="https://value4value.info" target="_blank">V4V Lifestyle</a>
+              <a href="https://noteasilysquished" target="_blank">Not Easily Squished</a
+              >&nbsp;
+              <a
+                href="https://learn.fearofpublicshame.com/audio-fiction-101"
+                target="_blank"
+                >Audio Fiction 101</a
+              >
             </li>
-            <li>Admin: <a href="/fine-print">Fine Print</a></li>
           </ul>
         </div>
       </section>
