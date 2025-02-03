@@ -5,11 +5,17 @@
         <a href="https://podcastindex.org/podcast/6933361" target="_blank">
           <picture class="splash-summary__image">
             <img
-              src="../assets/images/flowgnar-v11-1400x1400.jpg"
-              alt="Flowgnar Showart"
+              src="../assets/images/danger-sold-separately-1400x1400.jpg"
+              alt="Danger Sold Separately Showart"
             />
           </picture>
         </a>
+        <h2>The strongest steel is forged in the fire of a dumpster!</h2>
+        <p class="hero-summary__text">
+          When a sinister coffee empire threatens society, a ragtag group of veterans
+          fights back in a high-octane, satirical action-comedy brimming with dark humor
+          and caffeine-fueled chaos.
+        </p>
         <a
           href="https://lnbeats.com/album/2973941f-0d0e-5b33-8cee-a56647fb878d"
           target="_blank"

@@ -2,27 +2,26 @@
   <section class="hero-block block--hero">
     <div class="container">
       <header class="hero-block__header">
-        <div class="hero__heading-img">
+        <!-- <div class="hero__heading-img">
           <img class="hero-logo" src="../assets/images/t-rex-drawing-big-v2.svg" />
-        </div>
-        <a class="hero__brand" href="/"
+        </div> -->
+        <!-- <a class="hero__brand" href="/"
           ><img
             class="hero-logo-text logo-primary"
             src="../assets/images/flowgnar-logo-text.svg"
             alt="Flowgnar Logo"
-        /></a>
-        <h2>Embrace the Flow, Chew the Gnar!</h2>
+        /></a> -->
+        <!-- <h2>The strongest steel is forged in the fire of a dumpster!</h2>
         <p class="hero-summary__text">
-          Flowgnarl, hosted by Kyle M. Bondo, is a music podcast featuring Valueverse
-          artists who grind the trail, flow over the drops, and climb the gnar. Each
-          episode turns your off-road workout into a personal adventure by turning curated
-          Value 4 Value playlists into pure endurance fuel.
-        </p>
+          When a sinister coffee empire threatens society, a ragtag group of veterans
+          fights back in a high-octane, satirical action-comedy brimming with dark humor
+          and caffeine-fueled chaos.
+        </p> -->
       </header>
     </div>
-    <div class="sine-wave-container">
+    <!-- <div class="sine-wave-container">
       <SineWaveHome />
-    </div>
+    </div> -->
   </section>
 </template>
 

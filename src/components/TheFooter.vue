@@ -5,11 +5,11 @@
       <div class="footer__brand">
         <img
           class="footer-logo-text logo-primary"
-          src="../assets/images/flowgnar-logo-footer.svg"
-          alt="Flowgnar Logo"
+          src="../assets/images/danger-sold-separately-title-500x158.png"
+          alt="Danger Sold Separately Logo"
         />
         <p class="footer__copyright">
-          Copyright &copy; {{ currentYear }}. Flowgnar and Oncetold.
+          Copyright &copy; {{ currentYear }}. Danger Sold Separately and Oncetold.
         </p>
         <p class="footer__version">Website Version: {{ otVersion }}</p>
         <!-- <p class="footer__footnote">ver{{ otVersion }}</p> -->

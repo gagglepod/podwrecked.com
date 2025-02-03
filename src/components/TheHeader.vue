@@ -4,24 +4,20 @@
       <svg class="icon icon--white nav__toggler" @click="toggleMenu">
         <use href="../assets/images/sprite.svg#menu"></use>
       </svg>
+      <a class="nav__brand" href="/" :class="{ 'hidden-mobile': isActive }">
+        <img
+          class="logo-text logo-primary"
+          src="../assets/images/danger-sold-separately-title-500x158.png"
+          alt="Danger Sold Separately Logo"
+        />
+      </a>
       <ul class="list nav__list collapsible__content">
         <li class="nav__item">
           <a href="/">Home</a>
         </li>
-        <li class="nav__item"><a href="/episodes">Episodes</a></li>
-        <li class="nav__item">
-          <a href="/boosts">How to Boost</a>
-        </li>
-      </ul>
-      <a class="nav__brand" href="/" :class="{ 'hidden-mobile': isActive }">
-        <img
-          class="logo-text logo-primary"
-          src="../assets/images/flowgnar-logo-header.svg"
-          alt="Flowgnar Logo"
-        />
-      </a>
-      <ul class="list nav__list collapsible__content">
         <li class="nav__item"><a href="/about">About</a></li>
+        <li class="nav__item"><a href="/episodes">Episodes</a></li>
+        <li class="nav__item"><a href="/extras">Extras</a></li>
         <li class="nav__item">
           <a href="https://podcastindex.org/podcast/6933361" target="_blank">Subscribe</a>
         </li>
