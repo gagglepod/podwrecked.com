@@ -136,12 +136,12 @@ export default {
 }
 
 .nav__item > a {
-  color: #d2d0db;
+  color: #f1d3ca;
   transition-property: color 0.3s;
 }
 
 .nav__item > a:hover {
-  color: #fff;
+  color: #cb171e;
 }
 
 .nav__toggler {

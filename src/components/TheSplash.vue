@@ -10,11 +10,13 @@
             />
           </picture>
         </a>
-        <h2>The strongest steel is forged in the fire of a dumpster!</h2>
-        <p class="hero-summary__text">
+        <h2>Danger Sold Separately</h2>
+        <h3 class="splash-summary__subhead">Season 01: Grounds for War</h3>
+        <p class="splash-summary__text">
           When a sinister coffee empire threatens society, a ragtag group of veterans
           fights back in a high-octane, satirical action-comedy brimming with dark humor
-          and caffeine-fueled chaos.
+          and caffeine-fueled chaos. If proves that the strongest steel is forged in the
+          fire of a dumpster!
         </p>
         <a
           href="https://lnbeats.com/album/2973941f-0d0e-5b33-8cee-a56647fb878d"
@@ -30,7 +32,7 @@
 
 <script>
 export default {
-  name: "TheFooter",
+  name: "TheSplash",
   components: {},
   props: [],
   setup() {
@@ -96,6 +98,16 @@ export default {
 
 .splash-logo--primary {
   fill: var(--color-headings);
+}
+
+.splash-summary__subhead {
+  font-size: 3.5rem;
+  font-weight: 400;
+  text-align: center;
+  color: var(--color-headings);
+  letter-spacing: 0.1rem;
+  margin-top: 0;
+  padding: 0 1rem 0 1rem;
 }
 
 .splash-summary__text {

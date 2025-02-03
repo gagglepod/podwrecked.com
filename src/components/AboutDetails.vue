@@ -4,17 +4,12 @@
       <!-- about-detail #1 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Howdy, Ya'll! 🤠☕</h2>
+          <h2 class="about-detail__heading">Danger Sold Separately</h2>
           <p class="about-detail__info">
-            Welcome to Flowgnar! I am your Summer Time trail guide Kyle M. Bondo, coming
-            to you from The Valley of the Dinosaurs -- Glen Rose, Texas -- Yup! Where
-            Dinosaurs once roamed, I call home. And riding alongside me is my faithful
-            trail monster, Mr. Murphy. And together we are finding the best
-            <a href="https://Value4Value.info" target="_blank">Value-4-Value</a> garage
-            band sounds to be the soundtrack to your next great outdoor adventure.
-          </p>
-          <p class="about-detail__info">
-            <strong>Flowgnar has one goal Keep... You... Moving!</strong>
+            When a sinister coffee empire threatens society, a ragtag group of veterans
+            fights back in a high-octane, satirical action-comedy brimming with dark humor
+            and caffeine-fueled chaos. If proves that the strongest steel is forged in the
+            fire of a dumpster!
           </p>
         </div>
       </article>
@@ -22,15 +17,45 @@
       <!-- about-detail #2 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">About the Show</h2>
+          <h2 class="about-detail__heading">About Season 01</h2>
           <p class="about-detail__info">
-            Flowgnar, hosted by Kyle M. Bondo, is a music podcast for outdoor enthusiasts
-            who need a soundtrack for their next adventure. It features a curated playlist
-            of Valueverse artists that turn garage band-like beats into pure endurance
-            fuel.
+            In Season 01: <em>GROUNDS FOR WAR</em>, the battle between the rogue baristas,
+            led by Moose and Kittyhawk, and the corporate giant Bizzlebean intensifies as
+            they fight for survival, revenge, and the secret recipe for the “Four
+            Horsemen” blend. After their coffee shop is destroyed in a bomb attack, the
+            team embarks on a series of high-risk missions, including infiltrating
+            Bizzlebean’s labs, rescuing allies, and uncovering the company’s sinister
+            plans.
           </p>
           <p class="about-detail__info">
-            <strong>Embrace the flow while you chew the gnar!</strong>
+            Along the way, they face betrayals, strange conspiracies, and increasingly
+            dangerous threats, from mind-controlled baristas to malfunctioning combat
+            robots. They recruit new allies like Bermuda and Spoon, all while uncovering
+            dark secrets about Bizzlebean's global ambitions. As the team grows stronger
+            and more determined, they face off against increasingly ruthless enemies,
+            including the unpredictable Brutus, whose war on the Joes escalates. Each
+            mission brings them closer to discovering the truth behind Bizzlebean’s "Fifth
+            Horseman" project, setting the stage for an epic showdown.
+          </p>
+          <p class="about-detail__info">
+            Amidst the chaos, the absurdity of their situation reaches new heights,
+            blending outrageous action with dark comedy as they continue their fight
+            against the corporate behemoth. With danger around every corner, the stakes
+            are higher than ever, and the Joes must push forward, no matter the cost.
+          </p>
+        </div>
+      </article>
+
+      <!-- about-detail #3 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h2 class="about-detail__heading">About the Production</h2>
+          <p class="about-detail__info">
+            Danger Sold Separately is a a comedy audio drama podcast, written and directed
+            by Kyle M. Bondo, and produced by Oncetold. Season 01 "GROUNDS FOR WAR" has 52
+            chapters/episodes divided into 10 parts. Each part has 5 chapters/episodes
+            with the last part containing 2 extra chapters in a two-part epilogue.
+            chapters.
           </p>
         </div>
       </article>
@@ -38,86 +63,14 @@
       <!-- about-detail #4 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Where does this music come from?</h2>
-          <p class="about-detail__info">
-            Flowgnar is a
-            <a href="https://Value4Value.info" target="_blank">Value-4-Value-enabled</a>
-            podcast bringing you my curated playlist of independent, online artists to
-            join you on your next adventure. These artists all have one thing in common:
-            they have connected their music to a Lightning Wallet! This allows you to both
-            enjoy their work and, if you found value in that work, tell them by sending
-            them value in the form of Satoishis (SATS - factions of a Bitcoin). This is
-            the new way to enjoy music!
-          </p>
-          <p class="about-detail__info">
-            <a href="https://Value4Value.info" target="_blank">Value-4-Value</a>
-            music podcasts are still podcasts. They have all the same elements of a
-            podcast and you can even find the artists they feature on directories like
-            <a href="https://podcastindex.org" target="_blank">Podcast Index</a>.
-            Fortunately, new
-            <a href="https://Value4Value.info" target="_blank">V4V</a> music directories
-            like <a href="https://lnbeats.com" target="_blank">LN Beats</a> and
-            <a href="https://wavlake.com" target="_blank">WavLake</a> have popped up to
-            help you discover these artists.
-          </p>
-        </div>
-      </article>
-
-      <!-- about-detail #5 -->
-      <article class="about-detail">
-        <div class="about-detail__content">
-          <h2 class="about-detail__heading">How to Listen</h2>
-          <p class="about-detail__info">
-            Flowgnar is a
-            <a href="https://Value4Value.info" target="_blank">Value-4-Value-enabled</a>
-            podcast bringing you my curated playlist of independent, online artists to
-            join you on your next adventure. These artists all have one thing in common:
-            they have connected their music to a Lightning Wallet! This allows you to both
-            enjoy their work and, if you found value in that work, tell them by sending
-            them value in the form of Satoishis (SATS - factions of a Bitcoin). This is
-            the new way to enjoy music!
-          </p>
-          <p class="about-detail__info">
-            No middlemen, no contracts, no big studios. Just you telling the artist --
-            <a href="/boosts">directly via boosts</a> -- how much you enjoyed their work.
-          </p>
-          <p class="about-detail__info">
-            <strong>All I do is arrange the meeting!</strong>
-          </p>
-        </div>
-      </article>
-
-      <!-- about-detail #6 -->
-      <article class="about-detail">
-        <div class="about-detail__content">
           <h2 class="about-detail__heading">Reach Out</h2>
           <p class="about-detail__info">
-            Each episode of Flowgnar is a curated playlist that I would like to hear while
-            I'm out on a mountain bike ride. That being said, I would love to hear what
-            you would like to hear on the show. If you have a song recommendation please
-            reach out to me
-            <a href="https://getalby.com/p/oncetold" target="_blank">with a Boost</a> or
-            <a href="mailto:grandpianowarfare@gmail.com" target="_blank"
-              >send me an email!</a
-            >
+            Each episode of Danger Sold Separately was produced by Oncetold in Fort Worth,
+            Texas, and are always interested in what you liked about the show. If you have
+            constructive feedback, ideas for future episodes, or just want to tell us how
+            we did, please
+            <a href="mailto:oncetold.cloud@gmail.com" target="_blank">drop us a line!</a>
           </p>
-        </div>
-      </article>
-
-      <!-- about-detail #7 -->
-      <article class="about-detail">
-        <div class="about-detail__content">
-          <h2 class="about-detail__heading">Boost Me</h2>
-          <p class="about-detail__info">
-            If you want to Boost Flowgnar using your modern podcasting app or wallet, you
-            can do that with this QR Code to my
-            <a href="https://getalby.com/p/oncetold" target="_blank"
-              >Oncetold Lightning Address on GetAlby.com</a
-            >:
-          </p>
-        </div>
-        <div class="about__heading-img">
-          <img class="about-logo" src="../assets/images/oncetold-alby-qr-code.svg" />
         </div>
       </article>
     </div>

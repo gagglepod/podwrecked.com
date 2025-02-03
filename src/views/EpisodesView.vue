@@ -1,23 +1,23 @@
 <template>
-  <EpisodesHero />
+  <!-- <EpisodesHero /> -->
   <EpisodesList />
   <TheSpacer />
-  <TheBottom />
+  <!-- <TheBottom /> -->
 </template>
 
 <script>
-import EpisodesHero from "../components/EpisodesHero.vue";
+// import EpisodesHero from "../components/EpisodesHero.vue";
 import EpisodesList from "../components/EpisodesList.vue";
 import TheSpacer from "../components/TheSpacer.vue";
-import TheBottom from "../components/TheBottom.vue";
+// import TheBottom from "../components/TheBottom.vue";
 
 export default {
   name: "EpisodesView",
   components: {
-    EpisodesHero,
+    // EpisodesHero,
     EpisodesList,
     TheSpacer,
-    TheBottom,
+    // TheBottom,
   },
 };
 </script>

@@ -6,7 +6,7 @@ import SitePageNotFound from "../views/SitePageNotFound.vue";
 
 import HomeView from "../views/HomeView.vue";
 import AboutView from "../views/AboutView.vue";
-import BoostView from "../views/BoostView.vue";
+import ExtrasView from "../views/ExtrasView.vue";
 
 // import EpisodesView from "../views/EpisodesView.vue";
 import EpisodesView from "../views/EpisodesView.vue";
@@ -33,9 +33,9 @@ const routes = [
     component: AboutView,
   },
   {
-    path: "/boosts",
-    name: "boosts",
-    component: BoostView,
+    path: "/extras",
+    name: "extras",
+    component: ExtrasView,
   },
   {
     path: "/fine-print",
