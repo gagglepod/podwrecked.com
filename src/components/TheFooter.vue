@@ -48,7 +48,8 @@
             </li>
             <li>
               Guides:
-              <a href="https://noteasilysquished" target="_blank">Not Easily Squished</a
+              <a href="https://noteasilysquished.com/" target="_blank"
+                >Not Easily Squished</a
               >&nbsp;
               <a
                 href="https://learn.fearofpublicshame.com/audio-fiction-101"
