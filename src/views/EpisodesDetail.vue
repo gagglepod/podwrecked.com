@@ -6,7 +6,7 @@
   </div>
 
   <div v-if="episode">
-    <section
+    <!-- <section
       class="episode-details-block block--episode-details"
       v-if="episode && episode.image"
       :style="{
@@ -15,8 +15,9 @@
           episode.image +
           '\')',
       }"
-    >
-      <SineWave />
+    > -->
+    <section class="episode-details-block block--episode-details">
+      <!-- <SineWave /> -->
       <div class="container">
         <header class="episode-details-block__header">
           <p class="episode-details__tags">
@@ -120,7 +121,7 @@ export default {
   flex-direction: column;
   /* padding: 3rem 0 5rem; */
   padding: 5rem 0; /* Increase padding for more height */
-  min-height: 100vh; /* Ensure minimum height */
+  min-height: 25vh; /* Ensure minimum height */
 }
 
 /* Ensure that .block--episode-details has position relative */
@@ -185,7 +186,7 @@ export default {
 } */
 
 .episode-details__heading {
-  margin-top: 40rem;
+  margin-top: 1rem;
 }
 
 .episode-details__shortline {
