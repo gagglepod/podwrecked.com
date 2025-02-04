@@ -133,6 +133,7 @@ export default {
   background-size: cover;
   text-align: center;
   position: relative; /* Ensure relative positioning */
+  border-bottom: 3px solid var(--color-dino-skin);
 }
 
 .episode-details-container {
