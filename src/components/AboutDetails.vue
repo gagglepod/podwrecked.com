@@ -4,12 +4,15 @@
       <!-- about-detail #1 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Danger Sold Separately</h2>
+          <h2 class="about-detail__heading">About the Show</h2>
           <p class="about-detail__info">
-            When a sinister coffee empire threatens society, a ragtag group of veterans
-            fights back in a high-octane, satirical action-comedy brimming with dark humor
-            and caffeine-fueled chaos. If proves that the strongest steel is forged in the
-            fire of a dumpster!
+            Podcasting starts with an idea: an idea that is not easily squished! However,
+            long before their creators ever sit down at the microphone, a podcast idea
+            needs to be hardened, tested and found worthy. This goes beyond just content
+            creation and delivery. It requires real thought and structure to design a
+            podcast that will survive long enough to find an audience. Follow your host
+            Kyle M. Bondo as he takes fragile podcast ideas and transforms them into
+            fierce audio concepts that are Not Easily Squished!
           </p>
         </div>
       </article>
@@ -17,31 +20,12 @@
       <!-- about-detail #2 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">About Season 01</h2>
+          <h2 class="about-detail__heading">About the Host</h2>
           <p class="about-detail__info">
-            In Season 01: <em>GROUNDS FOR WAR</em>, the battle between the rogue baristas,
-            led by Moose and Kittyhawk, and the corporate giant Bizzlebean intensifies as
-            they fight for survival, revenge, and the secret recipe for the “Four
-            Horsemen” blend. After their coffee shop is destroyed in a bomb attack, the
-            team embarks on a series of high-risk missions, including infiltrating
-            Bizzlebean’s labs, rescuing allies, and uncovering the company’s sinister
-            plans.
-          </p>
-          <p class="about-detail__info">
-            Along the way, they face betrayals, strange conspiracies, and increasingly
-            dangerous threats, from mind-controlled baristas to malfunctioning combat
-            robots. They recruit new allies like Bermuda and Spoon, all while uncovering
-            dark secrets about Bizzlebean's global ambitions. As the team grows stronger
-            and more determined, they face off against increasingly ruthless enemies,
-            including the unpredictable Brutus, whose war on the Joes escalates. Each
-            mission brings them closer to discovering the truth behind Bizzlebean’s "Fifth
-            Horseman" project, setting the stage for an epic showdown.
-          </p>
-          <p class="about-detail__info">
-            Amidst the chaos, the absurdity of their situation reaches new heights,
-            blending outrageous action with dark comedy as they continue their fight
-            against the corporate behemoth. With danger around every corner, the stakes
-            are higher than ever, and the Joes must push forward, no matter the cost.
+            Kyle M. Bondo: Chief Creative and Founder of Oncetold, a podcast education and
+            technology company dedicated to simplifying the complicated world of audio
+            creation. He has been creating both audio and visual user experiences for over
+            20 years in hopes of making a small dent in the podcast universe.
           </p>
         </div>
       </article>
@@ -49,13 +33,12 @@
       <!-- about-detail #3 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">About the Production</h2>
+          <h2 class="about-detail__heading">Theme Music</h2>
           <p class="about-detail__info">
-            Danger Sold Separately is a a comedy audio drama podcast, written and directed
-            by Kyle M. Bondo, and produced by Oncetold. Season 01 "GROUNDS FOR WAR" has 52
-            chapters/episodes divided into 10 parts. Each part has 5 chapters/episodes
-            with the last part containing 2 extra chapters in a two-part epilogue.
-            chapters.
+            What Are You Waiting For by NoiseWorld: A motivational rock song by Australian
+            artist NoiseWorld, about getting pumped up and taking action. Its classic rock
+            feel makes it fun and full of power, while the lyrics inspire the listener
+            that maybe it's time to start a podcast!
           </p>
         </div>
       </article>

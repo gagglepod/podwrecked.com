@@ -2,25 +2,26 @@
   <section class="splash-block splash-block--dark">
     <div class="container">
       <header class="splash-summary__header">
-        <a href="https://podcastindex.org/podcast/6933361" target="_blank">
+        <a href="https://podcastindex.org/podcast/6014487" target="_blank">
           <picture class="splash-summary__image">
             <img
-              src="../assets/images/danger-sold-separately-1400x1400.jpg"
-              alt="Danger Sold Separately Showart"
+              src="../assets/images/nes-v4-1400x1400.jpg"
+              alt="Not Easily Squished Showart"
             />
           </picture>
         </a>
-        <h2>Danger Sold Separately</h2>
-        <h3 class="splash-summary__subhead">Season 01: Grounds for War</h3>
+        <h2>Not Easily Squished</h2>
+        <h3 class="splash-summary__subhead">Podcasting starts with an idea...</h3>
         <p class="splash-summary__text">
-          When a sinister coffee empire threatens society, a ragtag group of veterans
-          fights back in a high-octane, satirical action-comedy brimming with dark humor
-          and caffeine-fueled chaos. If proves that the strongest steel is forged in the
-          fire of a dumpster!
+          An idea that is not easily squished! However, long before their creators ever
+          sit down at the microphone, a podcast idea needs to be hardened, tested and
+          found worthy. This goes beyond just content creation and delivery. It requires
+          real thought and structure to design a podcast that will survive long enough to
+          find an audience. Follow your host Kyle M. Bondo as he takes fragile podcast
+          ideas and transforms them into fierce audio concepts that are Not Easily
+          Squished!
         </p>
-        <a
-          href="https://lnbeats.com/album/2973941f-0d0e-5b33-8cee-a56647fb878d"
-          target="_blank"
+        <a href="https://podcastindex.org/podcast/6014487" target="_blank"
           ><button class="btn btn--dino-skin btn--stretched">
             Listen to the Show
           </button></a

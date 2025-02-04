@@ -5,11 +5,11 @@
       <div class="footer__brand">
         <img
           class="footer-logo-text logo-primary"
-          src="../assets/images/danger-sold-separately-title-500x158.png"
-          alt="Danger Sold Separately Logo"
+          src="../assets/images/not-easily-squished-title-500x200-v3.png"
+          alt="Not Easily Squished Logo"
         />
         <p class="footer__copyright">
-          Copyright &copy; {{ currentYear }}. Danger Sold Separately and Oncetold.
+          Copyright &copy; {{ currentYear }}. Not Easily Squished and Oncetold.
         </p>
         <p class="footer__version">Website Version: {{ otVersion }}</p>
         <!-- <p class="footer__footnote">ver{{ otVersion }}</p> -->
@@ -21,17 +21,19 @@
           <ul class="list">
             <li>
               Subscribe:
-              <a href="https://podcastindex.org/podcast/6933361" target="_blank">RSS</a
+              <a
+                href="https://storage.googleapis.com/feeds.oncetold.net/80000018.rss"
+                target="_blank"
+                >RSS</a
               >&nbsp;
-              <a href="https://podcastindex.org/podcast/6933361" target="_blank"
+              <a href="https://podcastindex.org/podcast/6014487" target="_blank"
                 >Podcast Index</a
               >&nbsp;
             </li>
             <li>
               Production:
-              <a href="/about">Cast & Crew</a>&nbsp;
+              <a href="/about">Host</a>&nbsp;
               <a href="/extras">Behind the Scenes</a>&nbsp;
-              <a href="/extras">Scripts</a>&nbsp;
             </li>
             <li>
               Hosting: <a href="https://oncetold.com" target="_blank">Oncetold</a>&nbsp;<a
@@ -45,17 +47,6 @@
               <a href="https://podcastguru.io" target="_blank">PodcastGuru</a>&nbsp;
               <a href="https://truefans.fm" target="_blank">TrueFans</a>&nbsp;
               <a href="https://podverse.fm" target="_blank">Podverse</a>
-            </li>
-            <li>
-              Guides:
-              <a href="https://noteasilysquished.com/" target="_blank"
-                >Not Easily Squished</a
-              >&nbsp;
-              <a
-                href="https://learn.fearofpublicshame.com/audio-fiction-101"
-                target="_blank"
-                >Audio Fiction 101</a
-              >
             </li>
           </ul>
         </div>

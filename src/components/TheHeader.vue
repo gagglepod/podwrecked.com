@@ -7,8 +7,8 @@
       <a class="nav__brand" href="/" :class="{ 'hidden-mobile': isActive }">
         <img
           class="logo-text logo-primary"
-          src="../assets/images/danger-sold-separately-title-500x158.png"
-          alt="Danger Sold Separately Logo"
+          src="../assets/images/not-easily-squished-title-500x200-v3.png"
+          alt="Not Easily Squished Logo"
         />
       </a>
       <ul class="list nav__list collapsible__content">
@@ -19,7 +19,7 @@
         <li class="nav__item"><a href="/episodes">Episodes</a></li>
         <li class="nav__item"><a href="/extras">Extras</a></li>
         <li class="nav__item">
-          <a href="https://podcastindex.org/podcast/6933361" target="_blank">Subscribe</a>
+          <a href="https://podcastindex.org/podcast/6014487" target="_blank">Subscribe</a>
         </li>
         <li class="nav__item">
           <a href="https://oncetold.com" target="_blank">Oncetold</a>
@@ -131,17 +131,17 @@ export default {
 .nav__item {
   padding: 0.5rem 2rem;
   border-bottom: 1px solid #222;
-  font-size: 1.8rem;
+  font-size: 2rem;
   text-transform: uppercase;
 }
 
 .nav__item > a {
-  color: #f1d3ca;
+  color: #fffff0;
   transition-property: color 0.3s;
 }
 
 .nav__item > a:hover {
-  color: #cb171e;
+  color: #bf6c5e;
 }
 
 .nav__toggler {
