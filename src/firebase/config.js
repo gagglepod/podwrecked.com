@@ -5,12 +5,12 @@ import { getFirestore, serverTimestamp } from "firebase/firestore";
 // import { getFunctions } from "firebase/functions";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDm3AcLdIuH0YmdfZJRuv6hnWw4CcdCBQs",
+  apiKey: "AIzaSyBpf3kYxjvic_pft8G-xb200l4D71Qxgf8",
   authDomain: "oncetold-company-sites.firebaseapp.com",
   projectId: "oncetold-company-sites",
-  storageBucket: "oncetold-company-sites.appspot.com",
+  storageBucket: "oncetold-company-sites.firebasestorage.app",
   messagingSenderId: "463285512681",
-  appId: "1:463285512681:web:e8ebc7060d639c349c0378",
+  appId: "1:463285512681:web:f238cf726b1e639a9c0378",
 };
 
 // init firebase

@@ -22,10 +22,12 @@
         <div class="about-detail__content">
           <h2 class="about-detail__heading">About the Host</h2>
           <p class="about-detail__info">
-            Kyle M. Bondo: Chief Creative and Founder of Oncetold, a podcast education and
-            technology company dedicated to simplifying the complicated world of audio
-            creation. He has been creating both audio and visual user experiences for over
-            20 years in hopes of making a small dent in the podcast universe.
+            Kyle M. Bondo is the Chief Creative and Founder of
+            <a href="https://oncetold.com" target="_blank">Oncetold</a>, a podcast
+            education and technology company dedicated to simplifying the complicated
+            world of podcasting. He loves "thinking bleep up" to solve problems and has
+            been creating both audio and visual ideas for over 20 years in hopes of making
+            a small dent in the podcast universe.
           </p>
         </div>
       </article>
@@ -33,12 +35,19 @@
       <!-- about-detail #3 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Theme Music</h2>
+          <h2 class="about-detail__heading">About the Theme Music</h2>
           <p class="about-detail__info">
-            What Are You Waiting For by NoiseWorld: A motivational rock song by Australian
-            artist NoiseWorld, about getting pumped up and taking action. Its classic rock
-            feel makes it fun and full of power, while the lyrics inspire the listener
-            that maybe it's time to start a podcast!
+            <a
+              href="https://audiojungle.net/item/what-are-you-waiting-for/15993045"
+              target="_blank"
+              >What Are You Waiting For by NoiseWorld
+            </a>
+            is a motivational rock song by Australian artist
+            <a href="https://audiojungle.net/user/noiseworld" target="_blank"
+              ><em>NoiseWorld</em></a
+            >, about getting pumped up and taking action. It's classic rock feel makes it
+            fun and full of power, while the lyrics inspire the listener that maybe it's
+            time to start a podcast!
           </p>
         </div>
       </article>
@@ -48,10 +57,11 @@
         <div class="about-detail__content">
           <h2 class="about-detail__heading">Reach Out</h2>
           <p class="about-detail__info">
-            Each episode of Danger Sold Separately was produced by Oncetold in Fort Worth,
-            Texas, and are always interested in what you liked about the show. If you have
-            constructive feedback, ideas for future episodes, or just want to tell us how
-            we did, please
+            Each episode of Not Easily Squished is produced by
+            <a href="https://oncetold.com" target="_blank">Oncetold</a> in Fort Worth,
+            Texas. We are always interested in your feedback! If you have constructive
+            feedback, ideas for future episodes, or just want to tell us how we did,
+            please
             <a href="mailto:oncetold.cloud@gmail.com" target="_blank">drop us a line!</a>
           </p>
         </div>
