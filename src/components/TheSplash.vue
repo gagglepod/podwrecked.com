@@ -5,7 +5,7 @@
         <a href="https://podcastindex.org/podcast/6014487" target="_blank">
           <picture class="splash-summary__image">
             <img
-              src="../assets/images/nes-v4-1400x1400.jpg"
+              src="../assets/images/nes-v5-1400x1400.jpg"
               alt="Not Easily Squished Showart"
             />
           </picture>
