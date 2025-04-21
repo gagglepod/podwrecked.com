@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&display=swap');
 
 /* ******************************************************************* */
 /* Breakpoints */
@@ -34,17 +35,17 @@
 
 :root {
   --color-primary: #5eb1bf;
-  --color-primary-alt: #1e555e;
+  --color-primary-alt: #232F3E;
 
   --color-secondary: #bf6c5e;
   --color-tertiary: #006a77;
 
-  --color-background: #2e7a85;
+  --color-background: #486282;
   --color-dino-sky: #385266;
 
   --color-dino-ride: #1f282c;
   --color-bottom: #332F30;
-  --color-footer: #2e7a85;
+  --color-footer: #486282;
 
   --color-dino-skin: #CB171E;
   --color-dino-flow: #BF6C5E;

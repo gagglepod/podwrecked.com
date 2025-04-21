@@ -14,7 +14,8 @@ import EpisodesDetail from "../views/EpisodesDetail.vue";
 
 import FinePrintView from "../views/FinePrintView.vue";
 
-import FiresaleView from "../views/FiresaleView.vue";
+// import FiresaleView from "../views/FiresaleView.vue";
+// import ChainGunView from "../views/ChainGunView.vue";
 
 const routes = [
   {
@@ -53,11 +54,16 @@ const routes = [
     component: EpisodesDetail,
     props: true,
   },
-  {
-    path: "/firesale",
-    name: "firesale",
-    component: FiresaleView,
-  },
+  // {
+  //   path: "/firesale",
+  //   name: "firesale",
+  //   component: FiresaleView,
+  // },
+  // {
+  //   path: "/chaingun",
+  //   name: "chaingun",
+  //   component: ChainGunView,
+  // },
 ];
 
 const router = createRouter({

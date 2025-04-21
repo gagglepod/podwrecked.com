@@ -10,7 +10,7 @@
             />
           </picture>
         </a>
-        <h2>Not Easily Squished</h2>
+        <h2 class="splash-summary__heading">Not Easily Squished</h2>
         <h3 class="splash-summary__subhead">Podcasting starts with an idea...</h3>
         <p class="splash-summary__text">
           An idea that is not easily squished! However, long before their creators ever
@@ -67,6 +67,23 @@ export default {
 .splash-block--dark h2,
 .splash-block--dark h3 {
   color: var(--color-headings);
+}
+
+h2.splash-summary__heading {
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  margin: 1rem 0;
+}
+
+.splash-summary__heading a {
+  color: var(--color-placeholder);
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.splash-summary__heading a:hover {
+  color: var(--color-secondary);
+  text-decoration: underline;
 }
 
 .splash-summary__image {

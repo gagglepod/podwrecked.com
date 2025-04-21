@@ -41,6 +41,20 @@
     <section class="episode-details-blob-block">
       <div class="episode-details-container">
         <!-- Adjusted container -->
+        <h2 class="episode-details__subheading">
+          Ep.{{ episode.index }}: {{ episode.title }}
+        </h2>
+        <article class="episode-details-blob">
+          <audio
+            class="splash-player"
+            id="player"
+            controls
+            type="audio/mpeg"
+            :src="episode.audioFile"
+          >
+            Your browser does not support the audio element.
+          </audio>
+        </article>
         <!-- blog-post #1 -->
         <article class="episode-details-blob">
           <div class="episode-details-blob__content">
@@ -208,8 +222,23 @@ export default {
   padding: 0;
 }
 
+h2.episode-details__subheading {
+  text-align: center;
+  margin: 0; /* Remove margin */
+  padding-top: 2rem;
+}
+
 p.episode-details__content {
   margin: 1.6rem 0;
+}
+
+.splash-player {
+  max-width: 100%;
+  /* margin: 1rem 4rem; */
+}
+
+#player {
+  width: 100%;
 }
 
 @media screen and (max-width: 768px) {
@@ -235,6 +264,11 @@ p.episode-details__content {
 
   .episode-details-blob__body {
     margin: 0 1rem; /* Adjust horizontal margin */
+  }
+
+  .splash-player {
+    max-width: 100%;
+    margin: 1rem 0rem;
   }
 }
 
