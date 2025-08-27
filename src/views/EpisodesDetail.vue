@@ -24,7 +24,7 @@
               {{ tag }}
             </span>
           </p>
-          <a href="https://podcastindex.org/podcast/6813508" target="_blank">
+          <a href="https://podcastindex.org/podcast/6014487" target="_blank">
             <picture class="episode-details__image">
               <img :src="getImageUrl(episode.thumb)" :alt="episode.title" />
             </picture>
@@ -47,7 +47,7 @@
               </audio>
               <h3 class="episode-details__follow">
                 <a href="https://pod.link/1504157398" target="_blank">Podlink</a>&nbsp;
-                <a href="https://podcastindex.org/podcast/6813508" target="_blank"
+                <a href="https://podcastindex.org/podcast/6014487" target="_blank"
                   >Podcast Index</a
                 >&nbsp;
                 <a

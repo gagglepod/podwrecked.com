@@ -40,7 +40,7 @@
         </audio>
         <h3 class="episode-details__follow">
           <a href="https://pod.link/1504157398" target="_blank">Pod.Link</a>&nbsp;
-          <a href="https://podcastindex.org/podcast/6813508" target="_blank"
+          <a href="https://podcastindex.org/podcast/6014487" target="_blank"
             >Podcast Index</a
           >&nbsp;
           <a
