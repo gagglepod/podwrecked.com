@@ -34,7 +34,7 @@
           id="player"
           controls
           type="audio/mpeg"
-          src="https://media.oncetold.net/80000018/20800032/nes001-i-am-not-easily-squished.mp3"
+          src="https://op3.dev/e/media.oncetold.net/80000018/20800032/nes001-i-am-not-easily-squished.mp3"
         >
           Your browser does not support the audio element.
         </audio>

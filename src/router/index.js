@@ -14,8 +14,8 @@ import FinePrintView from "../views/FinePrintView.vue";
 
 // import FirestoreRenamerView from "../views/FirestoreRenamerView.vue";
 // import FirestoreFixerView from "../views/FirestoreFixerView.vue";
-import RSSFeederView from "../views/RSSFeederView.vue";
-import RSSRefeederView from "../views/RSSRefeederView.vue";
+// import RSSFeederView from "../views/RSSFeederView.vue";
+// import RSSRefeederView from "../views/RSSRefeederView.vue";
 
 const routes = [
   {
@@ -64,16 +64,16 @@ const routes = [
   //   name: "firestore-fixer",
   //   component: FirestoreFixerView,
   // },
-  {
-    path: "/rssfeeder",
-    name: "rssfeeder",
-    component: RSSFeederView,
-  },
-  {
-    path: "/rssrefeeder",
-    name: "rssrefeeder",
-    component: RSSRefeederView,
-  },
+  // {
+  //   path: "/rssfeeder",
+  //   name: "rssfeeder",
+  //   component: RSSFeederView,
+  // },
+  // {
+  //   path: "/rssrefeeder",
+  //   name: "rssrefeeder",
+  //   component: RSSRefeederView,
+  // },
 ];
 
 const router = createRouter({
