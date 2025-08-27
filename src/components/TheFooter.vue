@@ -3,11 +3,13 @@
     <div class="container grid grid--1x2 footer__sections">
       <!-- Brand section -->
       <div class="footer__brand">
-        <img
-          class="footer-logo-text logo-primary"
-          src="../assets/images/not-easily-squished-title-500x200-v3.png"
-          alt="Not Easily Squished Logo"
-        />
+        <a class="nav__brand" href="/">
+          <img
+            class="footer-logo-text logo-primary"
+            src="../assets/images/not-easily-squished-title-500x200-v3.png"
+            alt="Not Easily Squished Logo"
+          />
+        </a>
         <p class="footer__copyright">
           Copyright &copy; {{ currentYear }}. Not Easily Squished and Oncetold.
         </p>
@@ -16,19 +18,27 @@
       </div>
 
       <!-- Navigation section -->
-      <section class="footer__section">
+      <!-- <section class="footer__section">
         <div class="footer__navigation">
           <ul class="list">
             <li>
               Subscribe:
-              <a
-                href="https://storage.googleapis.com/feeds.oncetold.net/80000018.rss"
-                target="_blank"
-                >RSS</a
-              >&nbsp;
-              <a href="https://podcastindex.org/podcast/6014487" target="_blank"
+              <a href="https://feeds.oncetold.net/80000018" target="_blank">RSS</a>&nbsp;
+              <a href="https://podcastindex.org/podcast/6813508" target="_blank"
                 >Podcast Index</a
               >&nbsp;
+              <a href="https://pod.link/1504157398" target="_blank">Pod.Link</a>&nbsp;
+              <a
+                href="https://music.amazon.com/podcasts/eb115cc0-4248-435f-88d7-842d9f34a4be/not-easily-squished"
+                target="_blank"
+                >Amazon</a
+              >
+              &nbsp;
+              <a
+                href="https://podcasts.apple.com/us/podcast/not-easily-squished/id1504157398"
+                target="_blank"
+                >Apple Podcasts</a
+              >
             </li>
             <li>
               Production:
@@ -47,6 +57,66 @@
               <a href="https://podcastguru.io" target="_blank">PodcastGuru</a>&nbsp;
               <a href="https://truefans.fm" target="_blank">TrueFans</a>&nbsp;
               <a href="https://podverse.fm" target="_blank">Podverse</a>
+            </li>
+          </ul>
+        </div>
+      </section> -->
+
+      <!-- Navigation section -->
+      <section class="footer__section">
+        <div class="footer__navigation">
+          <ul class="list">
+            <li>
+              Get Tougher:
+              <a href="https://podcastworthy.com/" target="_blank">Podcast Worthy</a
+              >&nbsp; <a href="https://oncetold.com/learn" target="_blank">Learn</a>&nbsp;
+              <a href="https://oncetold.com/book" target="_blank">Get the Book</a>
+            </li>
+            <li>
+              Subscribe:
+              <a href="https://feeds.oncetold.net/80000018" target="_blank">RSS</a>&nbsp;
+              <a href="https://pod.link/1504157398" target="_blank">Podlink</a>&nbsp;
+              <a href="https://podcastindex.org/podcast/6813508" target="_blank"
+                >Podcast Index</a
+              >&nbsp;
+              <a href="https://podverse.fm/podcast/Lm6edZGO2" target="_blank">Podverse</a
+              >&nbsp;
+            </li>
+            <li>
+              Listen:
+
+              <a href="https://truefans.fm/not-easily-squished" target="_blank"
+                >TrueFans</a
+              >&nbsp;
+              <a
+                href="https://podcasts.apple.com/us/podcast/not-easily-squished/id1504157398"
+                target="_blank"
+                >Apple Podcasts</a
+              >&nbsp;
+              <a
+                href="https://open.spotify.com/show/5Rn8QSP6mq5DfZICBN0dfx"
+                target="_blank"
+                >Spotify</a
+              >&nbsp;
+              <a
+                href="https://music.amazon.com/podcasts/eb115cc0-4248-435f-88d7-842d9f34a4be/not-easily-squished"
+                target="_blank"
+                >Amazon Music</a
+              >&nbsp;
+            </li>
+
+            <li>
+              Extras:
+              <a href="/about">About</a>&nbsp;
+              <a href="https://kylebondo.com/" target="_blank">Hire Me</a>&nbsp;
+              <a href="https://podwrecked.com/" target="_blank">Podwrecked</a>&nbsp;
+            </li>
+            <li>
+              Hosting: <a href="https://oncetold.com" target="_blank">Oncetold</a>&nbsp;
+              <a href="https://oncetold.cloud" target="_blank">Oncetold Login</a>&nbsp;
+              <a href="https://podnews.net/podcast/iq6f?1756315886" target="_blank"
+                >Stats</a
+              >
             </li>
           </ul>
         </div>

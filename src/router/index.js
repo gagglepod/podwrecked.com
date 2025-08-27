@@ -8,14 +8,14 @@ import HomeView from "../views/HomeView.vue";
 import AboutView from "../views/AboutView.vue";
 import ExtrasView from "../views/ExtrasView.vue";
 
-// import EpisodesView from "../views/EpisodesView.vue";
 import EpisodesView from "../views/EpisodesView.vue";
 import EpisodesDetail from "../views/EpisodesDetail.vue";
-
 import FinePrintView from "../views/FinePrintView.vue";
 
-// import FiresaleView from "../views/FiresaleView.vue";
-// import ChainGunView from "../views/ChainGunView.vue";
+// import FirestoreRenamerView from "../views/FirestoreRenamerView.vue";
+// import FirestoreFixerView from "../views/FirestoreFixerView.vue";
+// import RSSFeederView from "../views/RSSFeederView.vue";
+// import RSSRefeederView from "../views/RSSRefeederView.vue";
 
 const routes = [
   {
@@ -55,14 +55,24 @@ const routes = [
     props: true,
   },
   // {
-  //   path: "/firesale",
-  //   name: "firesale",
-  //   component: FiresaleView,
+  //   path: "/firestore-renamer",
+  //   name: "firestore-renamer",
+  //   component: FirestoreRenamerView,
   // },
   // {
-  //   path: "/chaingun",
-  //   name: "chaingun",
-  //   component: ChainGunView,
+  //   path: "/firestore-fixer",
+  //   name: "firestore-fixer",
+  //   component: FirestoreFixerView,
+  // },
+  // {
+  //   path: "/rssfeeder",
+  //   name: "rssfeeder",
+  //   component: RSSFeederView,
+  // },
+  // {
+  //   path: "/rssrefeeder",
+  //   name: "rssrefeeder",
+  //   component: RSSRefeederView,
   // },
 ];
 

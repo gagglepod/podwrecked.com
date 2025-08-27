@@ -11,22 +11,57 @@
           </picture>
         </a>
         <h2 class="splash-summary__heading">Not Easily Squished</h2>
-        <h3 class="splash-summary__subhead">Podcasting starts with an idea...</h3>
+        <h3 class="splash-summary__subhead">In Podcasting: It's Survive or Die!</h3>
         <p class="splash-summary__text">
-          An idea that is not easily squished! However, long before their creators ever
-          sit down at the microphone, a podcast idea needs to be hardened, tested and
-          found worthy. This goes beyond just content creation and delivery. It requires
-          real thought and structure to design a podcast that will survive long enough to
-          find an audience. Follow your host Kyle M. Bondo as he takes fragile podcast
-          ideas and transforms them into fierce audio concepts that are Not Easily
-          Squished!
+          Why do podcasts fail? Because they are all built on easily squished concepts
+          that lack vision, direction, and planning. If you want your podcast to survive,
+          it demands real thought and structure that only comes with applying design
+          principles that are proven to work. Go beyond content creation and delivery by
+          following your host, Kyle M. Bondo, as he teaches you how you take your fragile
+          podcast idea and transform it into fierce audio concept that is
+          <em>Not Easily Squished!</em><br />Presented by
+          <span class="splash-link"
+            ><a href="https://oncetold.com" target="_blank">Oncetold</a></span
+          >.
         </p>
-        <a href="https://podcastindex.org/podcast/6014487" target="_blank"
+      </header>
+      <article class="splash-summary__article">
+        <h3 class="splash-summary__subhead">
+          Listen to Ep.01 - I am Not Easily Squished
+        </h3>
+        <audio
+          class="splash-player"
+          id="player"
+          controls
+          type="audio/mpeg"
+          src="https://media.oncetold.net/80000018/20800032/nes001-i-am-not-easily-squished.mp3"
+        >
+          Your browser does not support the audio element.
+        </audio>
+        <h3 class="episode-details__follow">
+          <a href="https://pod.link/1504157398" target="_blank">Pod.Link</a>&nbsp;
+          <a href="https://podcastindex.org/podcast/6813508" target="_blank"
+            >Podcast Index</a
+          >&nbsp;
+          <a
+            href="https://music.amazon.com/podcasts/eb115cc0-4248-435f-88d7-842d9f34a4be/not-easily-squished"
+            target="_blank"
+            >Amazon</a
+          >&nbsp;
+          <a
+            href="https://podcasts.apple.com/us/podcast/not-easily-squished/id1504157398"
+            target="_blank"
+            >Apple Podcasts</a
+          >&nbsp;
+        </h3>
+      </article>
+      <article class="splash-summary__article">
+        <a href="https://pod.link/1504157398" target="_blank"
           ><button class="btn btn--dino-skin btn--stretched">
             Listen to the Show
           </button></a
         >
-      </header>
+      </article>
     </div>
   </section>
 </template>
@@ -69,23 +104,6 @@ export default {
   color: var(--color-headings);
 }
 
-h2.splash-summary__heading {
-  font-family: "Montserrat", sans-serif;
-  color: #fff;
-  margin: 1rem 0;
-}
-
-.splash-summary__heading a {
-  color: var(--color-placeholder);
-  transition: color 0.3s;
-  text-decoration: none;
-}
-
-.splash-summary__heading a:hover {
-  color: var(--color-secondary);
-  text-decoration: underline;
-}
-
 .splash-summary__image {
   display: flex;
   justify-content: center;
@@ -103,6 +121,31 @@ h2.splash-summary__heading {
 .splash-summary__header {
   text-align: center;
   margin-bottom: 5rem;
+}
+
+.splash-summary__article {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.splash-player {
+  max-width: 30rem;
+  /* margin: 1rem 4rem; */
+}
+
+.splash-link a {
+  color: var(--color-headings);
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.splash-link a:hover {
+  color: var(--color-placeholder);
+  text-decoration: underline;
+}
+
+#player {
+  width: 100%;
 }
 
 .dashboard__brand {
@@ -150,6 +193,11 @@ h2.splash-summary__heading {
     line-height: 3.2rem;
     margin-top: 1rem 0 1rem;
     padding: 0 8rem 0 8rem;
+  }
+
+  .splash-player {
+    max-width: 60rem;
+    margin: 1rem 4rem;
   }
 }
 </style>

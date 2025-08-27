@@ -6,61 +6,73 @@
   </div>
 
   <div v-if="episode">
-    <!-- <section
-      class="episode-details-block block--episode-details"
-      v-if="episode && episode.image"
-      :style="{
-        backgroundImage:
-          'linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url(\'/images/' +
-          episode.image +
-          '\')',
-      }"
-    > -->
-    <section class="episode-details-block block--episode-details">
-      <!-- <SineWave /> -->
-      <div class="container">
-        <header class="episode-details-block__header">
-          <p class="episode-details__tags">
-            <span
-              v-for="tag in episode.tags"
-              :key="tag"
-              class="episode-details-tag-pill"
-              >{{ tag }}</span
-            >
-          </p>
-          <h1 class="episode-details__heading">{{ episode.title }}</h1>
-          <h3 class="episode-details__shortline">{{ episode.excerpt }}</h3>
-          <p class="episode-details__author">By {{ episode.author }}</p>
-          <button class="btn btn--dino-skin btn--stretched" @click="router.back()">
-            Back to Episodes List
-          </button>
-        </header>
-      </div>
-    </section>
-
     <section class="episode-details-blob-block">
       <div class="episode-details-container">
         <!-- Adjusted container -->
-        <h2 class="episode-details__subheading">
-          Ep.{{ episode.index }}: {{ episode.title }}
-        </h2>
-        <article class="episode-details-blob">
-          <audio
-            class="splash-player"
-            id="player"
-            controls
-            type="audio/mpeg"
-            :src="episode.audioFile"
-          >
-            Your browser does not support the audio element.
-          </audio>
-        </article>
+        <!-- header with tags -->
+        <header class="episode-details-block__header">
+          <p class="episode-details__tags">
+            <!-- Only show season pill if this is a Serial podcast -->
+            <span
+              v-if="episode.epType === 'serial' && episode.season"
+              class="episode-details-tag-pill"
+            >
+              Season {{ episode.season }}
+            </span>
+
+            <span v-for="tag in episode.tags" :key="tag" class="episode-details-tag-pill">
+              {{ tag }}
+            </span>
+          </p>
+          <a href="https://podcastindex.org/podcast/6813508" target="_blank">
+            <picture class="episode-details__image">
+              <img :src="getImageUrl(episode.thumb)" :alt="episode.title" />
+            </picture>
+          </a>
+        </header>
         <!-- blog-post #1 -->
+
         <article class="episode-details-blob">
           <div class="episode-details-blob__content">
+            <h3 class="episode-details__listen">🎧 LISTEN NOW</h3>
+            <div class="episode-details-audio">
+              <audio
+                class="episode-details-player"
+                id="epPlayer"
+                controls
+                type="audio/mpeg"
+                :src="episode.media"
+              >
+                Your browser does not support the audio element.
+              </audio>
+              <h3 class="episode-details__follow">
+                <a href="https://pod.link/1504157398" target="_blank">Podlink</a>&nbsp;
+                <a href="https://podcastindex.org/podcast/6813508" target="_blank"
+                  >Podcast Index</a
+                >&nbsp;
+                <a
+                  href="https://music.amazon.com/podcasts/eb115cc0-4248-435f-88d7-842d9f34a4be/not-easily-squished"
+                  target="_blank"
+                  >Amazon</a
+                >&nbsp;
+                <a
+                  href="https://podcasts.apple.com/us/podcast/not-easily-squished/id1504157398"
+                  target="_blank"
+                  >Apple Podcasts</a
+                >&nbsp;
+              </h3>
+            </div>
+            <h2 class="episode-details__title">{{ episode.title }}</h2>
+            <!-- <p>{{ episode.body }}</p> -->
             <div class="episode-details-blob__body" v-html="episode.body"></div>
           </div>
         </article>
+
+        <footer class="episode-details-block__footer">
+          <button class="btn btn--dino-sky btn--stretched" @click="router.back()">
+            Back to Episodes List
+          </button>
+        </footer>
       </div>
     </section>
   </div>
@@ -75,12 +87,10 @@ import { db } from "../firebase/config";
 import { collection, query, where, getDocs } from "firebase/firestore";
 import { useRouter } from "vue-router";
 import TheSpinner from "../components/TheSpinner.vue";
-import SineWave from "../components/SineWave.vue"; // Import SineWave component
 
 export default {
   name: "EpisodesDetail",
   components: {
-    SineWave,
     TheSpinner,
   },
   props: ["slug"],
@@ -118,11 +128,17 @@ export default {
       }
     });
 
+    // Function to resolve the correct image path
+    const getImageUrl = (fileName) => {
+      return new URL(`../assets/images/${fileName}`, import.meta.url).href;
+    };
+
     return {
       episode,
       error,
       isLoading,
       router,
+      getImageUrl, // Ensure this function is returned so it can be used in the template
     };
   },
 };
@@ -151,7 +167,7 @@ export default {
 }
 
 .episode-details-container {
-  max-width: 720px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -172,22 +188,24 @@ export default {
 
 .episode-details__tags {
   margin: 1rem 0;
+  cursor: pointer;
 }
 
 .episode-details-tag-pill {
   display: inline-block;
   margin: 10px 10px 0 0;
-  color: var(--color-footer);
-  background: var(--color-light);
-  padding: 8px;
-  border-radius: 20px;
-  font-size: 14px;
-  min-width: 50px;
+  color: var(--color-headings);
+  background: var(--color-dino-sky);
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  font-size: 2rem;
+  min-width: 6rem;
+  font-weight: 600;
 }
 
 .episode-details-tag-pill:hover {
-  color: var(--color-placeholder);
-  background: var(--color-footer);
+  color: var(--color-headings);
+  background: var(--color-dino-skin);
 }
 
 .episode-details-block__header {
@@ -195,12 +213,17 @@ export default {
   margin: 0; /* Remove margin */
 }
 
-/* .episode-details-container {
-  max-width: 720px;
-  margin: 0 auto;
-} */
-
 .episode-details__heading {
+  margin-top: 1rem;
+}
+
+.episode-details__title {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.episode-details__extras {
+  /* text-align: center; */
   margin-top: 1rem;
 }
 
@@ -222,26 +245,119 @@ export default {
   padding: 0;
 }
 
-h2.episode-details__subheading {
+.episode-details__image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding: 1rem 0 0 0;
+}
+
+.episode-details__image > img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 2rem;
+}
+
+h3.episode-details__listen {
+  color: #fff;
   text-align: center;
-  margin: 0; /* Remove margin */
-  padding-top: 2rem;
+}
+
+.episode-details__listen a {
+  color: var(--color-headings);
+  transition: color 0.3s;
+  text-decoration: underline;
+}
+
+.episode-details__listen a:hover {
+  color: var(--color-placeholder);
+  text-decoration: none;
+}
+
+h3.episode-details__follow {
+  color: #fff;
+  text-align: center;
+}
+
+.episode-details__follow a {
+  color: var(--color-headings);
+  transition: color 0.3s;
+  text-decoration: underline;
+}
+
+.episode-details__follow a:hover {
+  color: var(--color-placeholder);
+  text-decoration: none;
 }
 
 p.episode-details__content {
   margin: 1.6rem 0;
 }
 
-.splash-player {
+.episode-details-blob {
+  padding: 0 2rem 2rem;
+}
+
+.episode-details-blob a {
+  color: var(--color-headings);
+  transition: color 0.3s;
+  text-decoration: underline;
+  font-size: 2.1rem;
+}
+
+.episode-details-blob a:hover {
+  color: var(--color-placeholder);
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.episode-details-blob__body {
+  font-size: 2.1rem;
+  line-height: 3.2rem;
+  margin: 0 2rem 0 2rem;
+}
+
+.episode-details-blob__body a {
+  color: var(--color-headings);
+  transition: color 0.3s;
+  text-decoration: underline;
+}
+
+.episode-details-blob__body a:hover {
+  color: var(--color-placeholder);
+  text-decoration: none;
+}
+
+.episode-details-audio {
+  width: 100%;
+  padding: 2rem 4rem 1rem;
+}
+
+.episode-details-player {
   max-width: 100%;
   /* margin: 1rem 4rem; */
 }
 
-#player {
+#epPlayer {
   width: 100%;
 }
 
-@media screen and (max-width: 768px) {
+.episode-details-block__footer {
+  text-align: center;
+  margin: 0 2rem 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  .episode-details__image > img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    /* margin-top: 1rem; */
+    border-radius: 2rem;
+  }
+
   .block--episode-details {
     background-position: top; /* Adjusted background positioning */
   }
@@ -262,34 +378,17 @@ p.episode-details__content {
     line-height: 3rem; /* Adjusted line height */
   }
 
+  .episode-details-blob {
+    margin: 0;
+  }
+
   .episode-details-blob__body {
     margin: 0 1rem; /* Adjust horizontal margin */
   }
 
-  .splash-player {
-    max-width: 100%;
-    margin: 1rem 0rem;
-  }
-}
-
-.episode-details-blob {
-  padding: 2rem 0 2rem;
-}
-
-.episode-details-blob__body {
-  font-size: 2.1rem;
-  line-height: 3.2rem;
-  margin: 0 2rem 0 2rem;
-}
-
-.episode-details-blob__body a {
-  color: var(--color-headings);
-  transition: color 0.3s;
-  text-decoration: underline;
-}
-
-.episode-details-blob__body a:hover {
-  color: var(--color-placeholder);
-  text-decoration: none;
+  /* .episode-details-player {
+    max-width: 60rem;
+    margin: 1rem 4rem;
+  } */
 }
 </style>

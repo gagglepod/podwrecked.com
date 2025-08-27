@@ -259,7 +259,7 @@ a {
 /* Buttons */
 
 .btn {
-  border-radius: 40px;
+  border-radius: 20px;
   border: 0;
   cursor: pointer;
   font-size: 1.8rem;
@@ -304,6 +304,15 @@ a {
 
 .btn--dino-skin:hover {
   background: var(--color-dino-flow);
+}
+
+.btn--dino-sky {
+  background: var(--color-dino-sky);
+  color: #fff;
+}
+
+.btn--dino-sky:hover {
+  background: var(--color-dino-skin);
 }
 
 .btn--accent {
