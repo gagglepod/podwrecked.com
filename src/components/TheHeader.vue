@@ -7,8 +7,8 @@
       <a class="nav__brand" href="/" :class="{ 'hidden-mobile': isActive }">
         <img
           class="logo-text logo-primary"
-          src="../assets/images/not-easily-squished-title-500x200-v3.png"
-          alt="Not Easily Squished Logo"
+          src="../assets/images/podwrecked-title-100x714.png"
+          alt="PODWRECKED Logo"
         />
       </a>
       <ul class="list nav__list collapsible__content">
@@ -19,7 +19,7 @@
         <li class="nav__item"><a href="/episodes">Episodes</a></li>
         <li class="nav__item"><a href="/extras">Extras</a></li>
         <li class="nav__item">
-          <a href="https://podcastindex.org/podcast/6014487" target="_blank">Subscribe</a>
+          <a href="https://pod.link/1441480507" target="_blank">Subscribe</a>
         </li>
         <li class="nav__item">
           <a href="https://oncetold.com/book" target="_blank">Oncetold</a>
@@ -59,7 +59,7 @@ export default {
 
 .logo-text {
   width: 300px;
-  padding-bottom: 0.25rem;
+  padding: 0.75rem 0 0.25rem 0;
 }
 
 .logo--primary {

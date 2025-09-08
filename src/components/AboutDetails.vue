@@ -6,13 +6,12 @@
         <div class="about-detail__content">
           <h2 class="about-detail__heading">About the Show</h2>
           <p class="about-detail__info">
-            Podcasting starts with an idea: an idea that is not easily squished! However,
-            long before their creators ever sit down at the microphone, a podcast idea
-            needs to be hardened, tested and found worthy. This goes beyond just content
-            creation and delivery. It requires real thought and structure to design a
-            podcast that will survive long enough to find an audience. Follow your host
-            Kyle M. Bondo as he takes fragile podcast ideas and transforms them into
-            fierce audio concepts that are Not Easily Squished!
+            Greetings! Welcome to Podwrecked! The podcast that helps you Survive Your
+            Show! Podwrecked is dedicated to helping you survive your podcast. We work
+            through all the challenges that podcasters struggle with and find creative
+            ways to move forward in your podcasting journey. Join your hosts Timothy Kimo
+            Brien and Kyle Bondo as they navigate the uncharted dangers of podcasting and
+            guide you to safer harbors. What you learn will save your podcast!
           </p>
         </div>
       </article>
@@ -20,7 +19,7 @@
       <!-- about-detail #2 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">About the Host</h2>
+          <h2 class="about-detail__heading">About the Hosts</h2>
           <p class="about-detail__info">
             Kyle M. Bondo is the Chief Creative and Founder of
             <a href="https://oncetold.com" target="_blank">Oncetold</a>, a podcast
@@ -29,40 +28,29 @@
             been creating both audio and visual ideas for over 20 years in hopes of making
             a small dent in the podcast universe.
           </p>
+          <p class="about-detail__info">
+            Timothy Kimo Brien is the host of
+            <a href="https://createartpodcast.com" target="_blank">Create Art Podcast</a>
+            and brings over 30 years of experience in the arts and education to help you
+            scratch that creative itch and encourage you to tame the inner critic and
+            create more than you consume. Timothy has self-published 4 books of poetry and
+            paints like a 4-year-old on crack. Always looking for new ways to exercise his
+            creativity, he wishes the same for you.
+          </p>
         </div>
       </article>
 
       <!-- about-detail #3 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">About the Theme Music</h2>
+          <h2 class="about-detail__heading">Support the Show</h2>
           <p class="about-detail__info">
-            <a
-              href="https://audiojungle.net/item/what-are-you-waiting-for/15993045"
-              target="_blank"
-              >What Are You Waiting For by NoiseWorld
-            </a>
-            is a motivational rock song by Australian artist
-            <a href="https://audiojungle.net/user/noiseworld" target="_blank"
-              ><em>NoiseWorld</em></a
-            >, about getting pumped up and taking action. It's classic rock feel makes it
-            fun and full of power, while the lyrics inspire the listener that maybe it's
-            time to start a podcast!
-          </p>
-        </div>
-      </article>
-
-      <!-- about-detail #4 -->
-      <article class="about-detail">
-        <div class="about-detail__content">
-          <h2 class="about-detail__heading">Reach Out</h2>
-          <p class="about-detail__info">
-            Each episode of Not Easily Squished is produced by
-            <a href="https://oncetold.com" target="_blank">Oncetold</a> in Fort Worth,
-            Texas. We are always interested in your feedback! If you have constructive
-            feedback, ideas for future episodes, or just want to tell us how we did,
-            please
-            <a href="mailto:oncetold.cloud@gmail.com" target="_blank">drop us a line!</a>
+            Every episode is a work of passion that requires a lot of coffee! We research,
+            read, record, mix, edit, and produce every episode ourselves and always
+            appreciate constructive feedback. If you get the chance, please send us a
+            quick note of encouragement to us. This keeps us going when times get tough!
+            This keeps me going when times get tough! And Thank you for taking the time to
+            listen. You are appreciated!
           </p>
         </div>
       </article>

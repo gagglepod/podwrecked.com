@@ -6,12 +6,12 @@
         <a class="nav__brand" href="/">
           <img
             class="footer-logo-text logo-primary"
-            src="../assets/images/not-easily-squished-title-500x200-v3.png"
-            alt="Not Easily Squished Logo"
+            src="../assets/images/podwrecked-title-100x714.png"
+            alt="PODWRECKED Logo"
           />
         </a>
         <p class="footer__copyright">
-          Copyright &copy; {{ currentYear }}. Not Easily Squished and Oncetold.
+          Copyright &copy; {{ currentYear }}. PODWRECKED and Oncetold.
         </p>
         <p class="footer__version">Website Version: {{ otVersion }}</p>
         <!-- <p class="footer__footnote">ver{{ otVersion }}</p> -->
@@ -74,49 +74,44 @@
             </li>
             <li>
               Subscribe:
-              <a href="https://feeds.oncetold.net/80000018" target="_blank">RSS</a>&nbsp;
-              <a href="https://pod.link/1504157398" target="_blank">Podlink</a>&nbsp;
-              <a href="https://podcastindex.org/podcast/6014487" target="_blank"
+              <a href="https://feeds.oncetold.net/80000029" target="_blank">RSS</a>&nbsp;
+              <a href="https://pod.link/1441480507" target="_blank">Podlink</a>&nbsp;
+              <a href="https://podcastindex.org/podcast/74900" target="_blank"
                 >Podcast Index</a
               >&nbsp;
-              <a href="https://podverse.fm/podcast/Lm6edZGO2" target="_blank">Podverse</a
+              <a href="https://podverse.fm/podcast/0PUbrP4erYU" target="_blank"
+                >Podverse</a
               >&nbsp;
             </li>
             <li>
               Listen:
 
-              <a href="https://truefans.fm/not-easily-squished" target="_blank"
-                >TrueFans</a
-              >&nbsp;
+              <a href="https://truefans.fm/podwrecked" target="_blank">TrueFans</a>&nbsp;
               <a
-                href="https://podcasts.apple.com/us/podcast/not-easily-squished/id1504157398"
+                href="https://podcasts.apple.com/us/podcast/podwrecked/id1441480507"
                 target="_blank"
                 >Apple Podcasts</a
               >&nbsp;
               <a
-                href="https://open.spotify.com/show/5Rn8QSP6mq5DfZICBN0dfx"
+                href="https://open.spotify.com/show/6VeboWkLgVdNiHaBvTcK0e"
                 target="_blank"
                 >Spotify</a
               >&nbsp;
-              <a
-                href="https://music.amazon.com/podcasts/eb115cc0-4248-435f-88d7-842d9f34a4be/not-easily-squished"
-                target="_blank"
-                >Amazon Music</a
-              >&nbsp;
+              <a href="https://a.co/d/2htIH88" target="_blank">Amazon Music</a>&nbsp;
             </li>
 
             <li>
               Extras:
               <a href="/about">About</a>&nbsp;
-              <a href="https://kylebondo.com/" target="_blank">Hire Me</a>&nbsp;
-              <a href="https://podwrecked.com/" target="_blank">Podwrecked</a>&nbsp;
+              <a href="https://kylebondo.com/" target="_blank">Get Help</a>&nbsp;
+              <a href="https://noteasilysquished.com/" target="_blank"
+                >Not Easily Squished</a
+              >&nbsp;
             </li>
             <li>
               Hosting: <a href="https://oncetold.com" target="_blank">Oncetold</a>&nbsp;
               <a href="https://oncetold.cloud" target="_blank">Oncetold Login</a>&nbsp;
-              <a href="https://podnews.net/podcast/iq6f?1756315886" target="_blank"
-                >Stats</a
-              >
+              <a href="https://podnews.net/podcast/i30o" target="_blank">Stats</a>
             </li>
           </ul>
         </div>

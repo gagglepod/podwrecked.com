@@ -2,61 +2,57 @@
   <section class="splash-block splash-block--dark">
     <div class="container">
       <header class="splash-summary__header">
-        <a href="https://podcastindex.org/podcast/6014487" target="_blank">
+        <a href="https://podcastindex.org/podcast/74900" target="_blank">
           <picture class="splash-summary__image">
-            <img
-              src="../assets/images/nes-v5-1400x1400.jpg"
-              alt="Not Easily Squished Showart"
-            />
+            <img src="../assets/images/hero3.png" alt="Podwrecked Showart" />
           </picture>
         </a>
-        <h2 class="splash-summary__heading">Not Easily Squished</h2>
-        <h3 class="splash-summary__subhead">In Podcasting: It's Survive or Die!</h3>
+        <!-- <h2 class="splash-summary__heading">PODWRECKED</h2> -->
+        <img
+          class="splash-logo"
+          src="../assets/images/podwrecked-title-100x714.png"
+          alt="PODWRECKED Logo"
+        />
+        <h3 class="splash-summary__subhead">Survive Your Show!</h3>
         <p class="splash-summary__text">
-          Why do podcasts fail? Because they are all built on easily squished concepts
-          that lack vision, direction, and planning. If you want your podcast to survive,
-          it demands real thought and structure that only comes with applying design
-          principles that are proven to work. Go beyond content creation and delivery by
-          following your host, Kyle M. Bondo, as he teaches you how you take your fragile
-          podcast idea and transform it into fierce audio concept that is
-          <em>Not Easily Squished!</em><br />Presented by
+          Podwrecked is dedicated to helping you survive your podcast. Join your hosts
+          Timothy Kimo Brien and Kyle M. Bondo as they navigate the uncharted dangers of
+          podcasting and guide you to safer harbors. What you learn will save your
+          podcast! What you learn will save your podcast! Presented by
           <span class="splash-link"
             ><a href="https://oncetold.com" target="_blank">Oncetold</a></span
           >.
         </p>
       </header>
       <article class="splash-summary__article">
-        <h3 class="splash-summary__subhead">
-          Listen to Ep.01 - I am Not Easily Squished
-        </h3>
+        <h3 class="splash-summary__subhead">Life is too short for bad podcasts!</h3>
+        <p class="splash-summary__text">Listen to Our Trailer</p>
         <audio
           class="splash-player"
           id="player"
           controls
           type="audio/mpeg"
-          src="https://op3.dev/e/media.oncetold.net/80000018/20800032/nes001-i-am-not-easily-squished.mp3"
+          src="https://op3.dev/e/media.oncetold.net/80000029/20800072/gagglepod-60sec-promo-trailer-06132019.mp3"
         >
           Your browser does not support the audio element.
         </audio>
         <h3 class="episode-details__follow">
-          <a href="https://pod.link/1504157398" target="_blank">Pod.Link</a>&nbsp;
-          <a href="https://podcastindex.org/podcast/6014487" target="_blank"
+          <a href="https://pod.link/1441480507" target="_blank">Pod.Link</a>&nbsp;
+          <a href="https://podcastindex.org/podcast/74900" target="_blank"
             >Podcast Index</a
+          >&nbsp; <a href="https://a.co/d/2htIH88" target="_blank">Amazon</a>&nbsp;
+          <a href="https://open.spotify.com/show/6VeboWkLgVdNiHaBvTcK0e" target="_blank"
+            >Spotify</a
           >&nbsp;
           <a
-            href="https://music.amazon.com/podcasts/eb115cc0-4248-435f-88d7-842d9f34a4be/not-easily-squished"
-            target="_blank"
-            >Amazon</a
-          >&nbsp;
-          <a
-            href="https://podcasts.apple.com/us/podcast/not-easily-squished/id1504157398"
+            href="https://podcasts.apple.com/us/podcast/podwrecked/id1441480507"
             target="_blank"
             >Apple Podcasts</a
           >&nbsp;
         </h3>
       </article>
       <article class="splash-summary__article">
-        <a href="https://pod.link/1504157398" target="_blank"
+        <a href="https://pod.link/1441480507" target="_blank"
           ><button class="btn btn--dino-skin btn--stretched">
             Listen to the Show
           </button></a
@@ -102,6 +98,11 @@ export default {
 .splash-block--dark h2,
 .splash-block--dark h3 {
   color: var(--color-headings);
+}
+
+.splash-logo {
+  width: 500px;
+  padding: 0.75rem 0 0.25rem 0;
 }
 
 .splash-summary__image {
