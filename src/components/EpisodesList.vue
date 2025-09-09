@@ -12,7 +12,7 @@
           <div class="episodes-item__content">
             <div class="episodes-item__content-left">
               <div class="articles-item__thumb">
-                <img :src="`/images/${episode.thumb}`" :alt="episode.title" />
+                <img :src="getImageUrl(episode.thumb)" :alt="episode.title" />
               </div>
             </div>
 
@@ -80,6 +80,11 @@ export default {
       error.value = err.message;
       console.error(error.value);
     }
+
+    // Function to resolve the correct image path
+    const getImageUrl = (fileName) => {
+      return new URL(`../assets/images/${fileName}`, import.meta.url).href;
+    };
 
     return {
       otSiteID,
