@@ -90,6 +90,7 @@ export default {
       otSiteID,
       episodes,
       error,
+      getImageUrl,
     };
   },
 };
